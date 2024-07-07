@@ -18,15 +18,6 @@ jobs:
       - name: GetTime
         run: echo "DATE=$(TZ='Asia/Shanghai' date +%Y-%m-%d\ %H:%M\ %Z)" >> $GITHUB_ENV
 
-      - name: 部署到公共仓库
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          personal_token: ${{ secrets.PUBLISH_DOCS }}
-          external_repository: vodtv/iptv-sources
-          publish_dir: ./dist
-          publish_branch: gh-pages
-          cname: iptv.vodtv.cn
-
       - name: 设置 Node.js
         uses: actions/setup-node@v4
         with:
@@ -45,10 +36,11 @@ jobs:
           NODE_OPTIONS: --max_old_space_size=8192
         run: pnpm tsup
 
-      - name: 提交更改
-        run: |
-          git config --local user.email "qq2236639958@outlook.com"
-          git config --local user.name "qq2236639958"
-          git add .
-          git commit -m "Update Source OF ${{ env.DATE}}"
-          git push -f
+      - name: 部署到公共仓库
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.PUBLISH_DOCS }}
+          external_repository: vodtv/iptv-sources
+          publish_dir: ./dist
+          publish_branch: gh-pages
+          cname: iptv.vodtv.cn
