@@ -40,6 +40,6 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           personal_token: ${{ secrets.PUBLISH_DOCS }}
-          external_repository: iptv-js/iptv
+          external_repository: iptv-js/iptv-js.github.io
           publish_dir: ./dist
           publish_branch: gh-pages
