@@ -1,0 +1,54 @@
+name: Build and Deploy Source
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0,8 * * *"
+env:
+  TZ: Asia/Shanghai
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: GetTime
+        run: echo "DATE=$(TZ='Asia/Shanghai' date +%Y-%m-%d\ %H:%M\ %Z)" >> $GITHUB_ENV
+
+      - name: 部署到公共仓库
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          personal_token: ${{ secrets.PUBLISH_DOCS }}
+          external_repository: vodtv/iptv-sources
+          publish_dir: ./dist
+          publish_branch: gh-pages
+          cname: iptv.vodtv.cn
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: 安装 pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 8
+
+      - name: 安装更新依赖
+        run: pnpm dlx vp-update
+
+      - name: 运行构建脚本
+        env:
+          NODE_OPTIONS: --max_old_space_size=8192
+        run: pnpm tsup
+
+      - name: 提交更改
+        run: |
+          git config --local user.email "qq2236639958@outlook.com"
+          git config --local user.name "qq2236639958"
+          git add .
+          git commit -m "Update Source OF ${{ env.DATE}}"
+          git push -f

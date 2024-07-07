@@ -1,0 +1,26 @@
+{
+  "name": "iptv",
+  "version": "3.4.5",
+  "type": "module",
+  "repository": "git@github.com:iptv-js/iptv.git",
+  "author": "HeFung <viptvx@gmail.com>",
+  "scripts": {
+    "tsup": "tsup && node ./dist/main.js"
+  },
+  "devDependencies": {
+    "@rollup/wasm-node": "^4.18.0",
+    "@types/node": "^20.14.9",
+    "@types/opencc-js": "^1.0.3",
+    "cross-env": "^7.0.3",
+    "nodemon": "^3.1.4",
+    "tsup": "^8.1.0",
+    "typescript": "^5.5.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "opencc-js": "^1.0.5"
+  },
+  "resolutions": {
+    "rollup": "npm:@rollup/wasm-node"
+  }
+}
