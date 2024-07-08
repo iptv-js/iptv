@@ -1,4 +1,4 @@
-## 🏠 主页
+# 🏠 IPTV.JS
 
 <div align="center">
 <img src="https://img.viptv.work/iptv/about-IPTV.jpg" height="200" />
