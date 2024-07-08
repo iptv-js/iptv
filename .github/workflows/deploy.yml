@@ -44,10 +44,16 @@ jobs:
           publish_dir: ./dist
           publish_branch: main
 
-      - name: Commit and push changes
+      - name: Clean
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add -A # 添加所有更改的文件
-          git commit -m "Sync and update iptv of $DATE " # 提交更改
-          git push # 推送到远程仓库
+          git checkout --orphan latest_branch
+          git add -A
+          git commit -am "$DATE"
+          git branch -D main
+          git branch -m main
+
+      - name: Push
+        run: git push -f origin main
+
