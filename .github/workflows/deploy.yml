@@ -34,8 +34,7 @@ jobs:
       - name: 运行构建脚本
         env:
           NODE_OPTIONS: --max_old_space_size=8192
-        run: pnpm tsup >> $GITHUB_OUTPUT
-        id: playlist-update
+        run: pnpm tsup
 
       - name: 部署到公共仓库
         uses: peaceiris/actions-gh-pages@v4
@@ -49,4 +48,4 @@ jobs:
         run: |
           git add dist
           git status
-          git commit --allow-empty -m "${{ steps.playlist-update.outputs.OUTPUT }}" --no-verify
+          git commit --allow-empty -m "${{ DATE }}" --no-verify
