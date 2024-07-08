@@ -36,6 +36,9 @@ jobs:
           NODE_OPTIONS: --max_old_space_size=8192
         run: pnpm tsup
 
+      - name: "Jekyll theme"
+        run: mv ./src/tmpl/_config.tmpl.yml ./dist/_config.yml
+
       - name: 部署到公共仓库
         uses: peaceiris/actions-gh-pages@v4
         with:
