@@ -46,6 +46,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          git config --local user.email "qq2236639958@outlook.com"
+          git config --local user.name "qq2236639958"
           git add -A # 添加所有更改的文件
           git commit -m "Sync and update iptv of $DATE " # 提交更改
           git push # 推送到远程仓库
