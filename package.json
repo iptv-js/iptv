@@ -1,5 +1,5 @@
 {
-  "name": "iptv",
+  "name": "iptv-js",
   "version": "3.4.5",
   "type": "module",
   "repository": "git@github.com:iptv-js/iptv.git",

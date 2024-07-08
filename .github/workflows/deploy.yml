@@ -4,7 +4,7 @@ on:
     branches: [main]
   workflow_dispatch:
   schedule:
-    - cron: "0 0,8 * * *"
+    - cron: "0 0 * * *"
 env:
   TZ: Asia/Shanghai
 jobs:
@@ -34,7 +34,8 @@ jobs:
       - name: 运行构建脚本
         env:
           NODE_OPTIONS: --max_old_space_size=8192
-        run: pnpm tsup
+        run: pnpm tsup >> $GITHUB_OUTPUT
+        id: playlist-update
 
       - name: 部署到公共仓库
         uses: peaceiris/actions-gh-pages@v4
@@ -42,4 +43,10 @@ jobs:
           personal_token: ${{ secrets.PUBLISH_DOCS }}
           external_repository: iptv-js/iptv-js.github.io
           publish_dir: ./dist
-          publish_branch: gh-pages
+          publish_branch: main
+
+      - name: commit changes to dist
+        run: |
+          git add dist
+          git status
+          git commit --allow-empty -m "${{ steps.playlist-update.outputs.OUTPUT }}" --no-verify
