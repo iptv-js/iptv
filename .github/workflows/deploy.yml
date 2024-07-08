@@ -46,14 +46,10 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            git add -A # 添加所有更改的文件
-            git commit -m "Sync and update iptv of $DATE " # 提交更改
-            git branch -D main
-            git branch -m main
-            git push # 推送到远程仓库
-          else
-            echo "No changes to commit"
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.PUBLISH_DOCS }} # 使用 GitHub 提供的令牌进行认证
+          git config --local user.email "28900094+HeFung@users.noreply.github.com"
+          git config --local user.name "HeFung"
+          git add -A # 添加所有更改的文件
+          git commit -m "Sync and update iptv of $DATE " # 提交更改
+          git branch -D main
+          git branch -m main
+          git push # 推送到远程仓库
