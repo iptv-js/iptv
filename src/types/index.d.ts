@@ -11,6 +11,7 @@ export interface ISource {
 export interface DSource {
   name: string;
   f_name: string;
+  idx?: string[];
   url: string;
 }
 

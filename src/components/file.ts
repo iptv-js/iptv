@@ -13,11 +13,11 @@ export const getContent = async (src: ISource | TEPGSource) => {
   return [res.ok, await res.text(), now];
 };
 
-export const writeM3u = (name: string, dist: string) => {
+export const writeM3u = (name: string, m3u: string) => {
   if (!fs.existsSync(path.join(path.resolve(), "dist"))) {
     fs.mkdirSync(path.join(path.resolve(), "dist"));
   }
-  fs.writeFileSync(path.join(path.resolve(), "dist", `${name}.m3u`), dist);
+  fs.writeFileSync(path.join(path.resolve(), "dist", `${name}.m3u`), m3u);
 };
 
 export const writeSources = (
@@ -91,11 +91,11 @@ export const writeEpgXML = (f_name: string, xml: string) => {
   fs.writeFileSync(path.resolve("dist", "epg", `${f_name}.xml`), xml);
 };
 
-export const writeMovieJson = (f_name: string, movie: string) => {
+export const writeMovieJson = (f_name: string, json: string) => {
   if (!fs.existsSync(path.join(path.resolve(), "dist", "movie"))) {
     fs.mkdirSync(path.join(path.resolve(), "dist", "movie"));
   }
-  fs.writeFileSync(path.resolve("dist", "movie", `${f_name}`), movie);
+  fs.writeFileSync(path.resolve("dist", "movie", `${f_name}`), json);
 };
 
 const cleanDir = (p: string) => {
@@ -111,8 +111,8 @@ const cleanDir = (p: string) => {
   }
 };
 
-const copyDir = (src, dest, callback) => {
-  const copy = (copySrc, copyDest) => {
+const copyDir = (src: string, dest: fs.PathLike, callback: { (): void; (arg0: NodeJS.ErrnoException): void; }) => {
+  const copy = (copySrc: any, copyDest: any) => {
     fs.readdir(copySrc, (err, list) => {
       if (err) {
         callback(err);
