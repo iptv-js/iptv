@@ -20,14 +20,14 @@
     "./package.json": "./package.json"
   },
   "bin": {
-    "iptv-js": "dist/index.js"
+    "iptv-js": "dist/main.js"
   },
   "files": [
     "dist"
   ],
   "scripts": {
     "tsup": "tsup && node ./dist/main.js",
-    "clean": "rimraf --glob ./lib ./*.tsbuildinfo"
+    "clean": "rimraf --glob ./dist ./*.tsbuildinfo"
   },
   "devDependencies": {
     "@rollup/wasm-node": "^4.18.1",
