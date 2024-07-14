@@ -1,4 +1,6 @@
-# 🏠 收集来自世界各地IPTV
+# 🏠 Iptv.js - The TypeScript Framework
+
+> 收集来自世界各地IPTV
 
 ## ❓ 如何使用
 
