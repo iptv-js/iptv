@@ -23,7 +23,7 @@
     "iptv-js": "dist/index.js"
   },
   "files": [
-    "lib"
+    "dist"
   ],
   "scripts": {
     "tsup": "tsup && node ./dist/main.js",
