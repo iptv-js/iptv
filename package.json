@@ -1,6 +1,6 @@
 {
   "name": "iptv-js",
-  "version": "3.4.7",
+  "version": "3.4.8",
   "type": "module",
   "repository": "git@github.com:iptv-js/iptv.git",
   "author": "HeFung <viptvx@gmail.com>",
