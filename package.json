@@ -26,7 +26,7 @@
     "dist"
   ],
   "scripts": {
-    "tsup": "tsup && node ./dist/main.js",
+    "build": "tsup && node ./dist/main.js",
     "clean": "rimraf --glob ./dist ./*.tsbuildinfo"
   },
   "devDependencies": {
