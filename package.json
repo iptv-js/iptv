@@ -26,8 +26,7 @@
     "lib"
   ],
   "scripts": {
-    "tsup": "tsup && node ./lib/main.js",
-    "clean": "rimraf --glob ./lib ./*.tsbuildinfo"
+    "tsup": "tsup && node ./lib/main.js"
   },
   "devDependencies": {
     "@types/node": "^20.14.10",
@@ -40,6 +39,11 @@
     "opencc-js": "^1.0.5"
   },
   "publishConfig": {
-    "access": "public"
+    "main": "lib/main.js",
+    "typings": "src/types/index.d.ts"
+  },
+  "packageManager": "pnpm@9.5.0",
+  "engines": {
+    "node": ">=20"
   }
 }
