@@ -1,11 +1,33 @@
 {
   "name": "iptv-js",
   "version": "3.4.8",
+  "keywords": [
+    "viptv",
+    "update"
+  ],
+  "homepage": "https://github.com/iptv-js",
+  "bugs": {
+    "url": "https://github.com/iptv-js/iptv/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Mr.HeFung",
+    "email": "qq2236639958@outlook.com",
+    "url": "https://iptv.vodtv.cn"
+  },
   "type": "module",
-  "repository": "git@github.com:iptv-js/iptv.git",
-  "author": "HeFung <viptvx@gmail.com>",
+  "exports": {
+    "./package.json": "./package.json"
+  },
+  "bin": {
+    "iptv-js": "lib/index.js"
+  },
+  "files": [
+    "lib"
+  ],
   "scripts": {
-    "tsup": "tsup && node ./dist/main.js"
+    "tsup": "tsup && node ./dist/main.js",
+    "clean": "rimraf --glob ./lib ./*.tsbuildinfo"
   },
   "devDependencies": {
     "@rollup/wasm-node": "^4.18.1",
