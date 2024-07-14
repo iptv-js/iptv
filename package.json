@@ -2,7 +2,7 @@
   "name": "iptv-js",
   "version": "3.4.16",
   "keywords": [
-    "viptv",
+    "iptv",
     "update"
   ],
   "homepage": "https://github.com/iptv-js",
@@ -26,15 +26,12 @@
     "lib"
   ],
   "scripts": {
-    "build": "tsup",
+    "tsup": "tsup && node ./lib/main.js",
     "clean": "rimraf --glob ./lib ./*.tsbuildinfo"
   },
   "devDependencies": {
-    "@rollup/wasm-node": "^4.18.1",
     "@types/node": "^20.14.10",
     "@types/opencc-js": "^1.0.3",
-    "cross-env": "^7.0.3",
-    "nodemon": "^3.1.4",
     "tsup": "^8.1.0",
     "typescript": "^5.5.3"
   },
@@ -42,7 +39,7 @@
     "dotenv": "^16.4.5",
     "opencc-js": "^1.0.5"
   },
-  "resolutions": {
-    "rollup": "npm:@rollup/wasm-node"
+  "publishConfig": {
+    "access": "public"
   }
 }

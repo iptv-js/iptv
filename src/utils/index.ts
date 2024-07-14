@@ -1,5 +1,3 @@
-import "dotenv/config";
-
 import type { TREADMEMirrorSitesMatrix, ISource } from "../types";
 
 import * as OpenCC from "opencc-js";
