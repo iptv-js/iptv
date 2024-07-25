@@ -28,13 +28,17 @@
     "lib"
   ],
   "scripts": {
-    "tsup": "tsup && node ./lib/main.js"
+    "tsup": "tsup && node ./lib/main.js",
+    "patch": "pnpm version patch",
+    "update": "pnpm dlx vt-update",
+    "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s"
   },
   "devDependencies": {
-    "@types/node": "^20.14.10",
+    "@types/node": "^20.14.12",
     "@types/opencc-js": "^1.0.3",
-    "tsup": "^8.1.0",
-    "typescript": "^5.5.3"
+    "conventional-changelog-cli": "^5.0.0",
+    "tsup": "^8.2.3",
+    "typescript": "^5.5.4"
   },
   "dependencies": {
     "dotenv": "^16.4.5",
