@@ -1,6 +1,6 @@
 # 🏠 Iptv.js - The TypeScript Framework
 
-> 收集来自世界各地IPTV
+> 收集来自世界各地 IPTV
 
 ## ❓ 如何使用
 
@@ -10,12 +10,14 @@
 
 | channel | url | list | count | isRollback |
 | ------- | --- | ---- | ----- | ---------- |
+
 {update_channels}
 
 ## 📚 EPG 节目单
 
 | epg | url | isRollback |
 | --- | --- | ---------- |
+
 {update_epgs}
 
 ## 🚀Github 文件加速
@@ -109,3 +111,15 @@ https://gist.gitmirror.com/dimitardanailov/6acdd54ab67d5a25c0229b2fe5bbb42b/raw/
 **所有直接或间接使用本仓库内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本仓库内容。如对本仓库内容的功能有需求，应自行开发相关功能**
 **您必须在下载后的 24 小时内从您以任何形式存放或使用本仓库内容的任何硬件/软件/介质中完全删除本仓库内容**
 **您以任何形式阅读/使用/复制/修改了本仓库内容，则视为已接受此免责声明，请仔细阅读**
+
+## 赞助者
+
+> 如果能留下你的称呼和备注就再好不过了，大于 6 元的我将会将其添加至 [赞助者列表](https://viptv.work/about/donate.html) 中。（没留的话，就默认使用可以看到的 ID 或者叫 `好心人` 了～）
+
+| 支付宝                                                                       | 微信赞赏                                                                      | QQ 支付                                                                      |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| <img width="250" src="https://img.viptv.work/viptv/alipay.png" alt="支付宝"> | <img width="250" src="https://img.viptv.work/viptv/wxpay.png" alt="微信赞赏"> | <img width="250" src="https://img.viptv.work/viptv/qqpay.png" alt="QQ 支付"> |
+
+- 官网：[viptv](https://viptv.work/about/donate.html)
+- 爱发电：[viptv](https://afdian.com/viptv)
+- PayPal: [HeFung](https://paypal.me/hefung)
