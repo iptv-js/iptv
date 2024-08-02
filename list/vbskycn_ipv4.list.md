@@ -51,35 +51,35 @@
 | 43 | 深圳卫视 | IPv4 直链 | <http://113.13.177.27:5678/udp/239.81.0.103:4056> |
 | 44 | 四川卫视 | IPv4 直链 | <http://113.13.177.27:5678/udp/239.81.0.130:4056> |
 | 45 | 天津卫视 | IPv4 直链 | <http://113.13.177.27:5678/udp/239.81.0.113:4056> |
-| 46 | 延边卫视 | 延边广播电视台 | <http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8> |
-| 47 | 云南卫视 | IPv4 直链 | <http://122.247.120.120:9999/udp/233.50.200.115:5140> |
-| 48 | 浙江卫视 | IPv4 直链 | <http://113.13.177.27:5678/udp/239.81.0.108:4056> |
-| 49 | 重庆卫视 | IPv4 直链 | <http://27.9.90.149:8002/udp/225.0.4.187:7980> |
-| 50 | 大湾区卫视 | IPv4 直链 | <http://113.89.244.85:4200/udp/239.77.0.215:5146> |
-| 51 | 黑龙江卫视 | IPv4 直链 | <http://113.13.177.27:5678/udp/239.81.0.105:4056> |
-| 52 | 嘉佳卡通 | IPv4 直链 | <http://113.89.244.85:4200/udp/239.77.0.179:5146> |
-| 53 | 浙江少儿 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8> |
-| 54 | 全纪实 | IPv4 直链 | <http://222.68.44.13:9988/udp/239.45.3.135:5140> |
-| 55 | 游戏风云 | IPv4 直链 | <http://222.68.44.13:9988/udp/239.45.3.131:5140> |
-| 56 | 五星体育 | IPv4 直链 | <http://222.68.44.13:9988/udp/239.45.3.210:5140> |
-| 57 | 纪实人文 | IPv4 直链 | <http://110.178.52.143:8082/udp/239.1.1.45:8045> |
-| 58 | 浙江公共新闻 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8> |
-| 59 | 浙江国际 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8> |
-| 60 | 浙江教科影视 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8> |
-| 61 | 之江纪录 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8> |
-| 62 | 浙江民生休闲 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8> |
-| 63 | 浙江经视 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8> |
-| 64 | 浙江钱江都市 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8> |
-| 65 | 凤凰中文 | IPv4 直链 | <http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8> |
-| 66 | 凤凰资讯 | IPv4 直链 | <http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8> |
-| 67 | 凤凰香港 | IPv4 直链 | <http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8> |
-| 68 | 香港卫视 | zhibo.hkstv.tv | <http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8> |
-| 69 | 明珠台 | bziyunshao.synology.me:8890 | <http://bziyunshao.synology.me:8890/bysid/2> |
-| 70 | 大爱1台 | pulltv1.wanfudaluye.com | <https://pulltv1.wanfudaluye.com/live/tv1.m3u8> |
-| 71 | 大爱2台 | pulltv2.wanfudaluye.com | <https://pulltv2.wanfudaluye.com/live/tv2.m3u8> |
-| 72 | 民视新闻 | IPv4 直链 | <http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8> |
+| 46 | 云南卫视 | IPv4 直链 | <http://122.247.120.120:9999/udp/233.50.200.115:5140> |
+| 47 | 浙江卫视 | IPv4 直链 | <http://113.13.177.27:5678/udp/239.81.0.108:4056> |
+| 48 | 重庆卫视 | IPv4 直链 | <http://27.9.90.149:8002/udp/225.0.4.187:7980> |
+| 49 | 大湾区卫视 | IPv4 直链 | <http://113.89.244.85:4200/udp/239.77.0.215:5146> |
+| 50 | 黑龙江卫视 | IPv4 直链 | <http://113.13.177.27:5678/udp/239.81.0.105:4056> |
+| 51 | 嘉佳卡通 | IPv4 直链 | <http://113.89.244.85:4200/udp/239.77.0.179:5146> |
+| 52 | 浙江少儿 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8> |
+| 53 | 全纪实 | IPv4 直链 | <http://222.68.44.13:9988/udp/239.45.3.135:5140> |
+| 54 | 游戏风云 | IPv4 直链 | <http://222.68.44.13:9988/udp/239.45.3.131:5140> |
+| 55 | 五星体育 | IPv4 直链 | <http://222.68.44.13:9988/udp/239.45.3.210:5140> |
+| 56 | 纪实人文 | IPv4 直链 | <http://110.178.52.143:8082/udp/239.1.1.45:8045> |
+| 57 | 浙江公共新闻 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8> |
+| 58 | 浙江国际 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8> |
+| 59 | 浙江教科影视 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8> |
+| 60 | 之江纪录 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8> |
+| 61 | 浙江民生休闲 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8> |
+| 62 | 浙江经视 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8> |
+| 63 | 浙江钱江都市 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8> |
+| 64 | 凤凰中文 | IPv4 直链 | <http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8> |
+| 65 | 凤凰资讯 | IPv4 直链 | <http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8> |
+| 66 | 凤凰香港 | IPv4 直链 | <http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8> |
+| 67 | 香港卫视 | zhibo.hkstv.tv | <http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8> |
+| 68 | 明珠台 | bziyunshao.synology.me:8890 | <http://bziyunshao.synology.me:8890/bysid/2> |
+| 69 | 大爱1台 | pulltv1.wanfudaluye.com | <https://pulltv1.wanfudaluye.com/live/tv1.m3u8> |
+| 70 | 大爱2台 | pulltv2.wanfudaluye.com | <https://pulltv2.wanfudaluye.com/live/tv2.m3u8> |
+| 71 | 民视新闻 | IPv4 直链 | <http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8> |
+| 72 | 澳视澳门 | IPv4 直链 | <http://183.237.246.14:9931/tsfile/live/1039_1.m3u8> |
 
-Updated at **8/2/2024 2:20:54 PM**
+Updated at **8/2/2024 8:55:49 PM**
 
 ## 使用说明
 

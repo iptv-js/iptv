@@ -425,7 +425,7 @@
 | 417 | CGTN西语 | CGTN | <https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8> |
 | 418 | CGTN阿语 | CGTN | <https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8> |
 
-Updated at **8/2/2024 2:20:54 PM**
+Updated at **8/2/2024 8:55:49 PM**
 
 ## 使用说明
 
