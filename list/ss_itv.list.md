@@ -589,7 +589,7 @@
 | 581 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 582 | 齐鲁 | IPv4 直链 | <http://119.164.84.109:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **8/2/2024 9:04:11 AM**
+Updated at **8/2/2024 2:20:54 PM**
 
 ## 使用说明
 
