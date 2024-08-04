@@ -61,7 +61,7 @@
 | 53 | 大爱2台 | pulltv2.wanfudaluye.com | <https://pulltv2.wanfudaluye.com/live/tv2.m3u8> |
 | 54 | 民视新闻 | IPv4 直链 | <http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8> |
 
-Updated at **8/4/2024 4:35:17 AM**
+Updated at **8/4/2024 9:09:25 AM**
 
 ## 使用说明
 
