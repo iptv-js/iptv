@@ -17,20 +17,20 @@
 | 9 | [BD]discovery channel | stream1.freetv.fun | <https://stream1.freetv.fun/cc9401821b6012a3da7e68a57be59ae14f4dc3c511c0101df5aadfa76284b313.m3u8> |
 | 10 | [BD]discovery hd world | stream1.freetv.fun | <https://stream1.freetv.fun/d476259f960b090099ac5b0617a17de7d827b7225ba978cebec1b338730b64e6.m3u8> |
 | 11 | [BD]discovery east | stream1.freetv.fun | <https://stream1.freetv.fun/21bc6fc8b394ab3ca60cfa793c4acef84154900498bf749c5ae0f5dce2f66dce.ctv> |
-| 12 | [SD]kttv3 | stream1.freetv.fun | <https://stream1.freetv.fun/cb51ce37e35060ae05fb6978c3c86595068860e8636418b75eebe99495307e43.ctv> |
+| 12 | [HD]ttv | stream1.freetv.fun | <https://stream1.freetv.fun/b0cb10857e5b0bddf8b6a8ca75d36a29563d15c644f1176528d85181687d7df2.m3u8> |
 | 13 | [VGA]tv turfe | stream1.freetv.fun | <https://stream1.freetv.fun/482dde6f9ded0ba74b5f8c6a37ee833e248384c9b035219de51eff3de2c6a853.m3u8> |
 | 14 | [HD]eleven sports 1 pl | stream1.freetv.fun | <https://stream1.freetv.fun/0cd7da9871e44f56495cd1459d1fbabc2cd969cbff464543dc8bfe00f329033d.ctv> |
 | 15 | [HD]eleven sports 2 pl | stream1.freetv.fun | <https://stream1.freetv.fun/2b642c5a32dbee3c901aa7bea373b1953d472a0bea38a3adc76077209cfbd37a.ctv> |
 | 16 | [HD]eleven sports 3 | stream1.freetv.fun | <https://stream1.freetv.fun/ae44bb69fe3de6ce88639afd4634b97b235718f8e95193e3494bc97fc41f6c8f.ctv> |
 | 17 | [VGA]food | stream1.freetv.fun | <https://stream1.freetv.fun/40eb2114bfbf6573d78f3c3df7cd6ee56bb46d9daa8db960d572a901b09e0bd6.m3u8> |
 | 18 | [HD]global trekker-cdn6 | stream1.freetv.fun | <https://stream1.freetv.fun/752f272be46e913e470b2d0ad6dd56853a88b5fa704ae831b0217f52d83de826.m3u8> |
-| 19 | [BD]hollywood classics | stream1.freetv.fun | <https://stream1.freetv.fun/0b7b43f22318768ae441ed3a4db8ae15bb12e2d8818cd19522be6a87352b2464.m3u8> |
+| 19 | [BD]young hollywood | stream1.freetv.fun | <https://stream1.freetv.fun/2623573622b9232eff66b6394bddba85eeaa306d9d7a162d421932d259d06a6c.m3u8> |
 | 20 | [HD]love nature | stream1.freetv.fun | <https://stream1.freetv.fun/b395444e812c106932e74d89abc6636d90a79f67be3f729b0c11926e452a485c.m3u8> |
 | 21 | [HD]momo综合 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv761> |
 | 22 | [SD]natgeo japan | stream1.freetv.fun | <https://stream1.freetv.fun/d46e743c8a4b7a0251c7df036f0969c69258d6277c9b661c410762fd7a923791.m3u8> |
 | 23 | [BD]pet club tv | stream1.freetv.fun | <https://stream1.freetv.fun/b3dba2bf19d632d892e3eafc0bb6065cd219f3b73ef17ed90c9db9d992659e38.m3u8> |
 | 24 | [BD]smithsonian channel | stream1.freetv.fun | <https://stream1.freetv.fun/b1553b81be58e6846203539f162b4b40c0cc53697d897d9388b42fa7f43f8cae.ctv> |
-| 25 | [BD]tvbs | stream1.freetv.fun | <https://stream1.freetv.fun/8367c93681f2d6627b3575b8919e7df4a246630f0640fbf2ccb3f1aa0ff740a4.m3u8> |
+| 25 | [VGA]tvbs | stream1.freetv.fun | <https://stream1.freetv.fun/5ff69e6b2e5eea60dcf5154d7548e6180b5afa05f43fe358ab4084f11eaadf34.m3u8> |
 | 26 | [HD]TVBS ASIA | stream1.freetv.fun | <https://stream1.freetv.fun/ef79412fd444aa7ed0352c78dc157a4fab106dd8f6a33a101a79e569908560dc.ctv> |
 | 27 | [BD]tvbs | stream1.freetv.fun | <https://stream1.freetv.fun/1f12cb14745f743ccca1433e22f418c19224a0d4610c6edce055b0fa399b8b6a.ctv> |
 | 28 | [BD]tvbs欢乐 | stream1.freetv.fun | <https://stream1.freetv.fun/bddb60f3ed16f8742e1193ec7ec4e1f3ff85d6d04dfc8a55a49174401788ca5b.ctv> |
@@ -83,7 +83,7 @@
 | 75 | [HD]非凡新闻 | f13h.mine.nu | <rtmp://f13h.mine.nu/sat/tv581> |
 | 76 | [BD]龙祥电影 | stream1.freetv.fun | <https://stream1.freetv.fun/8e9e5cb24c50e6f6c340ada5657e9d1099b9686d1ad10e5c41986ca5e504cc47.m3u8> |
 
-Updated at **8/4/2024 9:09:25 AM**
+Updated at **8/5/2024 9:06:25 AM**
 
 ## 使用说明
 

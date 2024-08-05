@@ -538,7 +538,7 @@
 | 530 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 531 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **8/4/2024 9:09:25 AM**
+Updated at **8/5/2024 9:06:25 AM**
 
 ## 使用说明
 
