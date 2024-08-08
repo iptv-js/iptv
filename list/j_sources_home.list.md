@@ -136,7 +136,7 @@
 | 128 | CETV1中国教育电视台一套 | mobilelive-ds.ysp.cctv.cn | <http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8> |
 | 129 | CETV1中国教育电视台一套 | mobilelive-ds.ysp.cctv.cn | <http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801_fhd.m3u8> |
 
-Updated at **8/7/2024 9:05:26 AM**
+Updated at **8/8/2024 9:05:05 AM**
 
 ## 使用说明
 
