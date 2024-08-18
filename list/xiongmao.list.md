@@ -27,7 +27,7 @@
 | 19 | iPanda 19 | gcwbndks.v.kcdnvip.com | <https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao19_2/index.m3u8> |
 | 20 | iPanda 20 | gcwbndks.v.kcdnvip.com | <https://gcwbndks.v.kcdnvip.com/gcwbnd/xiongmao20_2/index.m3u8> |
 
-Updated at **8/18/2024 2:15:56 PM**
+Updated at **8/18/2024 2:24:49 PM**
 
 ## 使用说明
 

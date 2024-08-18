@@ -91,7 +91,7 @@
 | 83 | [BD]龙祥电影 | stream1.freetv.fun | <https://stream1.freetv.fun/8e9e5cb24c50e6f6c340ada5657e9d1099b9686d1ad10e5c41986ca5e504cc47.m3u8> |
 | 84 | [HD]龙华戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/8bc70377663b51d2267fc2374501866b88defb91f1e8bfac5f06fc4460d9e088.m3u8> |
 
-Updated at **8/18/2024 2:15:56 PM**
+Updated at **8/18/2024 2:24:49 PM**
 
 ## 使用说明
 

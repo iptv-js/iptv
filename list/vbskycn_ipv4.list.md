@@ -41,7 +41,7 @@
 | 33 | 民视新闻 | IPv4 直链 | <http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8> |
 | 34 | 澳视澳门 | IPv4 直链 | <http://183.237.246.14:9931/tsfile/live/1039_1.m3u8> |
 
-Updated at **8/18/2024 2:15:56 PM**
+Updated at **8/18/2024 2:24:49 PM**
 
 ## 使用说明
 
