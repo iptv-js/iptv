@@ -6,18 +6,18 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | CCTV4k | IPv4 直链 | <http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8> |
-| 2 | CGTN | 0472.org | <https://0472.org/hls/cgtn.m3u8> |
-| 3 | CGTN俄语 | 0472.org | <https://0472.org/hls/cgtne.m3u8> |
-| 4 | CGTN法语 | 0472.org | <https://0472.org/hls/cgtnf.m3u8> |
-| 5 | CGTN纪录 | 0472.org | <https://0472.org/hls/cgtnd.m3u8> |
-| 6 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
-| 7 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
-| 8 | CHC影迷电影 | pi.0472.org | <https://pi.0472.org/chc/ym.m3u8> |
+| 1 | CGTN | 0472.org | <https://0472.org/hls/cgtn.m3u8> |
+| 2 | CGTN俄语 | 0472.org | <https://0472.org/hls/cgtne.m3u8> |
+| 3 | CGTN法语 | 0472.org | <https://0472.org/hls/cgtnf.m3u8> |
+| 4 | CGTN纪录 | 0472.org | <https://0472.org/hls/cgtnd.m3u8> |
+| 5 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
+| 6 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
+| 7 | CHC动作电影 | pi.0472.org | <https://pi.0472.org/chc/dz.m3u8> |
+| 8 | CHC家庭影院 | pi.0472.org | <https://pi.0472.org/chc/jt.m3u8> |
 | 9 | 兵团卫视 | mobilelive-timeshift.ysp.cctv.cn | <http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202> |
 | 10 | 山西卫视 | liveflash.sxrtv.com | <http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true> |
 | 11 | 延边卫视 | 延边广播电视台 | <http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8> |
-| 12 | 云南卫视 | IPv4 直链 | <http://115.222.143.106:8808/udp/233.50.200.115:5140> |
+| 12 | 云南卫视 | IPv4 直链 | <http://60.184.42.121:8881/udp/233.50.200.115:5140> |
 | 13 | 内蒙古卫视 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880> |
 | 14 | 浙江少儿 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8> |
 | 15 | 游戏风云 | IPv4 直链 | <http://60.184.42.121:8881/udp/233.50.200.14:5140> |
@@ -43,8 +43,9 @@
 | 35 | 大爱1台 | pulltv1.wanfudaluye.com | <https://pulltv1.wanfudaluye.com/live/tv1.m3u8> |
 | 36 | 大爱2台 | pulltv2.wanfudaluye.com | <https://pulltv2.wanfudaluye.com/live/tv2.m3u8> |
 | 37 | 民视新闻 | IPv4 直链 | <http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8> |
+| 38 | 澳视澳门 | IPv4 直链 | <http://183.237.246.14:9931/tsfile/live/1039_1.m3u8> |
 
-Updated at **8/18/2024 6:16:50 PM**
+Updated at **8/19/2024 9:06:10 AM**
 
 ## 使用说明
 
