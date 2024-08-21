@@ -1,4 +1,4 @@
-# List for **epg.pw 全部**
+# List for **epg.pw ipv6**
 
 > M3U: [ew_all.m3u](./ew_all.m3u ), TXT: [ew_all.txt](./txt/ew_all.txt )
 
@@ -100,7 +100,7 @@
 | 92 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/0d44ee99e0aebb0bdb18de41c7c8923f18473f638ed0eb4139d665cd5e3d2a15.m3u8> |
 | 93 | [BD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **8/20/2024 9:05:03 AM**
+Updated at **8/21/2024 9:05:05 AM**
 
 ## 使用说明
 
