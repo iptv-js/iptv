@@ -436,7 +436,7 @@
 | 428 | CGTN西语 | hlslive-tx-cdn.ysp.cctv.cn | <http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024182103.m3u8> |
 | 429 | CGTN阿语 | hlslive-tx-cdn.ysp.cctv.cn | <http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024182003.m3u8> |
 
-Updated at **8/22/2024 9:06:39 AM**
+Updated at **8/23/2024 9:05:39 AM**
 
 ## 使用说明
 
