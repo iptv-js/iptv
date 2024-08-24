@@ -587,7 +587,7 @@
 | 579 | 黑龙江 | IPv4 直链 | <http://123.189.36.155:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 580 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **8/23/2024 9:05:39 AM**
+Updated at **8/24/2024 9:04:17 AM**
 
 ## 使用说明
 

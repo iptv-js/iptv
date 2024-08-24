@@ -637,7 +637,7 @@
 | 629 | CGTN阿语 | CGTN | <https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8> |
 | 630 | CGTN阿语 | CGTN | <https://livear.cgtn.com/1000a/prog_index.m3u8> |
 
-Updated at **8/23/2024 9:05:39 AM**
+Updated at **8/24/2024 9:04:17 AM**
 
 ## 使用说明
 
