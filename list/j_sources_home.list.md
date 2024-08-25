@@ -177,7 +177,7 @@
 | 169 | CETV1中国教育电视台一套 | mobilelive-ds.ysp.cctv.cn | <http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8> |
 | 170 | CETV1中国教育电视台一套 | mobilelive-ds.ysp.cctv.cn | <http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801_fhd.m3u8> |
 
-Updated at **8/24/2024 10:05:00 AM**
+Updated at **8/25/2024 9:11:04 AM**
 
 ## 使用说明
 
