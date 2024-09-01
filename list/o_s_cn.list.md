@@ -11,7 +11,7 @@
 | 3 | Beijing Youth Radio | audiolive.rbc.cn:1935 | <http://audiolive.rbc.cn:1935/live/am927/96K/tzwj_video.m3u8> |
 | 4 | Bread TV面包台 (720p) | video.bread-tv.com:8091 | <https://video.bread-tv.com:8091/hls-live24/online/index.m3u8> |
 | 5 | BRTV Kaku Childrens Channel | IPv4 直链 | <http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8> |
-| 6 | CCTV1 (1080p) | 咪咕 | <http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=reallive-hdcctv1&livemode=1&stbId=3> |
+| 6 | CCTV1 (1080p) | 咪咕 | <http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3> |
 | 7 | CCTV2 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.102:10250> |
 | 8 | CCTV3 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.122:10370> |
 | 9 | CCTV4 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.138:10466> |
@@ -20,28 +20,28 @@
 | 12 | CCTV6 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.124:10382> |
 | 13 | CCTV7 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.103:10256> |
 | 14 | CCTV8 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.125:10388> |
-| 15 | CCTV TV Guide (576p) | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ.m3u8?p=GITV> |
-| 16 | CCTV9 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.104:10262> |
-| 17 | CCTV10 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.105:10268> |
-| 18 | CCTV11 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.154:10560> |
-| 19 | CCTV12 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.106:10274> |
-| 20 | CCTV13 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.254.96.161:9040> |
-| 21 | CCTV14 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.107:10280> |
-| 22 | CCTV15 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.155:10566> |
+| 15 | CCTV9 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.104:10262> |
+| 16 | CCTV10 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.105:10268> |
+| 17 | CCTV11 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.154:10560> |
+| 18 | CCTV12 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.106:10274> |
+| 19 | CCTV13 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.254.96.161:9040> |
+| 20 | CCTV14 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.107:10280> |
+| 21 | CCTV15 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.155:10566> |
+| 22 | CCTV15音乐 | hwrr.jx.chinamobile.com:8080 | <http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8> |
 | 23 | CCTV16 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.247:11124> |
 | 24 | CCTV16-4K (2160p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.249:11136> |
 | 25 | CCTV17 (1080p) | bl.dchwtq.asia:10000 | <http://bl.dchwtq.asia:10000/rtp/239.69.1.152:10548> |
-| 26 | CCTV15音乐 | hwrr.jx.chinamobile.com:8080 | <http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8> |
-| 27 | CCTV 兵器科技 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8?p=GITV> |
-| 28 | CCTV 高尔夫网球 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8?p=GITV> |
-| 29 | CCTV 央视精品 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ.m3u8?p=GITV> |
-| 30 | CCTV 第一剧场 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8?p=GITV> |
-| 31 | CCTV 风云足球 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?p=GITV> |
-| 32 | CCTV 风云剧场 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m3u8?p=GITV> |
-| 33 | CCTV 风云音乐 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8?p=GITV> |
-| 34 | CCTV 女性时尚 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_NVXINGSS-CQ/G_NVXINGSS-CQ.m3u8?p=GITV> |
-| 35 | CCTV 世界地理 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ.m3u8?p=GITV> |
-| 36 | CCTV 央视台球 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8?p=GITV> |
+| 26 | CCTV TV Guide (576p) | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_DIANSHIZN-CQ/G_DIANSHIZN-CQ.m3u8?p=GITV> |
+| 27 | CCTV 世界地理 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_SHIJIEDL-CQ/G_SHIJIEDL-CQ.m3u8?p=GITV> |
+| 28 | CCTV 兵器科技 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_BINGQIKJ-CQ/G_BINGQIKJ-CQ.m3u8?p=GITV> |
+| 29 | CCTV 央视台球 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8?p=GITV> |
+| 30 | CCTV 央视精品 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_CCTV-WENHUA-CQ/G_CCTV-WENHUA-CQ.m3u8?p=GITV> |
+| 31 | CCTV 女性时尚 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_NVXINGSS-CQ/G_NVXINGSS-CQ.m3u8?p=GITV> |
+| 32 | CCTV 第一剧场 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_DIYIJC-CQ/G_DIYIJC-CQ.m3u8?p=GITV> |
+| 33 | CCTV 风云剧场 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_FENGYUNJC-CQ/G_FENGYUNJC-CQ.m3u8?p=GITV> |
+| 34 | CCTV 风云足球 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?p=GITV> |
+| 35 | CCTV 风云音乐 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_FENGYUNYY-CQ/G_FENGYUNYY-CQ.m3u8?p=GITV> |
+| 36 | CCTV 高尔夫网球 | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8?p=GITV> |
 | 37 | CETV1 (576p) | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_CETV-1/G_CETV-1.m3u8?p=GITV> |
 | 38 | CETV2 (576p) | IPv4 直链 | <http://117.161.133.51:81/gitv_live/G_CETV-2/G_CETV-2.m3u8?p=GITV> |
 | 39 | CNC中文 (720p) [Not 24/7] | source07.v.news.cn | <http://source07.v.news.cn/live/CNC_CN/playlist.m3u8> |
@@ -299,7 +299,7 @@
 | 291 | 浙江 Ⅰ 浙江经济 (720p) [Not 24/7] | 浙江广播电视集团 | <https://hw-m-l.cztv.com/channels/lantian/channel03/720p.m3u8> |
 | 292 | 浙江 Ⅰ 绍兴影视 (720p) | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8> |
 | 293 | 浙江 Ⅰ 绍兴综合 (576p) | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8> |
-| 294 | 浙江公共 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://qiniup-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8> |
+| 294 | 浙江公共 (1080p) [Not 24/7] | 浙江广播电视集团 | <https://ct-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8> |
 | 295 | 浙江卫视 (1080p) | IPv4 直链 | <http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8> |
 | 296 | 浙江影视 (720p) | 浙江广播电视集团 | <https://qiniup-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8> |
 | 297 | 浙江教科 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8> |
@@ -469,7 +469,7 @@
 | 461 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 462 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **8/31/2024 11:11:57 AM**
+Updated at **9/1/2024 9:18:45 AM**
 
 ## 使用说明
 

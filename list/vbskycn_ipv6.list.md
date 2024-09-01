@@ -148,7 +148,7 @@
 | 140 | 凤凰资讯 | IPv4 直链 | <http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8> |
 | 141 | 凤凰香港 | IPv4 直链 | <http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8> |
 
-Updated at **8/31/2024 11:11:57 AM**
+Updated at **9/1/2024 9:18:45 AM**
 
 ## 使用说明
 
