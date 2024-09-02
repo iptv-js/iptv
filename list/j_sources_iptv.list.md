@@ -604,7 +604,7 @@
 | 596 | CGTN阿语 | CGTN | <https://livear.cgtn.com/500a/prog_index.m3u8> |
 | 597 | CGTN阿语 | CGTN | <https://livear.cgtn.com/1000a/prog_index.m3u8> |
 
-Updated at **9/1/2024 3:22:07 PM**
+Updated at **9/2/2024 9:09:42 AM**
 
 ## 使用说明
 

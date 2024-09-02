@@ -469,7 +469,7 @@
 | 461 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 462 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **9/1/2024 3:22:07 PM**
+Updated at **9/2/2024 9:09:42 AM**
 
 ## 使用说明
 
