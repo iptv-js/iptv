@@ -14,9 +14,10 @@
 | 6 | [HD]澳门体育 | stream1.freetv.fun | <https://stream1.freetv.fun/9aef8e8f1c01b226c1f385bd2dc68af304041a908154aa383914763a3634011a.m3u8> |
 | 7 | [HD]澳门MACAU | stream1.freetv.fun | <https://stream1.freetv.fun/cddca3be72e1752fa1a211f70007dbf09875073ea2b9ddeb83b2b804a36209d4.m3u8> |
 | 8 | [HD]澳门莲花 | stream1.freetv.fun | <https://stream1.freetv.fun/ef92d2e8e8ecfcd85fb8a0aa005e0080a4b0437cfdaf9a8849407111f971b5fb.m3u8> |
-| 9 | [HD]澳门资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/de4df17b6bdb5a7ef154d3ebc63b99ed5bb674f249bcf64c88cedc91aa53f0c1.m3u8> |
+| 9 | [HD]澳门卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/5f07c175a9cd7c18a43ed354299f4f4a719146f53cc3cd08ca2a9242f00e6d5e.m3u8> |
+| 10 | [HD]澳门资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/de4df17b6bdb5a7ef154d3ebc63b99ed5bb674f249bcf64c88cedc91aa53f0c1.m3u8> |
 
-Updated at **9/2/2024 9:09:42 AM**
+Updated at **9/3/2024 9:07:35 AM**
 
 ## 使用说明
 

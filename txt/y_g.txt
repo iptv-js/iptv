@@ -78,15 +78,15 @@ NewTV_精品记录「IPV6」,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamob
 咪咕直播_𝟚「IPV6」,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕直播_𝟛「IPV6」,http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 咪咕直播_𝟜「IPV6」,http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-BesTV_𝟙「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV_𝟚「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV_𝟛「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV_𝟜「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV_𝟝「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV_𝟞「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-BesTV_𝟟「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV_𝟙「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000024/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000024&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV_𝟚「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000025/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000025&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV_𝟛「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000026/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000026&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV_𝟜「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000027/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000027&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV_𝟝「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000028/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000028&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV_𝟞「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000029/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000029&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+BesTV_𝟟「IPV6」,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000030/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000030&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
-•游戏赛事,#genre#
+•游戏「赛事」,#genre#
 「B站」CS_2,http://live.iill.top/bilibili.php?id=21622811
 「B站」英雄联盟,http://live.iill.top/bilibili.php?id=6
 「虎牙」英雄联盟_𝟙,http://live.iill.top/huya.php?id=660000
@@ -140,7 +140,7 @@ BesTV_𝟟「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002
 「斗鱼」跑跑卡丁车,http://live.iill.top/douyu.php?id=7722576
 「斗鱼」跑跑卡丁车•手游,http://live.iill.top/douyu.php?id=6672862
 
-•埋堆堆,#genre#
+•埋堆「轮播」,#genre#
 埋堆堆_𝟙,http://live.iill.top/huya.php?id=23740156
 埋堆堆_𝟚,http://live.iill.top/huya.php?id=23749096
 埋堆堆_𝟛,http://live.iill.top/huya.php?id=23735126
@@ -168,7 +168,7 @@ BesTV_𝟟「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002
 埋堆堆_𝟚𝟝,http://live.iill.top/huya.php?id=23734256
 埋堆堆_𝟚𝟞,http://live.iill.top/huya.php?id=23749083
 
-•影视,#genre#
+•影视「轮播」,#genre#
 音乐石榴「音乐」,http://live.iill.top/huya.php?id=17091681
 音乐速递「音乐」,http://live.iill.top/huya.php?id=19439762
 治愈•放松「音乐」,http://live.iill.top/huya.php?id=21241811
