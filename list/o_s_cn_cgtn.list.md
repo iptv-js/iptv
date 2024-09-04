@@ -13,7 +13,7 @@
 | 5 | CGTN Français (576p) [Not 24/7] | CGTN | <https://news.cgtn.com/resource/live/french/cgtn-f.m3u8> |
 | 6 | CGTN Русский (576p) | CGTN | <https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8> |
 
-Updated at **9/3/2024 9:07:35 AM**
+Updated at **9/4/2024 9:08:25 AM**
 
 ## 使用说明
 
