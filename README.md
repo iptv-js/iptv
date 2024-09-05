@@ -15,7 +15,7 @@
 | adultiptv.net | [adultiptv_all.m3u](./adultiptv_all.m3u ) <br> [adultiptv_all.txt](./txt/adultiptv_all.txt ) | [List for adultiptv.net](./list/adultiptv_all.list ) | 25 | - |
 | vbskycn/iptv | [vbskycn_ipv4.m3u](./vbskycn_ipv4.m3u ) <br> [vbskycn_ipv4.txt](./txt/vbskycn_ipv4.txt ) | [List for vbskycn/iptv](./list/vbskycn_ipv4.list ) | 1456 | - |
 | vbskycn/iptv | [vbskycn_ipv6.m3u](./vbskycn_ipv6.m3u ) <br> [vbskycn_ipv6.txt](./txt/vbskycn_ipv6.txt ) | [List for vbskycn/iptv](./list/vbskycn_ipv6.list ) | 141 | - |
-| hujingguang/ChinaIPTV | [hujingguang_cnTV_AutoUpdate.m3u](./hujingguang_cnTV_AutoUpdate.m3u ) <br> [hujingguang_cnTV_AutoUpdate.txt](./txt/hujingguang_cnTV_AutoUpdate.txt ) | [List for hujingguang/ChinaIPTV](./list/hujingguang_cnTV_AutoUpdate.list ) | 90 | - |
+| hujingguang/ChinaIPTV | [hujingguang_cnTV_AutoUpdate.m3u](./hujingguang_cnTV_AutoUpdate.m3u ) <br> [hujingguang_cnTV_AutoUpdate.txt](./txt/hujingguang_cnTV_AutoUpdate.txt ) | [List for hujingguang/ChinaIPTV](./list/hujingguang_cnTV_AutoUpdate.list ) | 89 | - |
 | fanmingming/live demo | [fmml_demo.m3u](./fmml_demo.m3u ) <br> [fmml_demo.txt](./txt/fmml_demo.txt ) | [List for fanmingming/live demo](./list/fmml_demo.list ) | 0 | - |
 | fanmingming/live ipv6 | [fmml_ipv6.m3u](./fmml_ipv6.m3u ) <br> [fmml_ipv6.txt](./txt/fmml_ipv6.txt ) | [List for fanmingming/live ipv6](./list/fmml_ipv6.list ) | 143 | - |
 | fanmingming/live ipv6plus | [fmml_ipv6plus.m3u](./fmml_ipv6plus.m3u ) <br> [fmml_ipv6plus.txt](./txt/fmml_ipv6plus.txt ) | [List for fanmingming/live ipv6plus](./list/fmml_ipv6plus.list ) | update failed | - |
@@ -35,11 +35,11 @@
 | joevess/IPTV iptv | [j_sources_iptv.m3u](./j_sources_iptv.m3u ) <br> [j_sources_iptv.txt](./txt/j_sources_iptv.txt ) | [List for joevess/IPTV iptv](./list/j_sources_iptv.list ) | 617 | - |
 | joevess/IPTV sources | [j_m3u_home.m3u](./j_m3u_home.m3u ) <br> [j_m3u_home.txt](./txt/j_m3u_home.txt ) | [List for joevess/IPTV sources](./list/j_m3u_home.list ) | 58 | - |
 | joevess/IPTV iptv | [j_m3u_iptv.m3u](./j_m3u_iptv.m3u ) <br> [j_m3u_iptv.txt](./txt/j_m3u_iptv.txt ) | [List for joevess/IPTV iptv](./list/j_m3u_iptv.list ) | 444 | - |
-| iptv.org China | [o_cn.m3u](./o_cn.m3u ) <br> [o_cn.txt](./txt/o_cn.txt ) | [List for iptv.org China](./list/o_cn.list ) | 496 | - |
-| iptv.org stream China | [o_s_cn.m3u](./o_s_cn.m3u ) <br> [o_s_cn.txt](./txt/o_s_cn.txt ) | [List for iptv.org stream China](./list/o_s_cn.list ) | 462 | - |
-| iptv.org stream China 112114 | [o_s_cn_112114.m3u](./o_s_cn_112114.m3u ) <br> [o_s_cn_112114.txt](./txt/o_s_cn_112114.txt ) | [List for iptv.org stream China 112114](./list/o_s_cn_112114.list ) | 18 | - |
-| iptv.org stream China CCTV | [o_s_cn_cctv.m3u](./o_s_cn_cctv.m3u ) <br> [o_s_cn_cctv.txt](./txt/o_s_cn_cctv.txt ) | [List for iptv.org stream China CCTV](./list/o_s_cn_cctv.list ) | 14 | - |
-| iptv.org stream China CGTN | [o_s_cn_cgtn.m3u](./o_s_cn_cgtn.m3u ) <br> [o_s_cn_cgtn.txt](./txt/o_s_cn_cgtn.txt ) | [List for iptv.org stream China CGTN](./list/o_s_cn_cgtn.list ) | 6 | - |
+| iptv.org China | [o_cn.m3u](./o_cn.m3u ) <br> [o_cn.txt](./txt/o_cn.txt ) | [List for iptv.org China](./list/o_cn.list ) | 496 | ✅ |
+| iptv.org stream China | [o_s_cn.m3u](./o_s_cn.m3u ) <br> [o_s_cn.txt](./txt/o_s_cn.txt ) | [List for iptv.org stream China](./list/o_s_cn.list ) | 462 | ✅ |
+| iptv.org stream China 112114 | [o_s_cn_112114.m3u](./o_s_cn_112114.m3u ) <br> [o_s_cn_112114.txt](./txt/o_s_cn_112114.txt ) | [List for iptv.org stream China 112114](./list/o_s_cn_112114.list ) | 18 | ✅ |
+| iptv.org stream China CCTV | [o_s_cn_cctv.m3u](./o_s_cn_cctv.m3u ) <br> [o_s_cn_cctv.txt](./txt/o_s_cn_cctv.txt ) | [List for iptv.org stream China CCTV](./list/o_s_cn_cctv.list ) | 14 | ✅ |
+| iptv.org stream China CGTN | [o_s_cn_cgtn.m3u](./o_s_cn_cgtn.m3u ) <br> [o_s_cn_cgtn.txt](./txt/o_s_cn_cgtn.txt ) | [List for iptv.org stream China CGTN](./list/o_s_cn_cgtn.list ) | 6 | ✅ |
 | epg.pw 央视 | [ew_cc.m3u](./ew_cc.m3u ) <br> [ew_cc.txt](./txt/ew_cc.txt ) | [List for epg.pw 央视](./list/ew_cc.list ) | 8 | - |
 | epg.pw 卫视 | [ew_ws.m3u](./ew_ws.m3u ) <br> [ew_ws.txt](./txt/ew_ws.txt ) | [List for epg.pw 卫视](./list/ew_ws.list ) | 34 | - |
 | epg.pw 国内 | [ew_cn.m3u](./ew_cn.m3u ) <br> [ew_cn.txt](./txt/ew_cn.txt ) | [List for epg.pw 国内](./list/ew_cn.list ) | 425 | - |
@@ -55,7 +55,7 @@
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 0 | - |
 | 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 89 | - |
 
- > Updated at **9/5/2024 9:08:19 AM**
+ > Updated at **9/5/2024 11:05:46 AM**
 
 ## 📚 EPG 节目单
 
@@ -67,7 +67,7 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | update failed |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | update failed |
 
- > Updated at **9/5/2024 9:08:19 AM**
+ > Updated at **9/5/2024 11:05:46 AM**
 
 ## 🚀Github 文件加速
 
