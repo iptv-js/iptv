@@ -86,7 +86,7 @@
 [BD]cctv8,https://stream1.freetv.fun/ba3b4e36fb922605a51884cd578cbd1d0bdf8c80a5278cd2a400a5facbbfb270.m3u8
 [SD]哈尔滨影视,https://stream1.freetv.fun/b681acfb3d9cf5bc9d056d8513a6f1ef9ead223fe349f541e02a39edfabbd88a.m3u8
 [BD]东方影视,https://stream1.freetv.fun/f2b33637a75538cb25e6b62e5e5766129206ad2150bec2c91e8cd58734d3b4c0.m3u8
-[BD]黑龙江影视,https://stream1.freetv.fun/5aa13d0b84257000c999f97fb9b77649d0eecc3f391c330f922e3161616150c1.m3u8
+[BD]黑龙江影视,https://stream1.freetv.fun/c22a9eb399b9f6046febf690497046cf0cfd629b8c18ae77d398d1b54143a249.m3u8
 
 儿童,#genre#
 [BD]cctv14,https://stream1.freetv.fun/aa2dd2bceb8f1a2b34aacb4349b88e09153349fb5699ae85c7ed94daaaa357c4.m3u8

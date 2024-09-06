@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
+#EXTINF:-1 tvg-name="Canal Macau" tvg-id="" tvg-country="澳门" tvg-language="其它" tvg-logo="https://epg.pw/media/images/channel/2022/05/07/large/20220507044741732158_54.png" group-title="综艺",[SD]canalmacau
+https://stream1.freetv.fun/4027a8a9f0c2b6d9f3d2840a07542a69226cb6b36411940e424ce80450b27a77.ctv
 #EXTINF:-1 tvg-name="澳视澳门" tvg-id="" tvg-country="澳门" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2016/07/19/large/20160719142956282911_66.png" group-title="综合",[BD]澳视澳门
 https://stream1.freetv.fun/56e911076120ba8a4639f7446c639591da9423eba3a14212acc42648d2bfb473.m3u8
 #EXTINF:-1 tvg-name="澳视综艺" tvg-id="" tvg-country="澳门" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2022/05/21/large/20220521133414352048_88.jpg" group-title="综艺",[HD]澳门综艺
