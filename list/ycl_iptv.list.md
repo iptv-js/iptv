@@ -135,7 +135,7 @@
 | 127 | Global Fashion Channel | gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv | <https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
 | 128 | Billiards TV | newidco-billiardstv-1-eu.xiaomi.wurl.tv | <https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
 
-Updated at **9/11/2024 9:08:50 AM**
+Updated at **9/12/2024 9:08:58 AM**
 
 ## 使用说明
 
