@@ -4,6 +4,7 @@
 [HD]root_sports_plus_2,https://stream1.freetv.fun/f87997be8937d08b86c1b94d0894e9f62cf0e210c45608b1a554ebe1ba885ca4.ctv
 [BD]star_sports_2,https://stream1.freetv.fun/13cd18dfe986eebdc500e2f9aa09d73aac171bf4e47e01b874375f9d35f51dac.ctv
 [SD]now,https://stream1.freetv.fun/4efe1abff93d8152689933502b62bcc3f8e246cfcef808cf2810c853049357bc.m3u8
+[BD]nowsports,https://stream1.freetv.fun/ad67b1b8ed41d06399151c3d984e6b70418dc00d5105a4890cb0ea9832db6af6.ctv
 
 综艺,#genre#
 [VGA]atv_az,https://stream1.freetv.fun/bffe36bc2cbcb2b36eab73c5c69b6f93ce9e8dc73ff55dc7bc28b2fbfc57cc65.m3u8
@@ -57,7 +58,7 @@
 [VGA]耀才财经,https://stream1.freetv.fun/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8
 
 电影,#genre#
-[BD]movie_sphere,https://stream1.freetv.fun/9ccc4f0b68d08071863557f30e572c770c67f796dd014897264578f7da76cd68.m3u8
+[HD]tv_gospel_movie,https://stream1.freetv.fun/26fcb62d389f00ba73bba6b6a4d2c941ebf563a2a3e0a516223a99a9efda6056.m3u8
 [SD]star_plus,https://stream1.freetv.fun/acf89911dcfd14f27f2728da8983c5e869cf479853bcc2984c8152756ee9701a.ctv
 [BD]tvbs亚洲,https://stream1.freetv.fun/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
 [HD]tvb星河,https://stream1.freetv.fun/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
@@ -66,7 +67,7 @@
 [SD]天映经典,https://stream1.freetv.fun/a3d520d73427db617286da7f2e918c2792c89a62d6090d0d3f1e08a4c43a86c3.m3u8
 [SD]戏曲,https://stream1.freetv.fun/40b0e1b5c670cb36a2ae1f32dff40c6d321414cbb40146e634de461058435cc5.ctv
 [BD]明珠台,https://stream1.freetv.fun/36d4ca249d75335cdeaeb0fafe9671a63a073e7ba8971578a8b40429cded40dc.ctv
-[BD]林正英,https://stream1.freetv.fun/e75c97d69920df515b3f87068176bb1019c456bcce8f4bdedfb98051fedc0eba.ctv
+[HD]林正英,https://stream1.freetv.fun/e75c97d69920df515b3f87068176bb1019c456bcce8f4bdedfb98051fedc0eba.ctv
 [HD]美亚电影,https://stream1.freetv.fun/2cb279c9a42cd826e8afb1da83ad153bc8e4dfdef7ac294f7f521f6f8f116c1b.ctv
 [BD]电影01,https://stream1.freetv.fun/b609f9ba92814ec781d1ed8bd7ce5d87be36984fe6e619bb12cd16664dd5e216.m3u8
 [SD]凤凰电影,https://stream1.freetv.fun/a55c6f702438d92f664851337c6bf6a4b832cd95d6f597e50b1e6040a3c33e57.m3u8
