@@ -508,8 +508,9 @@
 | 500 | QTV-2 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8> |
 | 501 | QTV-1 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8> |
 | 502 | Lanzhou Comprehensive News Channel | liveplus.lztv.tv | <https://liveplus.lztv.tv/xwzh/HD/live.m3u8> |
+| 503 | Lasa TV | tvfile.lasatv.cn | <https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8> |
 
-Updated at **9/14/2024 9:08:17 AM**
+Updated at **9/15/2024 9:16:36 AM**
 
 ## 使用说明
 

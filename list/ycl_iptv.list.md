@@ -94,48 +94,60 @@
 | 86 | 内蒙农牧 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800> |
 | 87 | 呼市新综 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=70072e9dff1f4042fcefde5b001af668&txTime=771E8800> |
 | 88 | 包头新综 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=d5a1fe0898512f4a1d513bc0f9c5b751&txTime=771E8800> |
-| 89 | CNA | d2e1asnsl7br7b.cloudfront.net | <https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8> |
-| 90 | WionNews | d7x8z4yuq42qn.cloudfront.net | <https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8> |
-| 91 | AXS TV Now | dikcfc9915kp8.cloudfront.net | <https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8> |
-| 92 | Newsmax | nmxlive.akamaized.net | <http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8> |
-| 93 | CBN News | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8> |
-| 94 | RT News | rt-glb.rttv.com | <https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8> |
-| 95 | Africa News | euronews-africanews-english-1-eu.xiaomi.wurl.tv | <https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
-| 96 | Al Jazeera | live-hls-web-aje.getaj.net | <http://live-hls-web-aje.getaj.net/AJE/01.m3u8> |
-| 97 | Arirang | amdlive-ch01-ctnd-com.akamaized.net | <https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8> |
-| 98 | Love Nature | d18dyiwu97wm6q.cloudfront.net | <https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8> |
-| 99 | Fashion TV | IPv4 直链 | <http://91.247.68.229:8000/play/Fashion/index.m3u8> |
-| 100 | Kids TV | jansonmedia-kidstv-1-us.xiaomi.wurl.tv | <https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8> |
-| 101 | Fight Network | d12a2vxqkkh1bo.cloudfront.net | <https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8> |
-| 102 | Wild Earth | wildearth-plex.amagi.tv | <https://wildearth-plex.amagi.tv/masterR1080p.m3u8> |
-| 103 | Trace Sports | lightning-tracesport-samsungau.amagi.tv | <https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8> |
-| 104 | SportsGrid | amg00315-sportsgrid-firetv.amagi.tv | <https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8> |
-| 105 | Pop | streamsy.online:2999 | <http://streamsy.online:2999/coachj88/N93DPKS9pJ/226> |
-| 106 | RT Documentary | rt-rtd.rttv.com | <https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8> |
-| 107 | Taiwan Plus | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8> |
-| 108 | ComedyDynamics | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8> |
-| 109 | BBC Earth | d206rrc0yoxllg.cloudfront.net | <https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8> |
-| 110 | History | da8eq3kpws4wh.cloudfront.net | <https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8> |
-| 111 | TED Talks | tedconferences-ted-1-us.xiaomi.wurl.tv | <https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8> |
-| 112 | Kids TV | jansonmedia-kidstv-1-us.xiaomi.wurl.tv | <https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8> |
-| 113 | Mytime | cdn-uw2-prod.tsv2.amagi.tv | <https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8> |
-| 114 | Museum | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8> |
-| 115 | LoveStories | lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv | <https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
-| 116 | Travel XP | travelxp-travelxp-1-eu.xiaomi.wurl.tv | <https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
-| 117 | Ondemand China | newidco-ondemandchina-1-us.xiaomi.wurl.tv | <https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8> |
-| 118 | Yu-Gi-Oh | fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv | <https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
-| 119 | Young Hollywood | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8> |
-| 120 | Food | food-eu.xiaomi.wurl.tv | <https://food-eu.xiaomi.wurl.tv/playlist.m3u8> |
-| 121 | La La Life | amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv | <https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8> |
-| 122 | Rakuten Viki | newidco-rakutenviki-2-eu.xiaomi.wurl.tv | <https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8> |
-| 123 | Rakuten Comedy | rakuten-comedymovies-1-gb.xiaomi.wurl.tv | <https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
-| 124 | Rakuten Action | rakuten-actionmovies-1-gb.xiaomi.wurl.tv | <https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
-| 125 | Rakuten Thriller | rakuten-thriller-1-gb.xiaomi.wurl.tv | <https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
-| 126 | Rakuten British Films | rakuten-british-films-1-gb.xiaomi.wurl.tv | <https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
-| 127 | Global Fashion Channel | gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv | <https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
-| 128 | Billiards TV | newidco-billiardstv-1-eu.xiaomi.wurl.tv | <https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 89 | BBC News | d3pxo1qcgzxtxs.cloudfront.net | <https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298> |
+| 90 | CNA | d2e1asnsl7br7b.cloudfront.net | <https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8> |
+| 91 | CNN Fast | i.mjh.nz | <https://i.mjh.nz/discovery-ptcn.m3u8> |
+| 92 | CBC News | dbrb49pjoymg4.cloudfront.net | <https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276> |
+| 93 | NBC News Now | d4ybyqrhce41r.cloudfront.net | <https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99992212> |
+| 94 | ABC News Live | d4ybyqrhce41r.cloudfront.net | <https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626> |
+| 95 | WionNews | d7x8z4yuq42qn.cloudfront.net | <https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8> |
+| 96 | Sky News | i.mjh.nz | <https://i.mjh.nz/sky-news-now.m3u8> |
+| 97 | AXS TV Now | dikcfc9915kp8.cloudfront.net | <https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8> |
+| 98 | Newsmax | nmxlive.akamaized.net | <http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8> |
+| 99 | CBN News | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8> |
+| 100 | RT News | rt-glb.rttv.com | <https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8> |
+| 101 | Africa News | euronews-africanews-english-1-eu.xiaomi.wurl.tv | <https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 102 | Al Jazeera | live-hls-web-aje.getaj.net | <http://live-hls-web-aje.getaj.net/AJE/01.m3u8> |
+| 103 | Arirang | amdlive-ch01-ctnd-com.akamaized.net | <https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8> |
+| 104 | Love Nature | d18dyiwu97wm6q.cloudfront.net | <https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8> |
+| 105 | Fashion TV | IPv4 直链 | <http://91.247.68.229:8000/play/Fashion/index.m3u8> |
+| 106 | Kids TV | jansonmedia-kidstv-1-us.xiaomi.wurl.tv | <https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8> |
+| 107 | Fight Network | d12a2vxqkkh1bo.cloudfront.net | <https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8> |
+| 108 | Wild Earth | wildearth-plex.amagi.tv | <https://wildearth-plex.amagi.tv/masterR1080p.m3u8> |
+| 109 | Trace Sports | lightning-tracesport-samsungau.amagi.tv | <https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8> |
+| 110 | SportsGrid | amg00315-sportsgrid-firetv.amagi.tv | <https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8> |
+| 111 | RT Documentary | rt-rtd.rttv.com | <https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8> |
+| 112 | Taiwan Plus | bcovlive-a.akamaihd.net | <https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8> |
+| 113 | ComedyDynamics | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8> |
+| 114 | BBC Earth | d206rrc0yoxllg.cloudfront.net | <https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8> |
+| 115 | History | da8eq3kpws4wh.cloudfront.net | <https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8> |
+| 116 | TED Conference | tedconferences-ted-1-us.xiaomi.wurl.tv | <https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8> |
+| 117 | Ted Talks | tedconferences-ted-1-eu.xiaomi.wurl.tv | <https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 118 | The Graham Norton Show | i.mjh.nz | <https://i.mjh.nz/discovery-ptgn.m3u8> |
+| 119 | Mytime | cdn-uw2-prod.tsv2.amagi.tv | <https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8> |
+| 120 | La LA Life | amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv | <https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8> |
+| 121 | Inwonder | cdn-uw2-prod.tsv2.amagi.tv | <https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8> |
+| 122 | Tastemade | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8> |
+| 123 | Yu-Gi-Oh | fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv | <https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
+| 124 | ION Plus | dbrb49pjoymg4.cloudfront.net | <https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614> |
+| 125 | Today Allday | d4ybyqrhce41r.cloudfront.net | <https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245> |
+| 126 | Museum | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8> |
+| 127 | LoveStories | lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv | <https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 128 | Travel XP | travelxp-travelxp-1-eu.xiaomi.wurl.tv | <https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 129 | Ondemand China | newidco-ondemandchina-1-us.xiaomi.wurl.tv | <https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8> |
+| 130 | Young Hollywood | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8> |
+| 131 | Food | food-eu.xiaomi.wurl.tv | <https://food-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 132 | MovieSphere | i.mjh.nz | <https://i.mjh.nz/discovery-ptms.m3u8> |
+| 133 | Rakuten Viki | newidco-rakutenviki-2-eu.xiaomi.wurl.tv | <https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 134 | Rakuten TV Shows | rakuten-tvshows-1-gb.xiaomi.wurl.tv | <https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
+| 135 | Rakuten Comedy | rakuten-comedymovies-1-gb.xiaomi.wurl.tv | <https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
+| 136 | Rakuten Action | rakuten-actionmovies-1-gb.xiaomi.wurl.tv | <https://rakuten-actionmovies-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
+| 137 | Rakuten Thriller | rakuten-thriller-1-gb.xiaomi.wurl.tv | <https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
+| 138 | Rakuten British Films | rakuten-british-films-1-gb.xiaomi.wurl.tv | <https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
+| 139 | Global Fashion Channel | gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv | <https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
+| 140 | Billiards TV | newidco-billiardstv-1-eu.xiaomi.wurl.tv | <https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
 
-Updated at **9/14/2024 9:08:17 AM**
+Updated at **9/15/2024 9:16:36 AM**
 
 ## 使用说明
 
