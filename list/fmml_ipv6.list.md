@@ -150,7 +150,7 @@
 | 142 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
 | 143 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
 
-Updated at **9/20/2024 4:06:54 AM**
+Updated at **9/20/2024 4:11:54 AM**
 
 ## 使用说明
 
