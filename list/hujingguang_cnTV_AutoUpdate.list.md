@@ -58,7 +58,7 @@
 | 50 | CCTV-6 电影频道 | mobilelive-timeshift.ysp.cctv.cn | <http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0> |
 | 51 | CCTV-8 电视剧 | IPv4 直链 | <http://183.196.25.171:808/hls/77/index.m3u8> |
 | 52 | CCTV-9 纪录 | www.nettvpro.xyz | <https://www.nettvpro.xyz/player/videojs.php?url=http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/012/2024078603.m3u8> |
-| 53 | CCTV-10 科教 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv10HD/__op/default/__f/index.m3u8> |
+| 53 | CCTV-10 科教 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv10HD/__op/default/__f/2/v1M/index.m3u8> |
 | 54 | CCTV-11 戏曲 | IPv4 直链 | <http://183.196.25.171:808/hls/11/index.m3u8> |
 | 55 | CCTV-15 音乐 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8> |
 | 56 | CCTV-16 4K | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8> |
@@ -77,8 +77,8 @@
 | 69 | 江西卫视 | IPv4 直链 | <http://116.162.6.191/yun-live.jxtvcn.com.cn/live/tv_jxtv1.m3u8?token=1> |
 | 70 | 黑龙江卫视 | player.200877926.top | <http://player.200877926.top/videojs.php?id=https://idclive.hljtv.com:4430/live/hljws_own.m3u8> |
 | 71 | 山东卫视 | livealone.iqilu.com | <http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8> |
-| 72 | 云南卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/yunnanSD/__op/default/__f/3/a48k/index.m3u8> |
-| 73 | 四川卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/sichuanHD/__op/default/__f/2/a48k/index.m3u8> |
+| 72 | 云南卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8> |
+| 73 | 四川卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/sichuanHD/__op/default/__f/index.m3u8> |
 | 74 | 河南卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/henanHD/__op/default/__f/index.m3u8> |
 | 75 | 广东卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8> |
 | 76 | 深圳卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8> |
@@ -95,11 +95,12 @@
 | 87 | 新疆卫视 | livehyw5.chinamcache.com | <http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=ac4608d03b3fec4557d137827a3f4bb6&txTime=95A66655> |
 | 88 | 甘肃卫视 | IPv4 直链 | <http://222.186.163.155/live-gitv-sd-yh.189smarthome.com/live/program/live/gswshd8m/8000000/mnf.m3u8> |
 | 89 | 海南卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8> |
-| 90 | 青海卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8> |
-| 91 | 兵团卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8> |
-| 92 | 三沙卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8> |
+| 90 | 贵州卫视 | 9bwaz8y2.gzstv.com | <https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=13f26caca0f0bc59c234152828c9c4ed&txTime=66EBA735> |
+| 91 | 青海卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/qinghaiSD/__op/default/__f/index.m3u8> |
+| 92 | 兵团卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8> |
+| 93 | 三沙卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8> |
 
-Updated at **9/19/2024 12:27:21 PM**
+Updated at **9/19/2024 12:30:11 PM**
 
 ## 使用说明
 
