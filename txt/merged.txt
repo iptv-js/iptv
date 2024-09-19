@@ -3276,7 +3276,7 @@ Test,#genre#
 [BD]大立电视,https://stream1.freetv.fun/e430593dd56fde9998d6d4c5598f7b44f146b2907f056112a81a42a34ac4cbc1.m3u8
 [BD]寰宇新闻,https://stream1.freetv.fun/83e7e77358186a2bb06c0e3688cc63c4c5b94ef2ccee07639c44a40dfb1cef28.ctv
 [BD]年代新闻,https://stream1.freetv.fun/84b09223cc29c9ddc21b169e0eb8fb47acb54c64379be7dfcd2d86492bfc3b4f.m3u8
-[SD]亚洲新闻,https://stream1.freetv.fun/00ec71fb52c09a3171769f9f34d1de52b330764f46dd84d7234d36395e2943b0.ctv
+[HD]亚洲新闻,https://stream1.freetv.fun/00ec71fb52c09a3171769f9f34d1de52b330764f46dd84d7234d36395e2943b0.ctv
 [HD]东森新闻,https://stream1.freetv.fun/34438cfe544b494f8d68c7620c788c161e9bc0d59b6261d14b67c8c7900b084f.m3u8
 [BD]东森新闻4,https://stream1.freetv.fun/2c334697a617065e293be7a4bb1ab1021711fc35dbe87250832d2ca02adc9ef8.m3u8
 [HD]东森新闻,https://stream1.freetv.fun/8f2b42373f36053054b9e34d7b381afff8efde2a828d20bab578c9137288cdd6.m3u8
