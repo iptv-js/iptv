@@ -64,7 +64,7 @@
 | 56 | 厦门卫视 | IPv4 直链 | <http://117.161.12.124/live/program/live/xmws/1300000/mnf.m3u8> |
 | 57 | 新疆卫视 | livehyw5.chinamcache.com | <http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=ac4608d03b3fec4557d137827a3f4bb6&txTime=95A66655> |
 
-Updated at **9/19/2024 9:46:43 PM**
+Updated at **9/19/2024 9:49:31 PM**
 
 ## 使用说明
 
