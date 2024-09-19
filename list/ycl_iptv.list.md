@@ -124,9 +124,9 @@
 | 116 | TED Conference | tedconferences-ted-1-us.xiaomi.wurl.tv | <https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8> |
 | 117 | Ted Talks | tedconferences-ted-1-eu.xiaomi.wurl.tv | <https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
 | 118 | The Graham Norton Show | i.mjh.nz | <https://i.mjh.nz/discovery-ptgn.m3u8> |
-| 119 | Mytime | cdn-uw2-prod.tsv2.amagi.tv | <https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8> |
+| 119 | Mytime | appletree-mytimeau-samsung.amagi.tv | <https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8> |
 | 120 | La LA Life | amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv | <https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8> |
-| 121 | Inwonder | cdn-uw2-prod.tsv2.amagi.tv | <https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderhd-xiaomi/playlist.m3u8> |
+| 121 | MovieDome | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8> |
 | 122 | Tastemade | cdn-ue1-prod.tsv2.amagi.tv | <https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8> |
 | 123 | Yu-Gi-Oh | fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv | <https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8> |
 | 124 | ION Plus | dbrb49pjoymg4.cloudfront.net | <https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614> |
@@ -147,7 +147,7 @@
 | 139 | Global Fashion Channel | gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv | <https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
 | 140 | Billiards TV | newidco-billiardstv-1-eu.xiaomi.wurl.tv | <https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
 
-Updated at **9/18/2024 9:09:20 AM**
+Updated at **9/19/2024 9:10:35 AM**
 
 ## 使用说明
 
