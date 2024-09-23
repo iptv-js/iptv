@@ -56,7 +56,7 @@
 | 48 | CCTV-16 4K | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8> |
 | 49 | CCTV-17 农业农村 | IPv4 直链 | <http://183.196.25.171:808/hls/93/index.m3u8> |
 | 50 | CGNT 新闻频道 | CGTN | <http://live.cgtn.com/1000/prog_index.m3u8> |
-| 51 | 浙江卫视 | 浙江广播电视集团 | <https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1727113860-bb114e197e682592b960a6c9e3ae2b00-0-bdf607312b51d6c78326321ae35ba6d8> |
+| 51 | 浙江卫视 | 浙江广播电视集团 | <https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1727117678-09ace02556495e33e62e76c60f816959-0-c8224fb93857164b016a46d3ff2b77bd> |
 | 52 | 凤凰资讯 | IPv4 直链 | <http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8> |
 | 53 | 凤凰中文 | IPv4 直链 | <http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8> |
 | 54 | 东方卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8> |
@@ -75,7 +75,7 @@
 | 67 | 广东卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8> |
 | 68 | 深圳卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8> |
 | 69 | 湖北卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8> |
-| 70 | 东南卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8> |
+| 70 | 东南卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/dongnanHD/__op/default/__f/3/v1M/index.m3u8> |
 | 71 | 厦门卫视 | IPv4 直链 | <http://117.161.12.124/live/program/live/xmws/1300000/mnf.m3u8> |
 | 72 | 河北卫视 | tv.pull.hebtv.com | <http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58> |
 | 73 | 吉林卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8> |
@@ -91,7 +91,7 @@
 | 83 | 兵团卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/bingtuanSD/__op/default/__f/index.m3u8> |
 | 84 | 三沙卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8> |
 
-Updated at **9/24/2024 2:55:12 AM**
+Updated at **9/24/2024 3:01:10 AM**
 
 ## 使用说明
 

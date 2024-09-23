@@ -626,6 +626,7 @@ AdultIPTV.net_Asian,http://cdn.adultiptv.net/asian.m3u8
 [BD]viutv_six,https://stream1.freetv.fun/45b27a70bdfeddd4dc4563c9dd5afd63cc16e148e44295432841f43f24209e62.ctv
 [BD]国际,https://stream1.freetv.fun/71e827ebde39c0881f2d54254f76ddb618516a762d72245138fcfb0290e7e8bd.m3u8
 [SD]星空卫视,https://stream1.freetv.fun/4d6218212c494c9898b8a15b7fc8a3dae025bf257c6ef7ea518e4ac0719da009.ctv
+[BD]港台电视_31,https://stream1.freetv.fun/198f832402c4811ecc847da8e14aa8915727a2643e046d1ab9f3098f983dd5ce.m3u8
 [SD]香港卫视,https://stream1.freetv.fun/9997883799cbd1a55b08e80f73d991dd601380ff5923a25d174b75d1f0a5a371.m3u8
 
 综合,#genre#
@@ -1748,7 +1749,7 @@ CCTV-17_农业农村,http://183.196.25.171:808/hls/93/index.m3u8
 CGNT_新闻频道,http://live.cgtn.com/1000/prog_index.m3u8
 
 卫视台,#genre#
-浙江卫视,https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1727113860-bb114e197e682592b960a6c9e3ae2b00-0-bdf607312b51d6c78326321ae35ba6d8
+浙江卫视,https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1727117678-09ace02556495e33e62e76c60f816959-0-c8224fb93857164b016a46d3ff2b77bd
 凤凰资讯,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 东方卫视,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
@@ -1767,7 +1768,7 @@ CGNT_新闻频道,http://live.cgtn.com/1000/prog_index.m3u8
 广东卫视,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/guangdongHD/__op/default/__f/index.m3u8
 深圳卫视,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/shenzhenHD/__op/default/__f/index.m3u8
 湖北卫视,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/hubeiSD/__op/default/__f/index.m3u8
-东南卫视,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
+东南卫视,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/dongnanHD/__op/default/__f/3/v1M/index.m3u8
 厦门卫视,http://117.161.12.124/live/program/live/xmws/1300000/mnf.m3u8
 河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
 吉林卫视,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/jilinHD/__op/default/__f/index.m3u8
