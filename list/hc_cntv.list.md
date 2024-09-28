@@ -66,7 +66,7 @@
 | 58 | 新疆卫视 | livehyw5.chinamcache.com | <http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=ac4608d03b3fec4557d137827a3f4bb6&txTime=95A66655> |
 | 59 | 贵州卫视 | 9bwaz8y2.gzstv.com | <https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=daead35093d0f38f0b39d76749e695d8&txTime=66F7A3C6> |
 
-Updated at **9/29/2024 12:25:54 AM**
+Updated at **9/29/2024 12:28:50 AM**
 
 ## 使用说明
 
