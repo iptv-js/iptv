@@ -127,7 +127,7 @@
 | 119 | [HD]龙华日韩 | stream1.freetv.fun | <https://stream1.freetv.fun/519623f1b718b31bee59e8f2cb97b9d5d03ca2b8bbd0bbe260985cca4530c804.m3u8> |
 | 120 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/840922ae7e8b5fe5e1085d28af8dc149ad48b9fa2d2558e702f41d7ae8b7ce40.ctv> |
 
-Updated at **9/30/2024 12:26:22 AM**
+Updated at **9/30/2024 12:29:13 AM**
 
 ## 使用说明
 
