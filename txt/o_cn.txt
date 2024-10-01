@@ -39,7 +39,6 @@ Hunan_Ping_Yu,http://49.113.179.174:4022/udp/238.125.5.102:5140
 Lasa_TV,https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
 Laughter_Theater,http://49.113.179.174:4022/udp/238.125.2.159:5140
 Liangshan_TV_[Not_24/7],http://118.122.2.29:9999/hls/47/index.m3u8
-Lifestyle_Channel,http://49.113.179.174:4022/udp/238.125.5.113:5140
 Nei_Monggol_TV,http://49.113.179.174:4022/udp/238.125.7.93:5140
 Shaanxi_Agroforestry_Satellite_TV,http://49.113.179.174:4022/udp/238.125.4.154:5140
 TV5Monde_Pacifique_(1080p),https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8

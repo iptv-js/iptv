@@ -468,49 +468,48 @@
 | 460 | 龙口新闻综合 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8> |
 | 461 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 462 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
-| 463 | Lifestyle Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.5.113:5140> |
-| 464 | Yanbian TV 1 | 延边广播电视台 | <https://live.ybtvyun.com/video/s10006-ff4eb5dba33d/index.m3u8> |
-| 465 | Yanbian Cinese Comprehensive Channel | 延边广播电视台 | <https://live.ybtvyun.com/video/s10006-e9c6f9e4d53b/index.m3u8> |
-| 466 | Yicai TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.0.165:5140> |
-| 467 | Xinjiang TV 12 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.185:5140> |
-| 468 | World Economy Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.205:5140> |
-| 469 | SMG Football Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.142:5140> |
-| 470 | Shaanxi Agroforestry Satellite TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.154:5140> |
-| 471 | Hunan Ping Yu | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.5.102:5140> |
-| 472 | CETV-4 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.92:5140> |
-| 473 | BRTV Science & Education Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.121:5140> |
-| 474 | Bingtuan Satellite TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.13:5140> |
-| 475 | City Theater Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.1.60:5140> |
-| 476 | JiaJia Cartoon | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.0.158:5140> |
-| 477 | Sihai Fishing Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.172:5140> |
-| 478 | Ecology & Environment TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.175:5140> |
-| 479 | Laughter Theater | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.159:5140> |
-| 480 | Toonmax TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.28:5140> |
-| 481 | Nei Monggol TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.93:5140> |
-| 482 | Shandong Education TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.0.156:5140> |
-| 483 | Ugo Shop TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.184:5140> |
-| 484 | Game Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.1.36:5140> |
-| 485 | Documentary Humanities Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.135:5140> |
-| 486 | Channel Law | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.201:5140> |
-| 487 | Xizang TV Tibetan | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.94:5140> |
-| 488 | Xinjiang TV 9 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.153:5140> |
-| 489 | Xinjiang TV 8 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.181:5140> |
-| 490 | Xinjiang TV 5 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.149:5140> |
-| 491 | Xinjiang TV 3 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.147:5140> |
-| 492 | Xinjiang TV 2 | IPv4 直链 | <http://222.80.13.33:4022/udp/238.125.3.175:5140> |
-| 493 | Weihai Ocean Channel | l2.weihai.tv:8081 | <http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8> |
-| 494 | Weihai Public Channel | l2.weihai.tv:8081 | <http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8> |
-| 495 | Weihai Comprehensive News Channel | l1.weihai.tv:8081 | <http://l1.weihai.tv:8081/hls/969O76hb22.m3u8> |
-| 496 | QTV-6 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8> |
-| 497 | QTV-5 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8> |
-| 498 | QTV-4 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8> |
-| 499 | QTV-3 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8> |
-| 500 | QTV-2 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8> |
-| 501 | QTV-1 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8> |
-| 502 | Lanzhou Comprehensive News Channel | liveplus.lztv.tv | <https://liveplus.lztv.tv/xwzh/HD/live.m3u8> |
-| 503 | Lasa TV | tvfile.lasatv.cn | <https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8> |
+| 463 | Yanbian TV 1 | 延边广播电视台 | <https://live.ybtvyun.com/video/s10006-ff4eb5dba33d/index.m3u8> |
+| 464 | Yanbian Cinese Comprehensive Channel | 延边广播电视台 | <https://live.ybtvyun.com/video/s10006-e9c6f9e4d53b/index.m3u8> |
+| 465 | Yicai TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.0.165:5140> |
+| 466 | Xinjiang TV 12 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.185:5140> |
+| 467 | World Economy Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.205:5140> |
+| 468 | SMG Football Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.142:5140> |
+| 469 | Shaanxi Agroforestry Satellite TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.154:5140> |
+| 470 | Hunan Ping Yu | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.5.102:5140> |
+| 471 | CETV-4 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.92:5140> |
+| 472 | BRTV Science & Education Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.121:5140> |
+| 473 | Bingtuan Satellite TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.13:5140> |
+| 474 | City Theater Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.1.60:5140> |
+| 475 | JiaJia Cartoon | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.0.158:5140> |
+| 476 | Sihai Fishing Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.172:5140> |
+| 477 | Ecology & Environment TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.175:5140> |
+| 478 | Laughter Theater | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.159:5140> |
+| 479 | Toonmax TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.28:5140> |
+| 480 | Nei Monggol TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.93:5140> |
+| 481 | Shandong Education TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.0.156:5140> |
+| 482 | Ugo Shop TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.184:5140> |
+| 483 | Game Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.1.36:5140> |
+| 484 | Documentary Humanities Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.135:5140> |
+| 485 | Channel Law | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.201:5140> |
+| 486 | Xizang TV Tibetan | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.94:5140> |
+| 487 | Xinjiang TV 9 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.153:5140> |
+| 488 | Xinjiang TV 8 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.3.181:5140> |
+| 489 | Xinjiang TV 5 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.149:5140> |
+| 490 | Xinjiang TV 3 | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.147:5140> |
+| 491 | Xinjiang TV 2 | IPv4 直链 | <http://222.80.13.33:4022/udp/238.125.3.175:5140> |
+| 492 | Weihai Ocean Channel | l2.weihai.tv:8081 | <http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8> |
+| 493 | Weihai Public Channel | l2.weihai.tv:8081 | <http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8> |
+| 494 | Weihai Comprehensive News Channel | l1.weihai.tv:8081 | <http://l1.weihai.tv:8081/hls/969O76hb22.m3u8> |
+| 495 | QTV-6 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8> |
+| 496 | QTV-5 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8> |
+| 497 | QTV-4 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8> |
+| 498 | QTV-3 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv3at/manifest.m3u8> |
+| 499 | QTV-2 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv2at/manifest.m3u8> |
+| 500 | QTV-1 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8> |
+| 501 | Lanzhou Comprehensive News Channel | liveplus.lztv.tv | <https://liveplus.lztv.tv/xwzh/HD/live.m3u8> |
+| 502 | Lasa TV | tvfile.lasatv.cn | <https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8> |
 
-Updated at **9/30/2024 12:29:13 AM**
+Updated at **10/2/2024 3:44:55 AM**
 
 ## 使用说明
 

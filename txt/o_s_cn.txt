@@ -461,7 +461,6 @@ Zhejiang_TV_International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 龙口新闻综合_(576p),http://yslk.chinashadt.com:1635/live/stream:di1.stream/playlist.m3u8
 龙口生活_(576p),http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8
 龙岩综合_(540p),http://stream.lytv.net.cn/2/sd/live.m3u8
-Lifestyle_Channel,http://49.113.179.174:4022/udp/238.125.5.113:5140
 Yanbian_TV_1,https://live.ybtvyun.com/video/s10006-ff4eb5dba33d/index.m3u8
 Yanbian_Cinese_Comprehensive_Channel,https://live.ybtvyun.com/video/s10006-e9c6f9e4d53b/index.m3u8
 Yicai_TV,http://49.113.179.174:4022/udp/238.125.0.165:5140
