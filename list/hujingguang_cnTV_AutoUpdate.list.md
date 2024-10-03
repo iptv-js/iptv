@@ -82,7 +82,7 @@
 | 74 | 甘肃卫视 | p.200877926.top | <http://p.200877926.top/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
 | 75 | 贵州卫视 | 9bwaz8y2.gzstv.com | <https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=56f4e6626c6e73fb7a36008e342aa796&txTime=66FEA5B0> |
 
-Updated at **10/4/2024 12:27:58 AM**
+Updated at **10/4/2024 12:30:55 AM**
 
 ## 使用说明
 
