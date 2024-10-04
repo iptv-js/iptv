@@ -73,7 +73,7 @@
 | 65 | 甘肃卫视 | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
 | 66 | 贵州卫视 | 9bwaz8y2.gzstv.com | <https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=0937a2202a0338529bbe3dcf3377ee49&txTime=66FFF7E1> |
 
-Updated at **10/5/2024 12:28:28 AM**
+Updated at **10/5/2024 12:31:20 AM**
 
 ## 使用说明
 

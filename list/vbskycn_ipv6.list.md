@@ -119,7 +119,7 @@
 | 111 | 魅力足球 | IPv6 直链 | <http://[2409:8087:5e08:24::5]:6610/000000001000/5000000011000031207/index.m3u8> |
 | 112 | 2024-10-05 00:22:36 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qiddtcxr5ktdh0uv/720p/h264/1726307097251597100/mda-qiddtcxr5ktdh0uv.mp4?v_from_s=bdapp-resbox-hna> |
 
-Updated at **10/5/2024 12:28:28 AM**
+Updated at **10/5/2024 12:31:20 AM**
 
 ## 使用说明
 

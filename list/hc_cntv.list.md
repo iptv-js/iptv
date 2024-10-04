@@ -84,7 +84,7 @@
 | 76 | 青海卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/qinghaiSD/__op/default/__f/1/v1M/index.m3u8> |
 | 77 | 三沙卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/sanshaSD/__op/default/__f/1/v1M/index.m3u8> |
 
-Updated at **10/5/2024 12:28:28 AM**
+Updated at **10/5/2024 12:31:20 AM**
 
 ## 使用说明
 
