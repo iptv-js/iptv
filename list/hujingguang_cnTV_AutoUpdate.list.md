@@ -88,7 +88,7 @@
 | 80 | 海南卫视 | cqcbn1.live.cbncdn.cn:8090 | <http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/hainanSD/__op/default/__f/index.m3u8> |
 | 81 | 贵州卫视 | 9bwaz8y2.gzstv.com | <https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=25fb6582299b4f9fea72909f8b3da23f&txTime=67013193> |
 
-Updated at **10/6/2024 12:26:00 AM**
+Updated at **10/6/2024 12:28:51 AM**
 
 ## 使用说明
 
