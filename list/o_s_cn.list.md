@@ -509,7 +509,7 @@
 | 501 | Lanzhou Comprehensive News Channel | liveplus.lztv.tv | <https://liveplus.lztv.tv/xwzh/HD/live.m3u8> |
 | 502 | Lasa TV | tvfile.lasatv.cn | <https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8> |
 
-Updated at **10/7/2024 12:28:01 AM**
+Updated at **10/8/2024 12:27:52 AM**
 
 ## 使用说明
 
