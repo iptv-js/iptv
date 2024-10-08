@@ -147,7 +147,7 @@
 | 139 | Global Fashion Channel | gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv | <https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
 | 140 | Billiards TV | newidco-billiardstv-1-eu.xiaomi.wurl.tv | <https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8> |
 
-Updated at **10/8/2024 12:30:44 AM**
+Updated at **10/8/2024 3:53:43 PM**
 
 ## 使用说明
 
