@@ -70,7 +70,7 @@
 | 62 | 河北卫视 | tv.pull.hebtv.com | <http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58> |
 | 63 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
 
-Updated at **10/22/2024 12:27:11 AM**
+Updated at **10/22/2024 12:30:14 AM**
 
 ## 使用说明
 

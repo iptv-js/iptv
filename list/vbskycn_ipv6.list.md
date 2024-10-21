@@ -1,12 +1,12 @@
-# List for **fanmingming/live demo**
+# List for **vbskycn/iptv**
 
-> M3U: [fmml_demo.m3u](./fmml_demo.m3u ), TXT: [fmml_demo.txt](./txt/fmml_demo.txt )
+> M3U: [vbskycn_ipv6.m3u](./vbskycn_ipv6.m3u ), TXT: [vbskycn_ipv6.txt](./txt/vbskycn_ipv6.txt )
 
 ## 频道详情
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-
+| 1 | 2024-10-22 00:21:51 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qiddtcxr5ktdh0uv/720p/h264/1726307097251597100/mda-qiddtcxr5ktdh0uv.mp4?v_from_s=bdapp-resbox-hna> |
 
 Updated at **10/22/2024 12:30:14 AM**
 
