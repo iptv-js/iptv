@@ -36,7 +36,6 @@ Foshan_News_TV,http://dslive.grtn.cn/fszh/sd/live.m3u8
 Fusung_News_TV,http://stream8.jlntv.cn/fs/sd/live.m3u8
 HOY资讯台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8
 Hunan_Ping_Yu,http://49.113.179.174:4022/udp/238.125.5.102:5140
-Lasa_TV,https://tvfile.lasatv.cn/nmip-media/channellive/channel104335/playlist.m3u8
 Laughter_Theater,http://49.113.179.174:4022/udp/238.125.2.159:5140
 Liangshan_TV_[Not_24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 Nei_Monggol_TV,http://49.113.179.174:4022/udp/238.125.7.93:5140
@@ -44,7 +43,7 @@ Shaanxi_Agroforestry_Satellite_TV,http://49.113.179.174:4022/udp/238.125.4.154:5
 TV5Monde_Pacifique_(1080p),https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 TVE_Internacional_Europe-Asia,https://rtvelivestream.akamaized.net/rtvesec/int/tvei_eu_main.m3u8
 VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
-Xinjiang_TV_2,http://222.80.13.33:4022/udp/238.125.3.175:5140
+Xinjiang_TV_2,http://49.113.179.174:4022/udp/238.125.3.175:5140
 Xinjiang_TV_3,http://49.113.179.174:4022/udp/238.125.7.147:5140
 Xinjiang_TV_5,http://49.113.179.174:4022/udp/238.125.7.149:5140
 Xinjiang_TV_8,http://49.113.179.174:4022/udp/238.125.3.181:5140
@@ -460,7 +459,7 @@ CCTV13_(1080p),http://bl.dchwtq.asia:10000/rtp/239.254.96.161:9040
 CCTV+_1_(600p)_[Not_24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+_2_(600p)_[Not_24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 Lanzhou_Comprehensive_News_Channel,https://liveplus.lztv.tv/xwzh/HD/live.m3u8
-NHK_Chinese_Vision_(720p),https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK_Chinese_Vision_(720p),https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 QTV-1,http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
 Weihai_Comprehensive_News_Channel,http://l1.weihai.tv:8081/hls/969O76hb22.m3u8
 滁州市广播电视台_新闻综合频道_(1080p),http://live.cztv.cc:85/live/xwpd.m3u8
@@ -480,7 +479,7 @@ World_Economy_Channel,http://49.113.179.174:4022/udp/238.125.2.205:5140
 西安商务资讯_(180p)_[Not_24/7],http://stream2.xiancity.cn/xatv3/playlist.m3u8
 
 Kids,#genre#
-BRTV_Kaku_Childrens_Channel,http://223.111.191.105/downflv.brtvcloud.com/kkkkasd/winfr.m3u8
+BRTV_Kaku_Childrens_Channel,http://49.113.179.174:4022/udp/238.125.2.216:5140
 CCTV14_(1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.107:10280
 JiaJia_Cartoon,http://49.113.179.174:4022/udp/238.125.0.158:5140
 Toonmax_TV,http://49.113.179.174:4022/udp/238.125.4.28:5140
