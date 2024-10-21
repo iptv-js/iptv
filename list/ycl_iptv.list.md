@@ -92,7 +92,7 @@
 | 84 | 呼市新综 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=70072e9dff1f4042fcefde5b001af668&txTime=771E8800> |
 | 85 | 包头新综 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=d5a1fe0898512f4a1d513bc0f9c5b751&txTime=771E8800> |
 
-Updated at **10/21/2024 6:17:10 PM**
+Updated at **10/22/2024 12:27:11 AM**
 
 ## 使用说明
 
