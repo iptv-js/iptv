@@ -19,7 +19,7 @@ https://stream1.freetv.fun/8cb6bea748427bbc2cc171e39457f629f39d6342f744a333ba858
 https://stream1.freetv.fun/6d61f2e1b88461dd5293803a4095cd448455daa8a86b5dcdf453edc512a56c1f.m3u8
 #EXTINF:-1 tvg-name="HOY TV" tvg-id="368903" tvg-country="香港" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" group-title="新闻",[BD]hoy tv
 https://stream1.freetv.fun/1496043c9019ec1e6c21f1257e1f303b901a1f4effc143fb7da3c19cc4de0ecc.m3u8
-#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="电影",[HD]tvs drive in movie
+#EXTINF:-1 tvg-name="MOVIE MOVIE" tvg-id="" tvg-country="香港" tvg-language="英文" tvg-logo="https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png" group-title="电影",[VGA]tvs drive in movie
 https://stream1.freetv.fun/9c1a6f1dff258cd87f25876137b470ab129cf846f6ed14a3177acec634bbbcef.m3u8
 #EXTINF:-1 tvg-name="NOW Sports" tvg-id="" tvg-country="香港" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2022/04/17/large/20220417214551225838_66.png" group-title="运动",[BD]nowsports
 https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406.ctv
@@ -43,6 +43,8 @@ https://stream1.freetv.fun/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf
 https://stream1.freetv.fun/57737ed82a70288e90bca3ef3b9e7ed3e8b896445947908bd76d4ed3c4ba6c43.ctv
 #EXTINF:-1 tvg-name="TVB新闻台" tvg-id="" tvg-country="香港" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2024/03/12/large/20240312220208325041_97.png" group-title="新闻",[BD]tvbs新闻
 https://stream1.freetv.fun/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.ctv
+#EXTINF:-1 tvg-name="TVB星河" tvg-id="368301" tvg-country="香港" tvg-language="国语" tvg-logo="https://epg.pw/media/images/channel/2023/07/19/large/20230719085717672946_45.png" group-title="电影",[HD]tvb星河
+https://stream1.freetv.fun/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.ctv
 #EXTINF:-1 tvg-name="TVB星河(粤)" tvg-id="3493" tvg-country="香港" tvg-language="粤语" tvg-logo="https://epg.pw/media/images/channel/2018/03/13/large/20180313203118850563_68.jpg" group-title="电影",[HD]tvb星河
 https://stream1.freetv.fun/d4eb4aeca91bf4670d3e6ada6b682b69085041e79abe32b49e358c897c6e0a5a.ctv
 #EXTINF:-1 tvg-name="TVB无线卫星新闻" tvg-id="" tvg-country="香港" tvg-language="国语" tvg-logo="https://epg.pw/media/img/logo/3_358.jpg" group-title="新闻",[BD]tvb无线新闻

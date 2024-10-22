@@ -52,8 +52,9 @@
 [HD]剧集,https://stream1.freetv.fun/56a96ffa5043d616d056b46b3aab357ddf67596d5ace63891e0d88ccc3d7581f.ctv
 
 电影,#genre#
-[HD]tvs_drive_in_movie,https://stream1.freetv.fun/9c1a6f1dff258cd87f25876137b470ab129cf846f6ed14a3177acec634bbbcef.m3u8
+[VGA]tvs_drive_in_movie,https://stream1.freetv.fun/9c1a6f1dff258cd87f25876137b470ab129cf846f6ed14a3177acec634bbbcef.m3u8
 [BD]tvbs亚洲,https://stream1.freetv.fun/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8
+[HD]tvb星河,https://stream1.freetv.fun/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.ctv
 [HD]tvb星河,https://stream1.freetv.fun/d4eb4aeca91bf4670d3e6ada6b682b69085041e79abe32b49e358c897c6e0a5a.ctv
 [SD]戏曲,https://stream1.freetv.fun/40b0e1b5c670cb36a2ae1f32dff40c6d321414cbb40146e634de461058435cc5.ctv
 [BD]明珠台,https://stream1.freetv.fun/36d4ca249d75335cdeaeb0fafe9671a63a073e7ba8971578a8b40429cded40dc.ctv
