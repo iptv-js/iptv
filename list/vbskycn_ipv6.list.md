@@ -127,7 +127,7 @@
 | 119 | 游戏风云 | IPv6 直链 | <http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000011/index.m3u8> |
 | 120 | 2024-10-24 00:23:49 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qiddtcxr5ktdh0uv/720p/h264/1726307097251597100/mda-qiddtcxr5ktdh0uv.mp4?v_from_s=bdapp-resbox-hna> |
 
-Updated at **10/24/2024 12:27:59 AM**
+Updated at **10/24/2024 12:31:05 AM**
 
 ## 使用说明
 
