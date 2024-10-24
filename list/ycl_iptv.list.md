@@ -30,8 +30,8 @@
 | 22 | 中国教育 | IPv4 直链 | <rtp://239.3.1.57:8152> |
 | 23 | CGTN新闻 | IPv4 直链 | <rtp://239.3.1.215:4220> |
 | 24 | CGTN纪录 | IPv4 直链 | <rtp://239.3.1.216:4220> |
-| 25 | CHC动作电影 | cg0.hunancatv.cn:9090 | <http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D> |
-| 26 | CHC家庭影院 | cg11.hunancatv.cn:9090 | <http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D> |
+| 25 | 动作电影 | cg0.hunancatv.cn:9090 | <http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D> |
+| 26 | 家庭影院 | cg11.hunancatv.cn:9090 | <http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D> |
 | 27 | 北京卫视 | IPv4 直链 | <rtp://239.3.1.241:8000> |
 | 28 | 东方卫视 | IPv4 直链 | <rtp://239.3.1.136:8032> |
 | 29 | 湖南卫视 | IPv4 直链 | <rtp://239.3.1.132:8012> |
@@ -81,7 +81,7 @@
 | 73 | 睛彩青少 | IPv4 直链 | <rtp://239.3.1.127:8001> |
 | 74 | 睛彩场舞 | IPv4 直链 | <rtp://239.3.1.128:8001> |
 
-Updated at **10/24/2024 12:31:05 AM**
+Updated at **10/25/2024 12:27:24 AM**
 
 ## 使用说明
 
