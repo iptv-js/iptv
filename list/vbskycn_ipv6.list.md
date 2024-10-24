@@ -132,7 +132,7 @@
 | 124 | 游戏风云 | IPv6 直链 | <http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226187/index.m3u8> |
 | 125 | 2024-10-25 00:23:49 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qiddtcxr5ktdh0uv/720p/h264/1726307097251597100/mda-qiddtcxr5ktdh0uv.mp4?v_from_s=bdapp-resbox-hna> |
 
-Updated at **10/25/2024 12:27:24 AM**
+Updated at **10/25/2024 12:30:35 AM**
 
 ## 使用说明
 
