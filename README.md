@@ -13,16 +13,16 @@
 
 | adultiptv.net | [adultiptv_chs.m3u](./adultiptv_chs.m3u ) <br> [adultiptv_chs.txt](./txt/adultiptv_chs.txt ) | [List for adultiptv.net](./list/adultiptv_chs.list ) | 25 | - |
 | adultiptv.net | [adultiptv_all.m3u](./adultiptv_all.m3u ) <br> [adultiptv_all.txt](./txt/adultiptv_all.txt ) | [List for adultiptv.net](./list/adultiptv_all.list ) | 25 | - |
-| vbskycn/iptv | [vbskycn_ipv4.m3u](./vbskycn_ipv4.m3u ) <br> [vbskycn_ipv4.txt](./txt/vbskycn_ipv4.txt ) | [List for vbskycn/iptv](./list/vbskycn_ipv4.list ) | 1260 | - |
-| vbskycn/iptv | [vbskycn_ipv6.m3u](./vbskycn_ipv6.m3u ) <br> [vbskycn_ipv6.txt](./txt/vbskycn_ipv6.txt ) | [List for vbskycn/iptv](./list/vbskycn_ipv6.list ) | 125 | - |
+| vbskycn/iptv | [vbskycn_ipv4.m3u](./vbskycn_ipv4.m3u ) <br> [vbskycn_ipv4.txt](./txt/vbskycn_ipv4.txt ) | [List for vbskycn/iptv](./list/vbskycn_ipv4.list ) | 1265 | - |
+| vbskycn/iptv | [vbskycn_ipv6.m3u](./vbskycn_ipv6.m3u ) <br> [vbskycn_ipv6.txt](./txt/vbskycn_ipv6.txt ) | [List for vbskycn/iptv](./list/vbskycn_ipv6.list ) | 124 | - |
 | hujingguang/ChinaIPTV | [hujingguang_cnTV_AutoUpdate.m3u](./hujingguang_cnTV_AutoUpdate.m3u ) <br> [hujingguang_cnTV_AutoUpdate.txt](./txt/hujingguang_cnTV_AutoUpdate.txt ) | [List for hujingguang/ChinaIPTV](./list/hujingguang_cnTV_AutoUpdate.list ) | 81 | - |
 | fanmingming/live demo | [fmml_demo.m3u](./fmml_demo.m3u ) <br> [fmml_demo.txt](./txt/fmml_demo.txt ) | [List for fanmingming/live demo](./list/fmml_demo.list ) | 0 | - |
 | fanmingming/live ipv6 | [fmml_ipv6.m3u](./fmml_ipv6.m3u ) <br> [fmml_ipv6.txt](./txt/fmml_ipv6.txt ) | [List for fanmingming/live ipv6](./list/fmml_ipv6.list ) | 150 | - |
 | fanmingming/live ipv6plus | [fmml_ipv6plus.m3u](./fmml_ipv6plus.m3u ) <br> [fmml_ipv6plus.txt](./txt/fmml_ipv6plus.txt ) | [List for fanmingming/live ipv6plus](./list/fmml_ipv6plus.list ) | update failed | - |
-| fanmingming/live domainv6(Invalid) | [fmml_bst.m3u](./fmml_bst.m3u ) <br> [fmml_bst.txt](./txt/fmml_bst.txt ) | [List for fanmingming/live domainv6(Invalid)](./list/fmml_bst.list ) | update failed | - |
-| fanmingming/live domainv6(Invalid) | [fmml_cbn.m3u](./fmml_cbn.m3u ) <br> [fmml_cbn.txt](./txt/fmml_cbn.txt ) | [List for fanmingming/live domainv6(Invalid)](./list/fmml_cbn.list ) | update failed | - |
+| fanmingming/live domainv6(Invalid) | [fmml_bst.m3u](./fmml_bst.m3u ) <br> [fmml_bst.txt](./txt/fmml_bst.txt ) | [List for fanmingming/live domainv6(Invalid)](./list/fmml_bst.list ) | 124 | - |
+| fanmingming/live domainv6(Invalid) | [fmml_cbn.m3u](./fmml_cbn.m3u ) <br> [fmml_cbn.txt](./txt/fmml_cbn.txt ) | [List for fanmingming/live domainv6(Invalid)](./list/fmml_cbn.list ) | 125 | - |
 | fanmingming/live domainv6(Invalid) | [fmml_dv6.m3u](./fmml_dv6.m3u ) <br> [fmml_dv6.txt](./txt/fmml_dv6.txt ) | [List for fanmingming/live domainv6(Invalid)](./list/fmml_dv6.list ) | 100 | - |
-| fanmingming/live domainv6(Invalid) | [fmml_ipv6.m3u](./fmml_ipv6.m3u ) <br> [fmml_ipv6.txt](./txt/fmml_ipv6.txt ) | [List for fanmingming/live domainv6(Invalid)](./list/fmml_ipv6.list ) | update failed | - |
+| fanmingming/live domainv6(Invalid) | [fmml_ipv6.m3u](./fmml_ipv6.m3u ) <br> [fmml_ipv6.txt](./txt/fmml_ipv6.txt ) | [List for fanmingming/live domainv6(Invalid)](./list/fmml_ipv6.list ) | 166 | - |
 | fanmingming/live domainv6(Invalid) | [fmml_ysp.m3u](./fmml_ysp.m3u ) <br> [fmml_ysp.txt](./txt/fmml_ysp.txt ) | [List for fanmingming/live domainv6(Invalid)](./list/fmml_ysp.list ) | 63 | - |
 | YueChan-Live IPTV | [ycl_iptv.m3u](./ycl_iptv.m3u ) <br> [ycl_iptv.txt](./txt/ycl_iptv.txt ) | [List for YueChan-Live IPTV](./list/ycl_iptv.list ) | 78 | - |
 | YanG-1989 Gather | [y_g.m3u](./y_g.m3u ) <br> [y_g.txt](./txt/y_g.txt ) | [List for YanG-1989 Gather](./list/y_g.list ) | 274 | - |
@@ -55,19 +55,19 @@
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 0 | - |
 | 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 83 | - |
 
- > Updated at **10/27/2024 12:25:34 AM**
+ > Updated at **10/27/2024 12:28:36 AM**
 
 ## 📚 EPG 节目单
 
 | epg | url | isRollback |
 | --- | --- | ---------- |
 
-| EPG接口1 | [fmml.xml](./epg/fmml.xml ) | update failed |
+| EPG接口1 | [fmml.xml](./epg/fmml.xml ) | - |
 | EPG接口2 | [51zmt.xml](./epg/51zmt.xml ) | update failed |
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | update failed |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | update failed |
 
- > Updated at **10/27/2024 12:25:34 AM**
+ > Updated at **10/27/2024 12:28:36 AM**
 
 ## 🚀Github 文件加速
 
