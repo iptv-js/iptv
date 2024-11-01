@@ -132,7 +132,7 @@
 | 124 | iHOT爱体育 | IPv6 直链 | <http://[2409:8087:5e08:24::11]:6610/000000001000/6000000006000290630/index.m3u8> |
 | 125 | 2024-11-02 00:20:45 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-qjwi0tqeqbyh6t4n/720p/h264/1730378618075038358/mda-qjwi0tqeqbyh6t4n.mp4?v_from_s=bdapp-resbox-hna> |
 
-Updated at **11/2/2024 12:26:56 AM**
+Updated at **11/2/2024 12:30:00 AM**
 
 ## 使用说明
 
