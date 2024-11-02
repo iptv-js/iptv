@@ -130,7 +130,7 @@
 | 122 | 游戏风云 | IPv6 直链 | <http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226187/index.m3u8> |
 | 123 | 2024-11-03 00:21:15 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-qjwi0tqeqbyh6t4n/720p/h264/1730378618075038358/mda-qjwi0tqeqbyh6t4n.mp4?v_from_s=bdapp-resbox-hna> |
 
-Updated at **11/3/2024 12:26:41 AM**
+Updated at **11/3/2024 12:29:49 AM**
 
 ## 使用说明
 
