@@ -7,6 +7,7 @@
 [VGA]唯心电视,https://stream1.freetv.fun/821eba8c8f03a7d2b604051525642cfdca5c96a65d2fa7ca56ea9d179674b543.m3u8
 [HD]大爱1台,https://stream1.freetv.fun/cda9c15049fc9a62b363d1018881fe11828f20acfccb0ba7927604e967e003e7.m3u8
 [HD]大爱2,https://stream1.freetv.fun/adefa4b3b335e22e458ee3232eb44832e815acd82cf7ad1c489d2d11274c700b.m3u8
+[HD]大爱二,https://stream1.freetv.fun/1acda8a36f9e372144204c5803aaacde8b52f020025c5a21f15b79caf0cc02a3.ctv
 [VGA]大爱电视,https://stream1.freetv.fun/4043cb4200f356988264a38f4cf6dc8488e91106acdcc43505e65dc079689181.ctv
 [VGA]好消息,https://stream1.freetv.fun/7e863d41fbb20975775323c59644b5d46c3a28b9c2f01e4b574a14761e01641e.m3u8
 [HD]好消息2,https://stream1.freetv.fun/99a7112e32330890db56fd04e059dc59c9fdc4bf19c9167967a3e22b131d2441.ctv
@@ -23,7 +24,6 @@
 [HD]公视戏剧,https://stream1.freetv.fun/c3d36762c8981e570c684941922976b7c1d73033e73fcb55cd17acd246c6fc1f.ctv
 [HD]影迷数位电影,https://stream1.freetv.fun/db0249a11622ab4530e20162c1140dc26b893553535671268f86c827662ef223.ctv
 [BD]东森戏剧,https://stream1.freetv.fun/63afc04b6f48d6ab1be98e6ac787f6a5ae5341600353f7f32af5bd39bd544b07.m3u8
-[BD]东森电影,https://stream1.freetv.fun/7e7daf1aca2b5fc6ab5365c3d5201b91e3b538cd4a947fd5bdb0256900d3f638.m3u8
 [HD]民视影剧,https://stream1.freetv.fun/b2f35b3f2d927ce635628a27c93510bb36ccd082b9692b9dca292e8b5f038504.ctv
 [BD]经典电影,https://stream1.freetv.fun/a8fb7adb8dbbc9bb8251b6dca1f06bde4a42896fc3c871353438d667450360b1.m3u8
 [BD]纬来戏剧,https://stream1.freetv.fun/9a3ecad00b3dc63999364b9fe2b57b38e82f78f75cf6357e92dbe8f19feb7218.m3u8
@@ -46,7 +46,7 @@
 [VGA]mezzo,https://stream1.freetv.fun/e08ad547d38c719112aaf8616783f692adc0c4813e2c546afa5fb8b9b405ce3c.m3u8
 
 综艺,#genre#
-[HD]cmusic,https://stream1.freetv.fun/962b183db2050a7f4995fa60fb432e5da6df5872565cb7f6792a673d3c157248.m3u8
+[SD]cmusic,https://stream1.freetv.fun/962b183db2050a7f4995fa60fb432e5da6df5872565cb7f6792a673d3c157248.m3u8
 [HD]elta娱乐,https://stream1.freetv.fun/5afb485f7e1ed36f9f2e6bfd1df8698fadb395303e70cef7cb752e42f579f826.ctv
 [BD]ROCK_ENTERTAINMENT,https://stream1.freetv.fun/fe20a7334837d153654119b88519c3811a21993756b28b8fe5f0d447837d432c.ctv
 [BD]tvbs欢乐,https://stream1.freetv.fun/34dc7b4981ac62f6c596085f0b3cd421ce22b144d9521373f405a7c658f43a50.m3u8
@@ -97,7 +97,7 @@
 
 综合,#genre#
 [HD]momo综合,rtmp://f13h.mine.nu/sat/tv761
-[BD]tvbs,https://stream1.freetv.fun/69a6002a82368bd46e1d7da8a2405145bcbc5ca195f0a26b9ca4a21acdb45dd4.m3u8
+[BD]tvbs,https://stream1.freetv.fun/5ec89a5503e13843241c1773ce250b1adaed1bc0a92ba7ae757fed01591a00d3.m3u8
 [BD]tvbs_asia,https://stream1.freetv.fun/bec78e286aac6635512a9f28b62fd31b8e95a4a6c3d14cfb31cc3924b0f4725c.m3u8
 [HD]tvbs,https://stream1.freetv.fun/763f81f07fca3439622deddd9edcd8367b0acc570409078355c8da497eb1e2ed.ctv
 [VGA]三立综合,https://stream1.freetv.fun/fdf2bf897e0217754c91e5064b1ac7855f31eda692af574b11db9c97d9b5e23b.m3u8

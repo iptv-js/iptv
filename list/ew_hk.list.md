@@ -46,7 +46,7 @@
 | 38 | [BD]林正英 | stream1.freetv.fun | <https://stream1.freetv.fun/0a93fccff32984d207d245e24b0bc5078ccd0a851729f1d7d26883200d80043f.ctv> |
 | 39 | [BD]港台电视 31 | stream1.freetv.fun | <https://stream1.freetv.fun/198f832402c4811ecc847da8e14aa8915727a2643e046d1ab9f3098f983dd5ce.m3u8> |
 | 40 | [BD]港台电视 32 | stream1.freetv.fun | <https://stream1.freetv.fun/ab70b1502a96924b0672f5746e3d1cc294f2043956e03267c765b703667726f7.m3u8> |
-| 41 | [BD]无线新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/72987f3fa96af219332cc264f14fbe126748e5dae4c53c74f45f3856e926756e.m3u8> |
+| 41 | [BD]无线新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/a17566b81efbc7de0bd335ce7dd6083a3150c80a02c0f2d8a6d2d7525435f600.m3u8> |
 | 42 | [BD]无线财经 | stream1.freetv.fun | <https://stream1.freetv.fun/4cfbd8042c72a22081ceec0c87e7bb7ded78a5ea32bb6f709e5375a7304b8d1c.ctv> |
 | 43 | [BD]美亚电影 | stream1.freetv.fun | <https://stream1.freetv.fun/501c95bf64cae1b52c33559f14762620db25ea990992c2bb00afa8e15f7f9e07.m3u8> |
 | 44 | [BD]tvb翡翠 | stream1.freetv.fun | <https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.m3u8> |
@@ -61,7 +61,7 @@
 | 53 | [SD]凤凰电影 | stream1.freetv.fun | <https://stream1.freetv.fun/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv> |
 | 54 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8> |
 
-Updated at **11/4/2024 10:34:28 AM**
+Updated at **11/4/2024 3:47:29 PM**
 
 ## 使用说明
 
