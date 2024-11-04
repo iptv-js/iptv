@@ -264,7 +264,7 @@
 | 256 | tvgid爱院线tvgnameiHOT爱院线tvglogohttpsgiteecomBlackcrowepglogorawmasteriHOTihot01pnggrouptitleIHOT频道iHOT爱院线 | IPv6 直链 | <http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281> |
 | 257 | 2024-11-04 08:09:24 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-qjwi0tqeqbyh6t4n/720p/h264/1730378618075038358/mda-qjwi0tqeqbyh6t4n.mp4?v_from_s=bdapp-resbox-hna> |
 
-Updated at **11/4/2024 10:31:17 AM**
+Updated at **11/4/2024 10:34:28 AM**
 
 ## 使用说明
 
