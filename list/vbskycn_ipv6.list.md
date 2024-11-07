@@ -268,7 +268,7 @@
 | 260 | 第一财经 | IPv6 直链 | <http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226172/index.m3u8> |
 | 261 | 2024-11-08 00:23:19 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qk63w4c03xbwmvaj/720p/h264/1730947489568846926/mda-qk63w4c03xbwmvaj.mp4?v_from_s=bdapp-resbox-hnb> |
 
-Updated at **11/8/2024 12:27:31 AM**
+Updated at **11/8/2024 12:30:40 AM**
 
 ## 使用说明
 
