@@ -36,8 +36,6 @@ Foshan_News_TV,http://dslive.grtn.cn/fszh/sd/live.m3u8
 Fusung_News_TV,http://stream8.jlntv.cn/fs/sd/live.m3u8
 HOY资讯台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8
 Hunan_Ping_Yu,http://49.113.179.174:4022/udp/238.125.5.102:5140
-Laughter_Theater,http://49.113.179.174:4022/udp/238.125.2.159:5140
-Liangshan_TV_[Not_24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 Nei_Monggol_TV,http://49.113.179.174:4022/udp/238.125.7.93:5140
 Shaanxi_Agroforestry_Satellite_TV,http://49.113.179.174:4022/udp/238.125.4.154:5140
 TV5Monde_Pacifique_(1080p),https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
@@ -396,7 +394,6 @@ Zhejiang_TV_International,https://ali-m-l.cztv.com/channels/lantian/channel10/10
 赵县电视二套_(360p),http://hbzx.chinashadt.com:2036/zhibo/stream:zx2.stream_360p/playlist.m3u8
 辛集新闻频道_(480p)_[Not_24/7],http://zsxj.chinashadt.com:1935/live/xjxw.stream_360p/playlist.m3u8
 辛集生活频道_(480p)_[Not_24/7],http://zsxj.chinashadt.com:1935/live/xjsh.stream_360p/playlist.m3u8
-辽宁卫视_(1080p),http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
 辽源新闻综合,https://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 迪庆综合_(1080p),http://stream01.dqtv123.com:1935/live/xinwenzonghe.stream/playlist.m3u8
 迪庆藏语_(576p),http://stream01.dqtv123.com:1935/live/diqingzangyu.stream/playlist.m3u8
@@ -493,6 +490,7 @@ Ecology_&_Environment_TV,http://49.113.179.174:4022/udp/238.125.2.175:5140
 General,#genre#
 CCTV1_(1080p),http://gslbservzqhsw.itv.cmvideo.cn/index.m3u8?Contentid=reallive-hdcctv1&channel-id=ystenlive&livemode=1&stbId=3
 Dragon_TV_International_(360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
+Liangshan_TV_[Not_24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 TV_BRICS_Chinese_(1080p)_[Not_24/7],https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
@@ -505,6 +503,7 @@ Yanbian_Cinese_Comprehensive_Channel,https://live.ybtvyun.com/video/s10006-e9c6f
 河北卫视_(576p),http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
 滁州市广播电视台_公共频道_(400p),http://live.cztv.cc:85/live/ggpd.m3u8
 甘肃卫视_(1080p),http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8?from=26&hms_devid=685&icpid=88888888
+辽宁卫视_(1080p),http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8
 黑龙江_(1080p),http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8
 
 Entertainment,#genre#
@@ -556,6 +555,9 @@ Weihai_Ocean_Channel,http://l2.weihai.tv:8081/hls/x8b19NoyEG.m3u8
 
 Education;Outdoor,#genre#
 CCTV17_(1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.152:10548
+
+Comedy,#genre#
+Laughter_Theater,http://49.113.179.174:4022/udp/238.125.2.159:5140
 
 Kids;Lifestyle,#genre#
 QTV-6,http://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8
