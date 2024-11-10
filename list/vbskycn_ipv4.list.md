@@ -1717,7 +1717,7 @@
 | 1709 | 黄龙 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8> |
 | 1710 | 2024-11-11 00:20:36 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qk63w4c03xbwmvaj/720p/h264/1730947489568846926/mda-qk63w4c03xbwmvaj.mp4?v_from_s=bdapp-resbox-hnb> |
 
-Updated at **11/11/2024 12:24:39 AM**
+Updated at **11/11/2024 12:27:36 AM**
 
 ## 使用说明
 
