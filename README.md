@@ -26,8 +26,8 @@
 | fanmingming/live domainv6(Invalid) | [fmml_ysp.m3u](./fmml_ysp.m3u ) <br> [fmml_ysp.txt](./txt/fmml_ysp.txt ) | [List for fanmingming/live domainv6(Invalid)](./list/fmml_ysp.list ) | 63 | - |
 | YueChan-Live IPTV | [ycl_iptv.m3u](./ycl_iptv.m3u ) <br> [ycl_iptv.txt](./txt/ycl_iptv.txt ) | [List for YueChan-Live IPTV](./list/ycl_iptv.list ) | 70 | - |
 | YanG-1989 Gather | [y_g.m3u](./y_g.m3u ) <br> [y_g.txt](./txt/y_g.txt ) | [List for YanG-1989 Gather](./list/y_g.list ) | 264 | - |
-| 熊猫直播 | [xiongmao.m3u](./xiongmao.m3u ) <br> [xiongmao.txt](./txt/xiongmao.txt ) | [List for 熊猫直播](./list/xiongmao.list ) | 20 | - |
-| HBv4 | [hbv4.m3u](./hbv4.m3u ) <br> [hbv4.txt](./txt/hbv4.txt ) | [List for HBv4](./list/hbv4.list ) | update failed | - |
+| 熊猫直播 | [xiongmao.m3u](./xiongmao.m3u ) <br> [xiongmao.txt](./txt/xiongmao.txt ) | [List for 熊猫直播](./list/xiongmao.list ) | update failed | ✅ |
+| HBv4 | [hbv4.m3u](./hbv4.m3u ) <br> [hbv4.txt](./txt/hbv4.txt ) | [List for HBv4](./list/hbv4.list ) | update failed | ✅ |
 | HBv6 | [hbv6.m3u](./hbv6.m3u ) <br> [hbv6.txt](./txt/hbv6.txt ) | [List for HBv6](./list/hbv6.list ) | update failed | - |
 | joevess/IPTV home | [j_main_home.m3u](./j_main_home.m3u ) <br> [j_main_home.txt](./txt/j_main_home.txt ) | [List for joevess/IPTV home](./list/j_main_home.list ) | 58 | - |
 | joevess/IPTV iptv | [j_main_iptv.m3u](./j_main_iptv.m3u ) <br> [j_main_iptv.txt](./txt/j_main_iptv.txt ) | [List for joevess/IPTV iptv](./list/j_main_iptv.list ) | 444 | - |
@@ -55,7 +55,7 @@
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 0 | - |
 | 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 85 | - |
 
- > Updated at **11/13/2024 2:58:56 PM**
+ > Updated at **11/13/2024 3:09:09 PM**
 
 ## 📚 EPG 节目单
 
@@ -67,7 +67,7 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | - |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | - |
 
- > Updated at **11/13/2024 2:58:56 PM**
+ > Updated at **11/13/2024 3:09:09 PM**
 
 ## 🚀Github 文件加速
 
