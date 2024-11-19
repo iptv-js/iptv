@@ -1,6 +1,6 @@
-# List for **稳定 最新源**
+# List for **hujingguang/ChinaIPTV**
 
-> M3U: [hc_cntv.m3u](./hc_cntv.m3u ), TXT: [hc_cntv.txt](./txt/hc_cntv.txt )
+> M3U: [hujingguang_cnTV_AutoUpdate.m3u](./hujingguang_cnTV_AutoUpdate.m3u ), TXT: [hujingguang_cnTV_AutoUpdate.txt](./txt/hujingguang_cnTV_AutoUpdate.txt )
 
 ## 频道详情
 
