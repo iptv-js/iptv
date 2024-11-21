@@ -1752,7 +1752,7 @@
 | 1744 | 黄龙 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8> |
 | 1745 | 2024-11-19 08:13:44 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qk63w4c03xbwmvaj/720p/h264/1730947489568846926/mda-qk63w4c03xbwmvaj.mp4?v_from_s=bdapp-resbox-hnb> |
 
-Updated at **11/21/2024 12:32:33 AM**
+Updated at **11/21/2024 4:36:44 PM**
 
 ## 使用说明
 

@@ -624,7 +624,7 @@
 | 616 | CGTN阿语 | CGTN | <https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8> |
 | 617 | CGTN阿语 | CGTN | <https://livear.cgtn.com/200a/prog_index.m3u8> |
 
-Updated at **11/21/2024 12:32:33 AM**
+Updated at **11/21/2024 4:36:44 PM**
 
 ## 使用说明
 
