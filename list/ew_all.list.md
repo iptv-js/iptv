@@ -101,7 +101,7 @@
 | 93 | [BD]甘肃卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/4b1f13ba4341c2b65fdf4a5cc14cd1406453c98d29972511ebee68262f82c797.m3u8> |
 | 94 | [BD]生活时尚 | stream1.freetv.fun | <https://stream1.freetv.fun/06a81b8fdf1a6ab18532b0b0e51d6c65c42409f3aa786bbd59b7117932facb1c.m3u8> |
 | 95 | [BD]第一财经 | stream1.freetv.fun | <https://stream1.freetv.fun/34bf6946fa5dc33632ff8bbd45ea1356adb3fb17ddd977b85c7cdf6073a0196a.m3u8> |
-| 96 | [BD]上海纪实人文 | stream1.freetv.fun | <https://stream1.freetv.fun/c482b5f8f3b48457f00a649fc7d7de123d5a37f518c1828da9c9ff523b5089a2.ctv> |
+| 96 | [BD]上海纪实人文 | stream1.freetv.fun | <https://stream1.freetv.fun/d4da16dbdf53e27c381ee7ad913273326f18e0db1af1326f58baf0fc5087b7f3.m3u8> |
 | 97 | [BD]新闻综合 | stream1.freetv.fun | <https://stream1.freetv.fun/3c0c3e89643356e166fc8b62b1d7210c9e18aca2a0ff303c6a4b74425bd1d077.m3u8> |
 | 98 | [SD]藏语卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/fb2f95302f5cc333287a7d446db430905aef6dd9fe00bb49530bcdb682100931.m3u8> |
 | 99 | [SD]西藏卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/a8e83798e1c1f8ffca8b5c81f9b6cfb6290dedebab63c1355662dbb492ba1c2a.m3u8> |
@@ -127,7 +127,7 @@
 | 119 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9d7a745d71fa16ea6b1a0edce79f7b842e59487519e7a76bcef5b0c7a87a3f24.m3u8> |
 | 120 | [BD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/1175fe96b51b312afc0f98d824b8cce5c65a7c2a5911611ee31f00cef9b1f8dc.m3u8> |
 
-Updated at **11/22/2024 12:32:18 AM**
+Updated at **11/22/2024 8:51:05 AM**
 
 ## 使用说明
 
