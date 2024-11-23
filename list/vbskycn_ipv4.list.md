@@ -1699,7 +1699,7 @@
 | 1691 | 黄龙 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8> |
 | 1692 | 2024-11-24 00:17:57 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qk63w4c03xbwmvaj/720p/h264/1730947489568846926/mda-qk63w4c03xbwmvaj.mp4?v_from_s=bdapp-resbox-hnb> |
 
-Updated at **11/24/2024 12:26:15 AM**
+Updated at **11/24/2024 12:28:48 AM**
 
 ## 使用说明
 
