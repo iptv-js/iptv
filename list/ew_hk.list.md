@@ -16,7 +16,7 @@
 | 8 | [BD]discovery kids | stream1.freetv.fun | <https://stream1.freetv.fun/d78d2807e3d6bb3c4add508a0f548df4bc97dee52811b0fe260dac57c2330224.ctv> |
 | 9 | [BD]hoy tv | stream1.freetv.fun | <https://stream1.freetv.fun/1496043c9019ec1e6c21f1257e1f303b901a1f4effc143fb7da3c19cc4de0ecc.m3u8> |
 | 10 | [HD]kix | stream1.freetv.fun | <https://stream1.freetv.fun/1dc19b4b3d588c842f6d69edaf81bf8fbafa705d59bf49c4a2e709cc56480313.ctv> |
-| 11 | [HD]pixl tv movie channel | stream1.freetv.fun | <https://stream1.freetv.fun/1fe00b5f48c2c8f3978ec0a2550589e8f4947ed7db0409108f8332fe0dafef27.m3u8> |
+| 11 | [VGA]pixl tv movie channel | stream1.freetv.fun | <https://stream1.freetv.fun/1fe00b5f48c2c8f3978ec0a2550589e8f4947ed7db0409108f8332fe0dafef27.m3u8> |
 | 12 | [BD]MyTV Super | stream1.freetv.fun | <https://stream1.freetv.fun/7e460ca2c95cab3243791ba3b081a4759e1905e86abb5f076d8372eedd497a2f.m3u8> |
 | 13 | [BD]nowsports | stream1.freetv.fun | <https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406.ctv> |
 | 14 | [BD]now新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/01fb01adb7e4381c9e76db158033938c38b2fe013acf64bb5cb806ee2abde363.ctv> |
@@ -69,7 +69,7 @@
 | 61 | [SD]凤凰电影 | stream1.freetv.fun | <https://stream1.freetv.fun/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv> |
 | 62 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/a1e9b719a07884526606598d72537cef8048233381d1bcd4264e1be3db2cf40a.m3u8> |
 
-Updated at **11/26/2024 6:22:24 AM**
+Updated at **11/26/2024 6:24:56 AM**
 
 ## 使用说明
 
