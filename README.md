@@ -27,9 +27,9 @@
 | YueChan-Live IPTV | [ycl_iptv.m3u](./ycl_iptv.m3u ) <br> [ycl_iptv.txt](./txt/ycl_iptv.txt ) | [List for YueChan-Live IPTV](./list/ycl_iptv.list ) | 70 | - |
 | YanG-1989 Gather | [y_g.m3u](./y_g.m3u ) <br> [y_g.txt](./txt/y_g.txt ) | [List for YanG-1989 Gather](./list/y_g.list ) | 264 | - |
 | 熊猫直播 | [xiongmao.m3u](./xiongmao.m3u ) <br> [xiongmao.txt](./txt/xiongmao.txt ) | [List for 熊猫直播](./list/xiongmao.list ) | 20 | - |
-| HBv4 | [hbv4.m3u](./hbv4.m3u ) <br> [hbv4.txt](./txt/hbv4.txt ) | [List for HBv4](./list/hbv4.list ) | update failed | - |
-| HBv6 | [hbv6.m3u](./hbv6.m3u ) <br> [hbv6.txt](./txt/hbv6.txt ) | [List for HBv6](./list/hbv6.list ) | update failed | - |
-| joevess/IPTV home | [j_main_home.m3u](./j_main_home.m3u ) <br> [j_main_home.txt](./txt/j_main_home.txt ) | [List for joevess/IPTV home](./list/j_main_home.list ) | 58 | - |
+| HBv4 | [hbv4.m3u](./hbv4.m3u ) <br> [hbv4.txt](./txt/hbv4.txt ) | [List for HBv4](./list/hbv4.list ) | update failed | ✅ |
+| HBv6 | [hbv6.m3u](./hbv6.m3u ) <br> [hbv6.txt](./txt/hbv6.txt ) | [List for HBv6](./list/hbv6.list ) | update failed | ✅ |
+| joevess/IPTV home | [j_main_home.m3u](./j_main_home.m3u ) <br> [j_main_home.txt](./txt/j_main_home.txt ) | [List for joevess/IPTV home](./list/j_main_home.list ) | update failed | ✅ |
 | joevess/IPTV iptv | [j_main_iptv.m3u](./j_main_iptv.m3u ) <br> [j_main_iptv.txt](./txt/j_main_iptv.txt ) | [List for joevess/IPTV iptv](./list/j_main_iptv.list ) | 444 | - |
 | joevess/IPTV sources | [j_sources_home.m3u](./j_sources_home.m3u ) <br> [j_sources_home.txt](./txt/j_sources_home.txt ) | [List for joevess/IPTV sources](./list/j_sources_home.list ) | 152 | - |
 | joevess/IPTV iptv | [j_sources_iptv.m3u](./j_sources_iptv.m3u ) <br> [j_sources_iptv.txt](./txt/j_sources_iptv.txt ) | [List for joevess/IPTV iptv](./list/j_sources_iptv.list ) | 617 | - |
@@ -43,7 +43,7 @@
 | epg.pw 央视 | [ew_cc.m3u](./ew_cc.m3u ) <br> [ew_cc.txt](./txt/ew_cc.txt ) | [List for epg.pw 央视](./list/ew_cc.list ) | 8 | - |
 | epg.pw 卫视 | [ew_ws.m3u](./ew_ws.m3u ) <br> [ew_ws.txt](./txt/ew_ws.txt ) | [List for epg.pw 卫视](./list/ew_ws.list ) | 34 | - |
 | epg.pw 国内 | [ew_cn.m3u](./ew_cn.m3u ) <br> [ew_cn.txt](./txt/ew_cn.txt ) | [List for epg.pw 国内](./list/ew_cn.list ) | 369 | - |
-| epg.pw 香港 | [ew_hk.m3u](./ew_hk.m3u ) <br> [ew_hk.txt](./txt/ew_hk.txt ) | [List for epg.pw 香港](./list/ew_hk.list ) | 61 | - |
+| epg.pw 香港 | [ew_hk.m3u](./ew_hk.m3u ) <br> [ew_hk.txt](./txt/ew_hk.txt ) | [List for epg.pw 香港](./list/ew_hk.list ) | 62 | - |
 | epg.pw 澳門 | [ew_om.m3u](./ew_om.m3u ) <br> [ew_om.txt](./txt/ew_om.txt ) | [List for epg.pw 澳門](./list/ew_om.list ) | 8 | - |
 | epg.pw 台灣 | [ew_tw.m3u](./ew_tw.m3u ) <br> [ew_tw.txt](./txt/ew_tw.txt ) | [List for epg.pw 台灣](./list/ew_tw.list ) | 151 | - |
 | epg.pw 全部 | [ew_all.m3u](./ew_all.m3u ) <br> [ew_all.txt](./txt/ew_all.txt ) | [List for epg.pw 全部](./list/ew_all.list ) | 2221 | - |
@@ -55,7 +55,7 @@
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 0 | - |
 | 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 71 | - |
 
- > Updated at **11/26/2024 3:06:58 AM**
+ > Updated at **11/26/2024 3:09:30 AM**
 
 ## 📚 EPG 节目单
 
@@ -67,7 +67,7 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | - |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | - |
 
- > Updated at **11/26/2024 3:06:58 AM**
+ > Updated at **11/26/2024 3:09:30 AM**
 
 ## 🚀Github 文件加速
 
