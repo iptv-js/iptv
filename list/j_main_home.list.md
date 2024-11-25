@@ -1,6 +1,6 @@
-# List for **joevess/IPTV sources**
+# List for **joevess/IPTV home**
 
-> M3U: [j_m3u_home.m3u](./j_m3u_home.m3u ), TXT: [j_m3u_home.txt](./txt/j_m3u_home.txt )
+> M3U: [j_main_home.m3u](./j_main_home.m3u ), TXT: [j_main_home.txt](./txt/j_main_home.txt )
 
 ## 频道详情
 
