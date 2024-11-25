@@ -165,7 +165,7 @@
 | 157 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
 | 158 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
 
-Updated at **11/26/2024 6:47:58 AM**
+Updated at **11/26/2024 6:50:25 AM**
 
 ## 使用说明
 
