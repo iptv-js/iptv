@@ -30,12 +30,12 @@
 | HBv4 | [hbv4.m3u](./hbv4.m3u ) <br> [hbv4.txt](./txt/hbv4.txt ) | [List for HBv4](./list/hbv4.list ) | update failed | - |
 | HBv6 | [hbv6.m3u](./hbv6.m3u ) <br> [hbv6.txt](./txt/hbv6.txt ) | [List for HBv6](./list/hbv6.list ) | update failed | - |
 | joevess/IPTV home | [j_main_home.m3u](./j_main_home.m3u ) <br> [j_main_home.txt](./txt/j_main_home.txt ) | [List for joevess/IPTV home](./list/j_main_home.list ) | 58 | - |
-| joevess/IPTV iptv | [j_main_iptv.m3u](./j_main_iptv.m3u ) <br> [j_main_iptv.txt](./txt/j_main_iptv.txt ) | [List for joevess/IPTV iptv](./list/j_main_iptv.list ) | update failed | ✅ |
-| joevess/IPTV sources | [j_sources_home.m3u](./j_sources_home.m3u ) <br> [j_sources_home.txt](./txt/j_sources_home.txt ) | [List for joevess/IPTV sources](./list/j_sources_home.list ) | update failed | ✅ |
-| joevess/IPTV iptv | [j_sources_iptv.m3u](./j_sources_iptv.m3u ) <br> [j_sources_iptv.txt](./txt/j_sources_iptv.txt ) | [List for joevess/IPTV iptv](./list/j_sources_iptv.list ) | update failed | ✅ |
-| joevess/IPTV sources | [j_m3u_home.m3u](./j_m3u_home.m3u ) <br> [j_m3u_home.txt](./txt/j_m3u_home.txt ) | [List for joevess/IPTV sources](./list/j_m3u_home.list ) | update failed | ✅ |
-| joevess/IPTV iptv | [j_m3u_iptv.m3u](./j_m3u_iptv.m3u ) <br> [j_m3u_iptv.txt](./txt/j_m3u_iptv.txt ) | [List for joevess/IPTV iptv](./list/j_m3u_iptv.list ) | update failed | ✅ |
-| iptv.org China | [o_cn.m3u](./o_cn.m3u ) <br> [o_cn.txt](./txt/o_cn.txt ) | [List for iptv.org China](./list/o_cn.list ) | update failed | ✅ |
+| joevess/IPTV iptv | [j_main_iptv.m3u](./j_main_iptv.m3u ) <br> [j_main_iptv.txt](./txt/j_main_iptv.txt ) | [List for joevess/IPTV iptv](./list/j_main_iptv.list ) | 444 | - |
+| joevess/IPTV sources | [j_sources_home.m3u](./j_sources_home.m3u ) <br> [j_sources_home.txt](./txt/j_sources_home.txt ) | [List for joevess/IPTV sources](./list/j_sources_home.list ) | 152 | - |
+| joevess/IPTV iptv | [j_sources_iptv.m3u](./j_sources_iptv.m3u ) <br> [j_sources_iptv.txt](./txt/j_sources_iptv.txt ) | [List for joevess/IPTV iptv](./list/j_sources_iptv.list ) | 617 | - |
+| joevess/IPTV sources | [j_m3u_home.m3u](./j_m3u_home.m3u ) <br> [j_m3u_home.txt](./txt/j_m3u_home.txt ) | [List for joevess/IPTV sources](./list/j_m3u_home.list ) | 58 | - |
+| joevess/IPTV iptv | [j_m3u_iptv.m3u](./j_m3u_iptv.m3u ) <br> [j_m3u_iptv.txt](./txt/j_m3u_iptv.txt ) | [List for joevess/IPTV iptv](./list/j_m3u_iptv.list ) | 444 | - |
+| iptv.org China | [o_cn.m3u](./o_cn.m3u ) <br> [o_cn.txt](./txt/o_cn.txt ) | [List for iptv.org China](./list/o_cn.list ) | 535 | - |
 | iptv.org stream China | [o_s_cn.m3u](./o_s_cn.m3u ) <br> [o_s_cn.txt](./txt/o_s_cn.txt ) | [List for iptv.org stream China](./list/o_s_cn.list ) | 501 | - |
 | iptv.org stream China 112114 | [o_s_cn_112114.m3u](./o_s_cn_112114.m3u ) <br> [o_s_cn_112114.txt](./txt/o_s_cn_112114.txt ) | [List for iptv.org stream China 112114](./list/o_s_cn_112114.list ) | 18 | - |
 | iptv.org stream China CCTV | [o_s_cn_cctv.m3u](./o_s_cn_cctv.m3u ) <br> [o_s_cn_cctv.txt](./txt/o_s_cn_cctv.txt ) | [List for iptv.org stream China CCTV](./list/o_s_cn_cctv.list ) | 14 | - |
@@ -53,9 +53,9 @@
 | 北京移动 单播列表 | [q_bj_iptv_mobile.m3u](./q_bj_iptv_mobile.m3u ) <br> [q_bj_iptv_mobile.txt](./txt/q_bj_iptv_mobile.txt ) | [List for 北京移动 单播列表](./list/q_bj_iptv_mobile.list ) | 152 | - |
 | 北京移动 组播列表 | [q_bj_iptv_mobile_m.m3u](./q_bj_iptv_mobile_m.m3u ) <br> [q_bj_iptv_mobile_m.txt](./txt/q_bj_iptv_mobile_m.txt ) | [List for 北京移动 组播列表](./list/q_bj_iptv_mobile_m.list ) | 137 | - |
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 0 | - |
-| 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 71 | - |
+| 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 69 | - |
 
- > Updated at **11/26/2024 6:52:55 AM**
+ > Updated at **11/26/2024 6:55:29 AM**
 
 ## 📚 EPG 节目单
 
@@ -67,7 +67,7 @@
 | EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | update failed |
 | EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | update failed |
 
- > Updated at **11/26/2024 6:52:55 AM**
+ > Updated at **11/26/2024 6:55:29 AM**
 
 ## 🚀Github 文件加速
 
