@@ -10,7 +10,7 @@
 | 2 | [VGA]atv az | stream1.freetv.fun | <https://stream1.freetv.fun/bffe36bc2cbcb2b36eab73c5c69b6f93ce9e8dc73ff55dc7bc28b2fbfc57cc65.m3u8> |
 | 3 | [VGA]tvri world | stream1.freetv.fun | <https://stream1.freetv.fun/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8> |
 | 4 | [SD]hse24 trend (576p) | stream1.freetv.fun | <https://stream1.freetv.fun/b52242446e03a7104dcdca90c98c58987f9dc19536a423f40aea22e3b363d58c.m3u8> |
-| 5 | [HD]c plus | stream1.freetv.fun | <https://stream1.freetv.fun/050131ccae6cff6d385e17aa4151153041a8e62db06945f573fd2fcfada31276.m3u8> |
+| 5 | [BD]C+台 | stream1.freetv.fun | <https://stream1.freetv.fun/6e2a4654ba228aee90779378f0ff9fa7033af464482f05b7a1127ab4702b2333.m3u8> |
 | 6 | [BD]cctv1[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/f8b77654ee5202e90044771d42c97306dee3fac5acd35b60e23652873790de01.ctv> |
 | 7 | [SD]channel-v | stream1.freetv.fun | <https://stream1.freetv.fun/995e6e6a784e701e4ad3ea427fdf4d32bf9ab92eb6fac177133496757562f969.ctv> |
 | 8 | [BD]discovery kids | stream1.freetv.fun | <https://stream1.freetv.fun/d78d2807e3d6bb3c4add508a0f548df4bc97dee52811b0fe260dac57c2330224.ctv> |
@@ -67,9 +67,9 @@
 | 59 | [HD]凤凰卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/9853ae11a3df59fa5fdab952e249dc4c602e7ae758380c52718b7143c8ae7412.ctv> |
 | 60 | [BD]凤凰资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/26efe6336a2d8b24d8db4a230206eb2b27485e2020cedfaf97442201575da407.m3u8> |
 | 61 | [SD]凤凰电影 | stream1.freetv.fun | <https://stream1.freetv.fun/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv> |
-| 62 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/600e9a64188e1c6f1cb3fbfb8375f22fa6141424692fa3d1f87d89ed1e6a59d6.ctv> |
+| 62 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/58e2705ceb8acee469598d455d5946bf59b750fa1805279f6c44e0b9409c7413.m3u8> |
 
-Updated at **11/26/2024 4:50:25 PM**
+Updated at **11/26/2024 4:53:10 PM**
 
 ## 使用说明
 
