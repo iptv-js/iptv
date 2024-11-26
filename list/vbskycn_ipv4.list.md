@@ -533,7 +533,7 @@
 | 525 | 黄花城水长城04 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8> |
 | 526 | 2024-11-26 16:02:08 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qk63w4c03xbwmvaj/720p/h264/1730947489568846926/mda-qk63w4c03xbwmvaj.mp4?v_from_s=bdapp-resbox-hnb> |
 
-Updated at **11/26/2024 6:55:36 PM**
+Updated at **11/26/2024 6:58:05 PM**
 
 ## 使用说明
 
