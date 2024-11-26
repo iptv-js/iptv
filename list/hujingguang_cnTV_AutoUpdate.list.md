@@ -67,7 +67,7 @@
 | 59 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
 | 60 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=bd300f2f1732594208> |
 
-Updated at **11/26/2024 12:01:05 PM**
+Updated at **11/26/2024 12:03:45 PM**
 
 ## 使用说明
 
