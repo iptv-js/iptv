@@ -159,7 +159,7 @@
 | 151 | CETV2中国教育电视台二套 | IPv4 直链 | <http://117.161.12.124/live/program/live/cetv2/2500000/mnf.m3u8> |
 | 152 | CETV4空中课堂频道 | IPv4 直链 | <http://117.161.12.124/live/program/live/zgjy4hd8m/8000000/mnf.m3u8> |
 
-Updated at **11/26/2024 1:38:44 PM**
+Updated at **11/26/2024 1:41:12 PM**
 
 ## 使用说明
 
