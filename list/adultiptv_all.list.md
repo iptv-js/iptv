@@ -1,6 +1,6 @@
 # List for **adultiptv.net**
 
-> M3U: [adultiptv_chs.m3u](./adultiptv_chs.m3u ), TXT: [adultiptv_chs.txt](./txt/adultiptv_chs.txt )
+> M3U: [adultiptv_all.m3u](./adultiptv_all.m3u ), TXT: [adultiptv_all.txt](./txt/adultiptv_all.txt )
 
 ## 频道详情
 
