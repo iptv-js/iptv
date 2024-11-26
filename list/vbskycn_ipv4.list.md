@@ -612,7 +612,7 @@
 | 604 | 黄龙 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8> |
 | 605 | 2024-11-27 00:13:10 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qk63w4c03xbwmvaj/720p/h264/1730947489568846926/mda-qk63w4c03xbwmvaj.mp4?v_from_s=bdapp-resbox-hnb> |
 
-Updated at **11/27/2024 12:30:18 AM**
+Updated at **11/27/2024 12:32:46 AM**
 
 ## 使用说明
 

@@ -286,7 +286,7 @@
 | 278 | 纯享4K | IPv6 直链 | <http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3> |
 | 279 | 2024-11-27 00:13:11 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qk63w4c03xbwmvaj/720p/h264/1730947489568846926/mda-qk63w4c03xbwmvaj.mp4?v_from_s=bdapp-resbox-hnb> |
 
-Updated at **11/27/2024 12:30:18 AM**
+Updated at **11/27/2024 12:32:46 AM**
 
 ## 使用说明
 
