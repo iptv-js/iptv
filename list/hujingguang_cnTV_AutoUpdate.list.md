@@ -74,7 +74,7 @@
 | 66 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=96fad5b81732608826> |
 | 67 | 兵团卫视 | mobilelive-timeshift.ysp.cctv.cn | <http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0> |
 
-Updated at **11/26/2024 7:53:34 PM**
+Updated at **11/26/2024 7:56:06 PM**
 
 ## 使用说明
 
