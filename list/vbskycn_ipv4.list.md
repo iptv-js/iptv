@@ -572,7 +572,7 @@
 | 564 | 黄花城水长城02 | gctxyc.liveplay.myqcloud.com | <http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8> |
 | 565 | 2024-11-28 00:02:06 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qk63w4c03xbwmvaj/720p/h264/1730947489568846926/mda-qk63w4c03xbwmvaj.mp4?v_from_s=bdapp-resbox-hnb> |
 
-Updated at **11/28/2024 12:29:56 AM**
+Updated at **11/28/2024 12:32:24 AM**
 
 ## 使用说明
 
