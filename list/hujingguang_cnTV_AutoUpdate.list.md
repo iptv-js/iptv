@@ -57,7 +57,7 @@
 | 49 | 河南卫视 | 河南广播网 | <http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=c73886d8e6e84c6b3779d4076c66fe2b&wsTime=1733079039&wsSession=c687ad022e1e5b16a44cc421-173306926072879&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1> |
 | 50 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
 
-Updated at **12/2/2024 12:26:42 AM**
+Updated at **12/2/2024 12:28:58 AM**
 
 ## 使用说明
 
