@@ -173,7 +173,7 @@
 | 165 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
 | 166 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
 
-Updated at **12/4/2024 12:30:12 AM**
+Updated at **12/4/2024 12:32:40 AM**
 
 ## 使用说明
 
