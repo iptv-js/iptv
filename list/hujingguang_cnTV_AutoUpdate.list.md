@@ -86,7 +86,7 @@
 | 78 | 兵团卫视 | IPv4 直链 | <http://117.161.12.116/live/program/live/btws/1300000/mnf.m3u8> |
 | 79 | 三沙卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=9f5530a71733452485> |
 
-Updated at **12/6/2024 11:54:05 AM**
+Updated at **12/6/2024 11:56:34 AM**
 
 ## 使用说明
 
