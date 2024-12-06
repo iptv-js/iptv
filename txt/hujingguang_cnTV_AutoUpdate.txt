@@ -1,5 +1,6 @@
 湖南台,#genre#
-湖南都市,http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9cXFfcGhvbmVfbGl2ZSZzPTA3NjBjYWI4YzhhYTgyYWE5NDYxYjJjZDg5ODg4OTczJnVpZD0mdXVpZD1mMTg5NDEyZTRiOWUyMWZhNjU4NjhlNTFkY2M5MmFiNS02NzI3ZTI2NCZ2PTImYXM9MCZlcz0xNzMzNDI4ODIz/HNDSMPP360.m3u8
+湖南娱乐频道,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz01NzI5MDcwN2VmZTE5OGYwMDhhNzRiOGQ0YmViOTAwOSZ1aWQ9JnV1aWQ9MGExMjM2NTg4ZGM1NmI2OTA1Y2VmNjAzMWY5YjM4MWItNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTczMzQ1MDQyMw,,/HNYLMPP360.m3u8
+长沙新闻频道,http://phonehw.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy4zOS4yMjYuMTAwJnFpZD0mY2RuZXhfaWQ9aHdfcGhvbmUmcz05YmY1YzE0ZWNjOWI1MjIyYzRlMWI0NTFkMTYyMDYyNyZ1aWQ9JnV1aWQ9NmRkZjMwMDZjY2E5MjNjMDMwNDNmMjI4NjIzNDJjN2MtNjcyN2UyNjQmdj0yJmFzPTAmZXM9MTczMzQ2NTE4Mg,,/CSXWMPP360.m3u8
 湖南卫视,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
 
 港澳台,#genre#
@@ -45,24 +46,41 @@ KPop,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
 
 央视台,#genre#
 CCTV-4_中文国际,https://piccpndks.v.kcdnvip.com/audio/cctv4_2/index.m3u8?playHost=piccpndks.v.kcdnvip.com
-CCTV-4K_高清,https://www.nettvpro.xyz/player/videojs.php?url=https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV-8_电视剧,http://183.196.25.171:808/hls/77/index.m3u8
-CCTV-9_纪录,https://www.nettvpro.xyz/player/videojs.php?url=http://123.184.28.3/hlslive-tx-cdn.ysp.cctv.cn/012/2024078603.m3u8
 CCTV-11_戏曲,http://183.196.25.171:808/hls/11/index.m3u8
 CCTV-16_4K,http://117.161.12.116/live/program/live/cctv16hd8m/8000000/mnf.m3u8
 CCTV-17_农业农村,http://183.196.25.171:808/hls/93/index.m3u8
 CGNT_新闻频道,http://live.cgtn.com/1000/prog_index.m3u8
 
 卫视台,#genre#
-浙江卫视,https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1733414854-876feb58f8b713cc8aa68830b7d0cdd6-0-dcb440598f2abff5260274cefa341d73
+浙江卫视,https://zhfivel02.cztv.com/channel01/720p.m3u8?auth_key=1733448337-d939eea1507b19dfa82cf4e3c58ae114-0-02cf15e5f7c43e7dd3e5abf49d88b020
 凤凰资讯,http://203.205.220.194/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰中文,http://203.205.220.194/qctv.fengshows.cn/live/0701pcc72.m3u8
+东方卫视,http://117.161.12.116/live/program/live/hddfws/2300000/mnf.m3u8
 江苏卫视,http://vvlive.eztv.vip/hwsstnew/hwsstnew.m3u8?auth_key=1710810832-0-0-70d15b6eab3c5342adefba848a4d9067
-江西卫视,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=173341560226804&token=b81ccca2c50f966b43ad50ab8e83b8f6
+安徽卫视,http://117.161.12.116/live/program/live/ahwshd/2300000/mnf.m3u8
+重庆卫视,http://117.161.12.116/live/program/live/cqws/1300000/mnf.m3u8
+北京卫视,http://117.161.12.116/live/program/live/bjwshd/2300000/mnf.m3u8
+天津卫视,http://117.161.12.116/live/program/live/tjwshd/2300000/mnf.m3u8
+辽宁卫视,http://117.161.12.116/live/program/live/lnwshd/2300000/mnf.m3u8
+江西卫视,https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=173345106532942&token=ed54a03136517dad283f7d138644213b
 黑龙江卫视,http://p.ytelc.com/videojs.php?id=https://idclive.hljtv.com:4430/live/hljws_own.m3u8
+山东卫视,http://117.161.12.116/live/program/live/sdwshd/2300000/mnf.m3u8
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
-河南卫视,http://59.37.82.157/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=6e8e99914c57665ae11432cb8b3e22a7&wsTime=1733416935&wsSession=4afbde54ea02036d1e3909cc-173341561705632&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1
+四川卫视,http://117.161.12.116/live/program/live/scws/1300000/mnf.m3u8
+广东卫视,http://117.161.12.116/live/program/live/gdwshd/2300000/mnf.m3u8
+湖北卫视,http://117.161.12.116/live/program/live/hbwshd/2300000/mnf.m3u8
+东南卫视,http://117.161.12.116/live/program/live/dnwshd/2300000/mnf.m3u8
+厦门卫视,http://117.161.12.116/live/program/live/xmws/1300000/mnf.m3u8
+海峡卫视,https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=2cde0a121733458016
+河北卫视,http://117.161.12.116/live/program/live/hbws/1300000/mnf.m3u8
+吉林卫视,http://117.161.12.116/live/program/live/jlws/1300000/mnf.m3u8
+陕西卫视,http://117.161.12.116/live/program/live/sxws/1300000/mnf.m3u8
+西藏卫视,https://tv.vtibet.cn/live/tzNmj6ZxiPW7ws.m3u8?secret=666b6baa2a287ab31b17b3049278efc8&time=67525d6a
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=ac4608d03b3fec4557d137827a3f4bb6&txTime=95A66655
-海南卫视,https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=8be848b11733418265
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f26c1d501733414837
-三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=76a512b71733418350
+甘肃卫视,http://117.161.12.116/live/program/live/gsws/1300000/mnf.m3u8
+海南卫视,https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=c116d5611733455956
+贵州卫视,https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=9a092ec4ed3a1a9d433d3a0c56139e32&txTime=675254A2
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=24a5daa71733447126
+兵团卫视,http://117.161.12.116/live/program/live/btws/1300000/mnf.m3u8
+三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=9f5530a71733452485
