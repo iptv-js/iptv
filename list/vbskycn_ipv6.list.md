@@ -298,7 +298,7 @@
 | 290 | 漫游世界 | IPv6 直链 | <http://[2409:8087:5e08:24::11]:6610/000000001000/6000000003000028434/1.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=3> |
 | 291 | 2024-12-07 00:19:05 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qk63w4c03xbwmvaj/720p/h264/1730947489568846926/mda-qk63w4c03xbwmvaj.mp4?v_from_s=bdapp-resbox-hnb> |
 
-Updated at **12/7/2024 12:27:55 AM**
+Updated at **12/7/2024 12:30:23 AM**
 
 ## 使用说明
 
