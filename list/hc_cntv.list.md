@@ -98,7 +98,7 @@
 | 90 | 兵团卫视 | IPv4 直链 | <http://117.161.12.116/live/program/live/btws/1300000/mnf.m3u8> |
 | 91 | 三沙卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=2539ae411733557273> |
 
-Updated at **12/8/2024 12:26:59 AM**
+Updated at **12/8/2024 12:29:21 AM**
 
 ## 使用说明
 
