@@ -76,7 +76,7 @@
 | 68 | 河北卫视 | IPv4 直链 | <http://117.161.12.116/live/program/live/hbws/1300000/mnf.m3u8> |
 | 69 | 内蒙古卫视 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680> |
 
-Updated at **12/10/2024 12:30:39 AM**
+Updated at **12/10/2024 12:33:03 AM**
 
 ## 使用说明
 
