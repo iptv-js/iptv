@@ -58,7 +58,7 @@
 | 50 | 黑龙江卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://idclive.hljtv.com:4430/live/hljws_own.m3u8> |
 | 51 | 河南卫视 | 河南广播网 | <http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e6a2b685cb51eeb64af6bd528c6b2adf&wsTime=1733841391&wsSession=c687ad022e1e5b16a44cc421-173383599369996&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1> |
 
-Updated at **12/11/2024 12:30:48 AM**
+Updated at **12/11/2024 12:33:27 AM**
 
 ## 使用说明
 

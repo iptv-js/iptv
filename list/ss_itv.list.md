@@ -616,7 +616,7 @@
 | 608 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 609 | 龙岩综合 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **12/11/2024 12:30:48 AM**
+Updated at **12/11/2024 12:33:27 AM**
 
 ## 使用说明
 
