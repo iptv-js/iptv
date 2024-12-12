@@ -247,7 +247,7 @@
 | 239 | 漫游世界 | IPv6 直链 | <http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000017/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000017&livemode=1&stbId=3> |
 | 240 | 2024-12-13 00:18:13 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qk63w4c03xbwmvaj/720p/h264/1730947489568846926/mda-qk63w4c03xbwmvaj.mp4?v_from_s=bdapp-resbox-hnb> |
 
-Updated at **12/13/2024 12:30:05 AM**
+Updated at **12/13/2024 12:32:32 AM**
 
 ## 使用说明
 
