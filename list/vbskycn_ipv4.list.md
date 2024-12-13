@@ -1601,7 +1601,7 @@
 | 1593 | 黄龙 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8> |
 | 1594 | 2024-12-14 00:20:03 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qk63w4c03xbwmvaj/720p/h264/1730947489568846926/mda-qk63w4c03xbwmvaj.mp4?v_from_s=bdapp-resbox-hnb> |
 
-Updated at **12/14/2024 12:29:24 AM**
+Updated at **12/14/2024 12:31:47 AM**
 
 ## 使用说明
 
