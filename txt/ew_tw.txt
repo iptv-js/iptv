@@ -9,7 +9,6 @@
 [HD]大爱1台,https://stream1.freetv.fun/cda9c15049fc9a62b363d1018881fe11828f20acfccb0ba7927604e967e003e7.m3u8
 [HD]大爱2,https://stream1.freetv.fun/adefa4b3b335e22e458ee3232eb44832e815acd82cf7ad1c489d2d11274c700b.m3u8
 [VGA]好消息,https://stream1.freetv.fun/7e863d41fbb20975775323c59644b5d46c3a28b9c2f01e4b574a14761e01641e.m3u8
-[BD]亚洲卫视,https://stream1.freetv.fun/9b76ea2344e9add33d27b06fcec84015f4aec3bfb9662be24880df82c51c9143.m3u8
 [BD]民视旅游,https://stream1.freetv.fun/9289a1165376ea4d6d6bcd7e66c6169d5042cd933e5ba3f972a1f262de0cdcc2.ctv
 [BD]生命电视台,https://stream1.freetv.fun/b399ca0e9a6cda833d86d80ddd3423a9246b120ce63e0ce8c86fb2296f97b058.m3u8
 [BD]生命电视台,https://stream1.freetv.fun/3f1da41967f70b7fc0c80cce65f2a8c6d9c74b85eb97d39b0f3745b36b69a875.m3u8
@@ -131,10 +130,10 @@
 
 新闻,#genre#
 [VGA]TVBS新闻,https://stream1.freetv.fun/48cb4e3a172c761dce51ad49603aa31be6c92ad1df7a26fb8c1eb0bf00d2eda3.m3u8
-[BD]TVBS-新闻,https://stream1.freetv.fun/e6a6a85f882298330f85cfae2b981957c71582217fddc398d29d877a9410ee5d.m3u8
+[VGA]TVBS-新闻,https://stream1.freetv.fun/e6a6a85f882298330f85cfae2b981957c71582217fddc398d29d877a9410ee5d.m3u8
 [BD]taiwan_plus_tv,https://stream1.freetv.fun/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8
 [HD]三立新闻,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
-[BD]中天新闻,https://stream1.freetv.fun/bf6bcb0e831b311778ea5b4b0a1bc19258baefde2c4bbe381abe26a64e756e28.m3u8
+[VGA]中天新闻,https://stream1.freetv.fun/bf6bcb0e831b311778ea5b4b0a1bc19258baefde2c4bbe381abe26a64e756e28.m3u8
 [BD]中视新闻,https://stream1.freetv.fun/4a761bf0caa97c89b156885de0a3183d4ab0691e25372a29419c4e0562fb1ba0.m3u8
 [BD]台视新闻,https://stream1.freetv.fun/d8108ac365f78a8a9a4987c625b145350ea69a0572ff6d74bb721820f2420525.m3u8
 [VGA]台视新闻,https://stream1.freetv.fun/7f1d166a41126957e96dff47fc3de03d00db800090ed4f23f086c58062f606ac.ctv
