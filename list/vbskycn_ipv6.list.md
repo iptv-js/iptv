@@ -262,7 +262,7 @@
 | 254 | 纪实人文 | IPv6 直链 | <http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226174/index.m3u8> |
 | 255 | 2024-12-16 00:11:41 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qk63w4c03xbwmvaj/720p/h264/1730947489568846926/mda-qk63w4c03xbwmvaj.mp4?v_from_s=bdapp-resbox-hnb> |
 
-Updated at **12/16/2024 12:15:11 AM**
+Updated at **12/16/2024 12:17:43 AM**
 
 ## 使用说明
 
