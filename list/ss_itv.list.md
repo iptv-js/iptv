@@ -580,7 +580,7 @@
 | 572 | 马鞍山新闻 | IPv4 直链 | <http://223.241.247.214:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 573 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **12/15/2024 11:46:05 PM**
+Updated at **12/16/2024 12:15:11 AM**
 
 ## 使用说明
 
