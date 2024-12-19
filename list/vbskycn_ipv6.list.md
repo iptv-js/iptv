@@ -242,7 +242,7 @@
 | 234 | 纯享4K | IPv6 直链 | <http://[2409:8087:5e08:24::11]:6610/000000001000/1000000004000011651/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=3> |
 | 235 | 2024-12-19 18:23:22 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-qmfhcast4zs3v8c9/720p/h264/1734351332606021389/mda-qmfhcast4zs3v8c9.mp4?v_from_s=bdapp-resbox-suzhou> |
 
-Updated at **12/20/2024 12:26:40 AM**
+Updated at **12/20/2024 12:28:57 AM**
 
 ## 使用说明
 
