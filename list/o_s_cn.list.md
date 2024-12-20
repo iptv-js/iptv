@@ -509,7 +509,7 @@
 | 501 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 | 502 | Shanghai Education Television Station | IPv4 直链 | <http://223.166.234.114:7777/tsfile/live/1033_1.m3u8> |
 
-Updated at **12/20/2024 12:28:57 AM**
+Updated at **12/21/2024 12:26:33 AM**
 
 ## 使用说明
 
