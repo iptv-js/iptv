@@ -6,21 +6,21 @@
 
 | No. | Channel Name | From | Source |
 | --- | ------------ | ---- | ------ |
-| 1 | CCTV1 | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/1387573383/1387573383.m3u8> |
-| 2 | CCTV2 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0002_1.m3u8> |
-| 3 | CCTV3 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0003_1.m3u8> |
+| 1 | CCTV1 | IPv4 直链 | <http://60.12.183.46:9901/tsfile/live/0001_1.m3u8> |
+| 2 | CCTV2 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0002_1.m3u8> |
+| 3 | CCTV3 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0003_1.m3u8> |
 | 4 | CCTV4 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0004_1.m3u8> |
 | 5 | CCTV5 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0005_1.m3u8> |
-| 6 | CCTV5+ | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/485668034/485668034.m3u8> |
-| 7 | CCTV6 | IPv4 直链 | <http://119.62.36.56:9901/tsfile/live/0006_1.m3u8> |
+| 6 | CCTV5+ | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/485668034/485668034.m3u8> |
+| 7 | CCTV6 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0006_1.m3u8> |
 | 8 | CCTV7 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0007_1.m3u8> |
-| 9 | CCTV8 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0008_1.m3u8> |
-| 10 | CCTV9 | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/675916385/675916385.m3u8> |
-| 11 | CCTV10 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0010_1.m3u8> |
-| 12 | CCTV11 | tvbox.nat.netsite.cc:8043 | <https://tvbox.nat.netsite.cc:8043/proxy/421024024/421024024.m3u8> |
-| 13 | CCTV12 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0012_1.m3u8> |
-| 14 | CCTV13 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0013_1.m3u8> |
-| 15 | CCTV14 | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/512439688/512439688.m3u8> |
+| 9 | CCTV8 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0008_1.m3u8> |
+| 10 | CCTV9 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0009_1.m3u8> |
+| 11 | CCTV10 | IPv4 直链 | <http://60.12.183.46:9901/tsfile/live/0010_1.m3u8> |
+| 12 | CCTV11 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0011_1.m3u8> |
+| 13 | CCTV12 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0012_1.m3u8> |
+| 14 | CCTV13 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0013_1.m3u8> |
+| 15 | CCTV14 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0014_1.m3u8> |
 | 16 | CCTV15 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0015_1.m3u8> |
 | 17 | CCTV16 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0016_1.m3u8> |
 | 18 | CCTV17 | tvbox.nat.netsite.cc:8043 | <https://tvbox.nat.netsite.cc:8043/proxy/199561397/199561397.m3u8> |
@@ -42,477 +42,477 @@
 | 34 | CGTN纪录 | 0472.org | <https://0472.org/hls/cgtnd.m3u8> |
 | 35 | CGTN西语 | 0472.org | <https://0472.org/hls/cgtnx.m3u8> |
 | 36 | CGTN阿语 | 0472.org | <https://0472.org/hls/cgtna.m3u8> |
-| 37 | 安徽卫视 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0130_1.m3u8> |
-| 38 | 北京卫视 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0130_1.m3u8> |
-| 39 | 兵团卫视 | IPv4 直链 | <http://112.101.78.50:9901/tsfile/live/0115_1.m3u8> |
-| 40 | 东方卫视 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0127_1.m3u8> |
+| 37 | 安徽卫视 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0130_2.m3u8> |
+| 38 | 北京卫视 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0016_1.m3u8> |
+| 39 | 兵团卫视 | IPv4 直链 | <http://222.218.158.165:8181/tsfile/live/0115_1.m3u8> |
+| 40 | 东方卫视 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0107_1.m3u8> |
 | 41 | 东南卫视 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0137_1.m3u8> |
-| 42 | 甘肃卫视 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0113_1.m3u8> |
-| 43 | 广东卫视 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0125_1.m3u8> |
-| 44 | 广西卫视 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/102904669/102904669.m3u8> |
-| 45 | 贵州卫视 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0120_1.m3u8> |
-| 46 | 海南卫视 | tvbox.nat.netsite.cc:8043 | <https://tvbox.nat.netsite.cc:8043/proxy/200969914/200969914.m3u8> |
+| 42 | 甘肃卫视 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0141_1.m3u8> |
+| 43 | 广东卫视 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0107_1.m3u8> |
+| 44 | 广西卫视 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0118_1.m3u8> |
+| 45 | 贵州卫视 | tvbox.nat.netsite.cc:8043 | <https://tvbox.nat.netsite.cc:8043/proxy/189740973/189740973.m3u8> |
+| 46 | 海南卫视 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0141_1.m3u8> |
 | 47 | 海峡卫视 | IPv4 直链 | <http://38.64.72.148:80/hls/modn/list/4009/chunklist0.m3u8> |
-| 48 | 河北卫视 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0116_1.m3u8> |
-| 49 | 河南卫视 | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/251465659/251465659.m3u8> |
-| 50 | 湖北卫视 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/209398845/209398845.m3u8> |
-| 51 | 湖南卫视 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0128_1.m3u8> |
-| 52 | 吉林卫视 | tvbox.nat.netsite.cc:8043 | <https://tvbox.nat.netsite.cc:8043/proxy/649197264/649197264.m3u8> |
-| 53 | 江苏卫视 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0124_1.m3u8> |
-| 54 | 江西卫视 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/203181175/203181175.m3u8> |
+| 48 | 河北卫视 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0111_2.m3u8> |
+| 49 | 河南卫视 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0121_1.m3u8> |
+| 50 | 湖北卫视 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0116_1.m3u8> |
+| 51 | 湖南卫视 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0019_1.m3u8> |
+| 52 | 吉林卫视 | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/649197264/649197264.m3u8> |
+| 53 | 江苏卫视 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0127_1.m3u8> |
+| 54 | 江西卫视 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0130_1.m3u8> |
 | 55 | 康巴卫视 | IPv4 直链 | <http://61.157.139.15:9901/tsfile/live/2415_1.m3u8> |
-| 56 | 辽宁卫视 | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/463441117/463441117.m3u8> |
+| 56 | 辽宁卫视 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0142_1.m3u8> |
 | 57 | 旅游卫视 | IPv4 直链 | <http://111.61.236.247:9081/hls/50/index.m3u8> |
-| 58 | 宁夏卫视 | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/842139022/842139022.m3u8> |
+| 58 | 宁夏卫视 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0112_2.m3u8> |
 | 59 | 农林卫视 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1067_1.m3u8> |
-| 60 | 青海卫视 | tvbox.nat.netsite.cc:8043 | <https://tvbox.nat.netsite.cc:8043/proxy/1164716104/1164716104.m3u8> |
+| 60 | 青海卫视 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0109_2.m3u8> |
 | 61 | 三沙卫视 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1056_1.m3u8> |
 | 62 | 厦门卫视 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0112_1.m3u8> |
-| 63 | 山东卫视 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/95712545/95712545.m3u8> |
-| 64 | 山西卫视 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0139_1.m3u8> |
-| 65 | 陕西卫视 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/1158533991/1158533991.m3u8> |
-| 66 | 深圳卫视 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0126_1.m3u8> |
-| 67 | 四川卫视 | tvbox.nat.netsite.cc:8043 | <https://tvbox.nat.netsite.cc:8043/proxy/59757691/59757691.m3u8> |
-| 68 | 天津卫视 | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/240376980/240376980.m3u8> |
-| 69 | 西藏卫视 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/1062504144/1062504144.m3u8> |
-| 70 | 新疆卫视 | IPv4 直链 | <http://1.197.81.7:9901/tsfile/live/0110_1.m3u8> |
+| 63 | 山东卫视 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0126_1.m3u8> |
+| 64 | 山西卫视 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0109_2.m3u8> |
+| 65 | 陕西卫视 | tvbox.nat.netsite.cc:8043 | <https://tvbox.nat.netsite.cc:8043/proxy/1158533991/1158533991.m3u8> |
+| 66 | 深圳卫视 | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/457534194/457534194.m3u8> |
+| 67 | 四川卫视 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0123_1.m3u8> |
+| 68 | 天津卫视 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0135_1.m3u8> |
+| 69 | 西藏卫视 | tvbox.nat.netsite.cc:8043 | <https://tvbox.nat.netsite.cc:8043/proxy/1062504144/1062504144.m3u8> |
+| 70 | 新疆卫视 | IPv4 直链 | <http://39.164.160.249:9901/tsfile/live/0110_1.m3u8> |
 | 71 | 延边卫视 | 延边广播电视台 | <http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8> |
-| 72 | 云南卫视 | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/599737477/599737477.m3u8> |
-| 73 | 浙江卫视 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0124_1.m3u8> |
-| 74 | 重庆卫视 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0142_1.m3u8> |
+| 72 | 云南卫视 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0110_1.m3u8> |
+| 73 | 浙江卫视 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0124_1.m3u8> |
+| 74 | 重庆卫视 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/562106987/562106987.m3u8> |
 | 75 | 南方卫视 | IPv4 直链 | <http://119.125.134.228:9902/tsfile/live/1015_1.m3u8> |
 | 76 | 安多卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/adws/sd/live.m3u8> |
-| 77 | 东方卫视 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0127_1.m3u8> |
+| 77 | 东方卫视 | IPv4 直链 | <http://119.62.27.107:9901/tsfile/live/0107_1.m3u8> |
 | 78 | 大湾区卫视 | gmxw.7766.org:808 | <http://gmxw.7766.org:808/hls/132/index.m3u8> |
 | 79 | 黑龙江卫视 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/982668357/982668357.m3u8> |
-| 80 | 内蒙古卫视 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/1838037272/1838037272.m3u8> |
+| 80 | 内蒙古卫视 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/0109_1.m3u8> |
 | 81 | 山东教育卫视 | IPv4 直链 | <http://58.57.40.22:9901/tsfile/live/1026_1.m3u8> |
-| 82 | CHC动作电影 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1101_1.m3u8> |
-| 83 | CHC家庭影院 | IPv4 直链 | <http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8> |
-| 84 | CHC影迷电影 | IPv4 直链 | <http://59.173.243.210:9901/tsfile/live/0119_1.m3u8> |
-| 85 | 黑莓电影 | IPv4 直链 | <http://112.102.217.173:9003//hls/99/index.m3u8> |
-| 86 | 东方影视 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1028_1.m3u8> |
-| 87 | 周星驰 | live.metshop.top | <https://live.metshop.top/huya/11342412> |
-| 88 | 刘德华 | live.metshop.top | <https://live.metshop.top/huya/11342424> |
-| 89 | 星空卫视 | IPv4 直链 | <http://218.202.220.2:5000/nn_live.ts?id=STARTV> |
-| 90 | 东森电影 | 1b6467f415.iok.la:9931 | <http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8> |
-| 91 | 靖天电影 | litv.zapi.us.kg | <https://litv.zapi.us.kg/?id=4gtv-4gtv061> |
-| 92 | 靖天戏剧 | litv.zapi.us.kg | <http://litv.zapi.us.kg/?id=4gtv-4gtv058> |
-| 93 | 靖天映画 | litv.zapi.us.kg | <https://litv.zapi.us.kg/?id=4gtv-4gtv055> |
-| 94 | 龙华电影 | IPv4 直链 | <http://37.27.111.214:8080/live/19/hls.m3u8> |
-| 95 | AMC电影 | IPv4 直链 | <http://61.221.215.25:8800/hls/43/index.m3u8> |
-| 96 | 足球频道 | nmglive.imfc.cn | <http://nmglive.imfc.cn/5n1r1c/182396.m3u8> |
-| 97 | 天元围棋 | IPv4 直链 | <http://120.76.248.139/live/bfgd/4200000633.m3u8> |
-| 98 | 重温经典 | ali.hlspull.yximgs.com | <http://ali.hlspull.yximgs.com/live/awei_cwjd.flv> |
-| 99 | 纪实科教8K | IPv4 直链 | <http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8> |
-| 100 | 黑莓动画 | IPv4 直链 | <http://112.102.217.173:9003//hls/100/index.m3u8> |
-| 101 | 优漫卡通 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/1003_1.m3u8> |
-| 102 | 卡酷少儿 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1087_1.m3u8> |
-| 103 | 嘉佳卡通 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0115_1.m3u8> |
-| 104 | 炫动卡通 | IPv4 直链 | <http://112.102.217.173:9003//hls/72/index.m3u8> |
-| 105 | 金鹰卡通 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0109_1.m3u8> |
-| 106 | 广东少儿 | gmxw.7766.org:808 | <http://gmxw.7766.org:808/hls/175/index.m3u8> |
-| 107 | 浙江少儿 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/1658458613/1658458613.m3u8> |
-| 108 | 哈哈炫动 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/1005_1.m3u8> |
-| 109 | 靖天卡通 | litv.zapi.us.kg | <https://litv.zapi.us.kg/?id=4gtv-4gtv044> |
-| 110 | 靖洋卡通 | litv.zapi.us.kg | <https://litv.zapi.us.kg/?id=4gtv-4gtv057> |
-| 111 | 龙华卡通 | litv.zapi.us.kg | <http://litv.zapi.us.kg/?id=litv-longturn01> |
-| 112 | 广东珠江 | IPv4 直链 | <http://14.212.185.71:9901/tsfile/live/1000_1.m3u8> |
-| 113 | 康巴卫视 | IPv4 直链 | <http://61.157.139.15:9901/tsfile/live/2415_1.m3u8> |
-| 114 | 厦门卫视 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0112_1.m3u8> |
-| 115 | 延边卫视 | 延边广播电视台 | <http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8> |
-| 116 | 内蒙古蒙语卫视 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=4971666599ef9411629213c9a300bf66&txTime=771EF880> |
-| 117 | 哈哈炫动 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/1005_1.m3u8> |
-| 118 | 山东教育 | IPv4 直链 | <http://120.238.94.10:9901/tsfile/live/1062_1.m3u8> |
-| 119 | 广东体育 | IPv4 直链 | <http://14.212.185.71:9901/tsfile/live/1003_1.m3u8> |
-| 120 | 金鹰纪实 | IPv4 直链 | <http://58.57.40.22:9901/tsfile/live/1070_1.m3u8> |
-| 121 | 法治天地 | IPv4 直链 | <http://60.255.240.247:8090/live/fztx_4000.m3u8> |
-| 122 | 民视综艺 | litv.zapi.us.kg | <https://litv.zapi.us.kg/?id=4gtv-4gtv004> |
-| 123 | 求索纪录 | IPv4 直链 | <http://120.6.209.42:8866/udp/239.253.93.236:6414> |
-| 124 | Discovery | ott.watch | <http://ott.watch/stream/E9LDH2ZCN7/177.m3u8> |
-| 125 | 中国环球电视 | CGTN | <http://live.cgtn.com/500/prog_index.m3u8> |
-| 126 | 航拍中国第一季 | hls.cntv.myhwcdn.cn | <http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8> |
-| 127 | 航拍中国第二季 | newcntv.qcloudcdn.com | <http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8> |
-| 128 | 航拍中国第三季 | hls.cntv.kcdnvip.com | <http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8> |
-| 129 | 劲爆体育 | IPv4 直链 | <http://124.231.214.218:9999/tsfile/live/1113_1.m3u8> |
-| 130 | 五星体育 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1030_1.m3u8> |
-| 131 | 精品体育 | IPv4 直链 | <http://112.102.217.173:9003//hls/89/index.m3u8> |
-| 132 | 超级体育 | IPv4 直链 | <http://112.102.217.173:9003//hls/86/index.m3u8> |
-| 133 | 广东体育 | IPv4 直链 | <http://14.212.185.71:9901/tsfile/live/1003_1.m3u8> |
-| 134 | 辽宁体育 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1023_1.m3u8> |
-| 135 | 魅力足球 | www.72444165.xyz:5005 | <http://www.72444165.xyz:5005/itv/bestzb/5000000011000031207> |
-| 136 | 天元围棋 | IPv4 直链 | <http://120.76.248.139/live/bfgd/4200000633.m3u8> |
-| 137 | 五星体育 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1030_1.m3u8> |
-| 138 | 快乐垂钓 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1048_1.m3u8> |
-| 139 | 纬来体育 | cloud.yumixiu768.com:443 | <https://cloud.yumixiu768.com:443/tmp/123.m3u8> |
-| 140 | 游戏风云 | IPv4 直链 | <http://223.166.234.114:7777/tsfile/live/1050_1.m3u8> |
-| 141 | 公视戏剧 | litv.zapi.us.kg | <http://litv.zapi.us.kg/?id=4gtv-4gtv042> |
-| 142 | 龙华戏剧 | litv.zapi.us.kg | <http://litv.zapi.us.kg/?id=litv-longturn18> |
-| 143 | 三立戏剧 | IPv4 直链 | <http://61.221.215.25:8800/hls/41/index.m3u8> |
-| 144 | 3ABNKids | 3abn.bozztv.com | <https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8> |
-| 145 | CAT电影 | IPv4 直链 | <http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv076> |
-| 146 | CHC电影 | IPv4 直链 | <http://220.249.114.102:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 147 | FanpopTV | streaming-cl.sh1ny.space | <https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8> |
-| 148 | JapanimTV | foxkidstv.be:3369 | <https://foxkidstv.be:3369/stream/play.m3u8> |
-| 149 | KuriakosKids | w2.manasat.com | <https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8> |
-| 150 | NewTV动作电影 | www.72444165.xyz:5005 | <http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653> |
-| 151 | XilamTV | xilam-animation-1-fr.samsung.wurl.tv | <https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8> |
-| 152 | YOYOTV | ythls.armelin.one | <https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8> |
-| 153 | iFun动漫台 | IPv4 直链 | <http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/litv-ftv15> |
-| 154 | 上虞文化影院 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8> |
-| 155 | 东阳影视生活 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8> |
-| 156 | 中华小当家 | IPv4 直链 | <http://61.221.215.25:8800/hls/40/index.m3u8> |
-| 157 | 九品芝麻官 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4> |
-| 158 | 人在囧途 | jsmov2.a.yximgs.com | <http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8> |
-| 159 | 人在囧途之囧妈 | vip.ffzy-online.com | <https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8> |
-| 160 | 人在囧途之泰囧 | vip.ffzy-play.com | <https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8> |
-| 161 | 人在囧途之港囧 | vip.ffzy-play7.com | <https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8> |
-| 162 | 佛山影视 | IPv4 直链 | <http://218.16.50.206:9090/udp/239.253.43.56:5146> |
-| 163 | 倩女幽魂人间道 | jsmov2.a.yximgs.com | <http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8> |
-| 164 | 倩女幽魂妖魔道 | jsmov2.a.yximgs.com | <http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8> |
-| 165 | 倩女幽魂道道道 | jsmov2.a.yximgs.com | <http://jsmov2.a.yximgs.com/bs3/video-hls/5216294367991385255_hlsb.m3u8> |
-| 166 | 南宁影视娱乐 | 老友网 | <http://hls.nntv.cn/nnlive/YSYL_244.m3u8> |
-| 167 | 卧虎藏龙 | vip.ffzy-play6.com | <https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8> |
-| 168 | 变形金刚 | hlsdofviewmgspvod.aikan.miguvideo.com | <https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/3001/946/427/3001946427/media/3001946427_5081378899_56.mp4> |
-| 169 | 哆啦A梦大雄与天空的理想乡 | hlsdofviewmgspvod.aikan.miguvideo.com | <https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/257/5105223257/media/5105223257_5206936022_56.mp4> |
-| 170 | 哆啦A梦大雄与天空的理想乡普通话 | hlsdofviewmgspvod.aikan.miguvideo.com | <https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/351/5105223351/media/5105223351_5206941130_56.mp4> |
-| 171 | 哈利波特死神的圣物 | ikcdn01.ikzybf.com | <https://ikcdn01.ikzybf.com/20221105/DABRajDL/index.m3u8> |
-| 172 | 哈利波特消失的密室 | v1.fentvoss.com | <https://v1.fentvoss.com/sdv1/202308/19/7pizD2d5YN2/video/index.m3u8> |
-| 173 | 哈利波特混血王子的背叛 | v1.fentvoss.com | <https://v1.fentvoss.com/sdv1/202308/19/jZ4qXuUYMH2/video/index.m3u8> |
-| 174 | 哈利波特火杯的考验 | ikcdn01.ikzybf.com | <https://ikcdn01.ikzybf.com/20221210/qYaADoTA/index.m3u8> |
-| 175 | 哈尔滨影视 | stream.hrbtv.net | <http://stream.hrbtv.net/yspd/sd/live.m3u8> |
-| 176 | 哥斯拉大战金刚2帝国崛起 | api.heimuer.app | <https://api.heimuer.app/play/6f3edeb2885149e4b30f676e8a94ef3b.m3u8> |
-| 177 | 四川影视文艺 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.0.166:5140> |
-| 178 | 安徽影视 | IPv4 直链 | <http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8> |
-| 179 | 家庭影院 | IPv4 直链 | <http://113.236.31.149:9901/tsfile/live/1105_1.m3u8> |
-| 180 | 寒战 | vip.ffzy-play6.com | <https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8> |
-| 181 | 少年包青天备用 | lunbo.freetv.top | <http://lunbo.freetv.top/yy/1356043677> |
-| 182 | 山西影视 | liveflash.sxrtv.com | <http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true> |
-| 183 | 峨眉电影 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.0.252:5140> |
-| 184 | 广东影视 | IPv4 直链 | <http://58.252.12.164:8000/udp/239.77.0.217:5146> |
-| 185 | 广州影视 | tencentplaygzrb01.gztv.com | <http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8> |
-| 186 | 广州影视频道 | tencentplay.gztv.com | <http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4> |
-| 187 | 广州电视台影视频道 | tencentplay.gztv.com | <https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0> |
-| 188 | 异形寄生起源 | api.heimuer.app | <https://api.heimuer.app/play/3e9be3a5080c46449dbc355c9cb8baec.m3u8> |
-| 189 | 我不是药神 | vip.ffzy-play1.com | <https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8> |
-| 190 | 拆弹专家1 | vip.ffzy-online.com | <https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8> |
-| 191 | 拆弹专家2 | vip.ffzy-online.com | <https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8> |
-| 192 | 数位电影 | litv.zapi.us.kg | <https://litv.zapi.us.kg/?id=4gtv-4gtv011> |
-| 193 | 新三国备用 | live.metshop.top | <http://live.metshop.top/huya/11352944> |
-| 194 | 新疆石河子影视文体 | IPv4 直链 | <http://124.88.144.73:1935/live/jjsh/playlist.m3u8> |
-| 195 | 无间道1 | vip.ffzy-play6.com | <https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8> |
-| 196 | 无间道3终极无间 | vip.ffzy-play2.com | <https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8> |
-| 197 | 星际穿越 | api.heimuer.app | <https://api.heimuer.app/play/f9b471ddd1ee425bb3c64a24f82561be.m3u8> |
-| 198 | 泰州三套影视娱乐 | stream1.mytaizhou.net | <http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=16dfe82d1725409426> |
-| 199 | 济南影视 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1005_1.m3u8> |
-| 200 | 浙江影视 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8?> |
-| 201 | 浙江教科影视 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8> |
-| 202 | 浙江教科影院 | 浙江广播电视集团 | <http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8> |
-| 203 | 淘电影 | IPv4 直链 | <http://39.98.201.151:9090/udp/225.1.8.38:8002> |
-| 204 | 湖北影视 | IPv4 直链 | <http://58.48.37.158:1111/tsfile/live/1000_1.m3u8> |
-| 205 | 湖南电影 | IPv4 直链 | <http://222.243.221.54:9901/tsfile/live/1003_1.m3u8> |
-| 206 | 满城尽带黄金甲 | vip.ffzy-play2.com | <https://vip.ffzy-play2.com/20221022/289_cc1b109c/index.m3u8> |
-| 207 | 滨海影院 | traffic.jbh.tjbh.com | <http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd> |
-| 208 | 狄仁杰之天宫蜃楼 | v9.tlkqc.com | <https://v9.tlkqc.com/wjv9/202408/06/p7712pXCuV81/video/index.m3u8> |
-| 209 | 琅琊榜 | zby.xjqxz.top | <http://zby.xjqxz.top/lyb/live.m3u8> |
-| 210 | 甘肃文化影视 | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/w1l6d5.m3u8> |
-| 211 | 直播熊猫 | gcwbndali.v.myalicdn.com | <https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8> |
-| 212 | 粤语极清电影 | pullhw.zhaoyangyang.cn | <https://pullhw.zhaoyangyang.cn/live/8746728.flv?auth_info=%2FK2v%2FtMTZxYh4ggwvvxTsAL%2B2HdFj0CZyaW07X9H2XM%3D.71576673384274654d6f304e76514e70> |
-| 213 | 绍兴文化影视 | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8> |
-| 214 | 绍兴文化影院 | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed> |
-| 215 | 经典电影 | IPv4 直链 | <http://183.66.15.146:60901/tsfile/live/0111_2.m3u8> |
-| 216 | 绝地战警生死与共 | v3.tlkqc.com | <https://v3.tlkqc.com/wjv3/202406/12/gFunRiZvHb75/video/index.m3u8> |
-| 217 | 菏泽三套影视 | 菏泽网络电视台 | <http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8> |
-| 218 | 西部电影 | IPv4 直链 | <http://61.150.67.62:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 219 | 让子弹飞 | vip.ffzy-play7.com | <https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8> |
-| 220 | 贝爷求生影视2 | www.goodiptv.club | <https://www.goodiptv.club/douyu/9661369> |
-| 221 | 超级电影 | IPv4 直链 | <http://112.102.217.173:9003//hls/85/index.m3u8> |
-| 222 | 辽宁影视 | IPv4 直链 | <http://113.236.28.117:9901/tsfile/live/1024_1.m3u8> |
-| 223 | 辽宁影视剧 | IPv4 直链 | <http://120.76.248.139/live/bfgd/4200000070.m3u8> |
-| 224 | 阴阳师 | svip.high22-playback.com | <https://svip.high22-playback.com/20240731/5755_91995ca9/index.m3u8> |
-| 225 | 陕西影视 | gxlive.snrtv.com | <http://gxlive.snrtv.com/sx4-SD.m3u8> |
-| 226 | 陕西西部电影 | gxlive.snrtv.com | <http://gxlive.snrtv.com/sx8-SD.m3u8> |
-| 227 | 鬼舞村诅咒起源 | v12.tlkqc.com | <https://v12.tlkqc.com/wjv12/202408/04/UJGTrrEASp84/video/index.m3u8> |
-| 228 | 魔戒三部曲王者再临 | vip.ffzy-play6.com | <https://vip.ffzy-play6.com/20221017/19_8752ff61/2000k/hls/mixed.m3u8> |
-| 229 | 魔戒二部曲双城奇谋 | api.heimuer.app | <https://api.heimuer.app/play/4c017a32d1a7478696e4b78d95774ccc.m3u8> |
-| 230 | 魔戒首部曲魔戒现身 | api.heimuer.app | <https://api.heimuer.app/play/d10849d4be514bfeb5de7b6ff8bdfb5a.m3u8> |
-| 231 | 黑龙江影视 | IPv4 直链 | <http://112.101.78.50:9901/tsfile/live/1011_1.m3u8> |
-| 232 | 龙门飞甲 | jsmov2.a.yximgs.com | <http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8> |
-| 233 | 南国都市 | tencentplay.gztv.com | <https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de> |
-| 234 | BesTV青春动漫 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.0.146:5140> |
-| 235 | 七龙珠动漫 | live.iill.top | <https://live.iill.top/huya/11601966> |
-| 236 | 内蒙古少儿 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800> |
-| 237 | 内蒙少儿 | IPv4 直链 | <http://221.199.193.250:9901/tsfile/live/1010_1.m3u8> |
-| 238 | 动漫秀场 | IPv4 直链 | <http://223.166.234.19:7777/tsfile/live/1052_1.m3u8> |
-| 239 | 南京少儿 | 南京广播电视台 | <http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8> |
-| 240 | 哆啦A梦动漫 | live.iill.top | <https://live.iill.top/huya/11601963> |
-| 241 | 四川妇女儿童 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.0.219:5140> |
-| 242 | 宁夏少儿 | hls.ningxiahuangheyun.com | <https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8> |
-| 243 | 宝宝动画 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.0.147:5140> |
-| 244 | 山东少儿 | IPv4 直链 | <http://123.132.233.194:352/tsfile/live/1002_1.m3u8> |
-| 245 | 斗鱼火影忍者 | live.iill.top | <https://live.iill.top/douyu/1997723> |
-| 246 | 新动漫 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1086_1.m3u8> |
-| 247 | 河北少儿 | tv.pull.hebtv.com | <http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2> |
-| 248 | 河北少儿科教 | IPv4 直链 | <http://120.0.52.241:8086/tsfile/live/1003_1.m3u8> |
-| 249 | 济南少儿 | IPv4 直链 | <http://221.0.78.198:1681/hls/10285/index.m3u8> |
-| 250 | 深圳少儿 | IPv4 直链 | <http://113.111.16.104:8888/udp/239.77.1.244:5146> |
-| 251 | 猫和老鼠 | live.iill.top | <https://live.iill.top/huya/11352879> |
-| 252 | 甘肃少儿 | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/922k96.m3u8> |
-| 253 | 福州少儿 | 福州明珠 | <http://live.zohi.tv/video/s10001-fztv-4/index.m3u8> |
-| 254 | 福建少儿 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/253585251/253585251.m3u8> |
-| 255 | 航海王动漫 | live.iill.top | <https://live.iill.top/huya/16913382> |
-| 256 | 茶啊二中动画 | live.iill.top | <https://live.iill.top/huya/11213191> |
-| 257 | 黑龙江少儿 | IPv4 直链 | <http://112.101.78.50:9901/tsfile/live/1007_1.m3u8> |
-| 258 | 4K南国都市频道 | tencentplay.gztv.com | <http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4> |
-| 259 | YMG未来 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?> |
-| 260 | 七台河新闻综合 | live.qthnews.org.cn:1935 | <http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8> |
-| 261 | 七台河民生社教 | live.qthnews.org.cn:1935 | <http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8> |
-| 262 | 万州三峡移民 | IPv4 直链 | <http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8> |
-| 263 | 万州综合 | IPv4 直链 | <http://123.146.162.24:8017/iTXwrGs/800/live.m3u8> |
-| 264 | 万源新闻综合 | live.wanyuannews.com | <http://live.wanyuannews.com/wytv/hd/live.m3u8> |
-| 265 | 上海外语 | 3ad2a0.tv.netsite.cc | <http://3ad2a0.tv.netsite.cc/proxy/1701776112/1701776112.m3u8> |
-| 266 | 上海教育 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1033_1.m3u8> |
-| 267 | 上海点掌财经 | 3ad2a0.tv.netsite.cc | <http://3ad2a0.tv.netsite.cc/proxy/1577752441/1577752441.m3u8> |
-| 268 | 上海纪实 | IPv4 直链 | <http://175.16.180.250:9901/tsfile/live/1000_1.m3u8> |
-| 269 | 上海都市 | tvbox.nat.netsite.cc:8043 | <https://tvbox.nat.netsite.cc:8043/proxy/2116818558/2116818558.m3u8> |
-| 270 | 上虞文化 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed?> |
-| 271 | 上虞新商都 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8> |
-| 272 | 上虞新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8> |
-| 273 | 上虞综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed?> |
-| 274 | 丘北电视台 | 文山州广播电视台 | <http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8> |
-| 275 | 东方财经 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1031_1.m3u8> |
-| 276 | 中华美食 | IPv4 直链 | <http://121.24.98.45:8090/hls/73/index.m3u8> |
-| 277 | 中国蓝新闻 | 浙江广播电视集团 | <http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8> |
-| 278 | 丰顺综合 | 1b6467f415.iok.la:9931 | <http://1b6467f415.iok.la:9931/tsfile/live/1100_1.m3u8> |
-| 279 | 临沂公共 | m3u8-channel.lytv.tv | <https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8> |
-| 280 | 临沂农科 | m3u8-channel.lytv.tv | <https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8> |
-| 281 | 临沂新闻综合 | m3u8-channel.lytv.tv | <https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8> |
-| 282 | 临洮综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1638428318510977.m3u8?zgand> |
-| 283 | 义乌新闻综合 | 奥点云 | <https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine> |
-| 284 | 义马新闻综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11281-1.m3u8> |
-| 285 | 之江纪录 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8> |
-| 286 | 之江记录 | 浙江广播电视集团 | <http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?> |
-| 287 | 乌兰察布新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800> |
-| 288 | 乐至综合 | IPv4 直链 | <http://175.155.106.72:89/live1/live1.m3u8> |
-| 289 | 云和新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?> |
-| 290 | 云和新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8> |
-| 291 | 云浮公共 | IPv4 直链 | <http://218.16.50.206:9090/udp/239.77.0.254:5146> |
-| 292 | 云浮综合 | livestream.oeeee.com | <https://livestream.oeeee.com/slive/17806.m3u8> |
-| 293 | 云霄综合 | live.zzyxxw.com:85 | <http://live.zzyxxw.com:85/live/xwzh.m3u8> |
-| 294 | 五台综合 | 568slnjf.live.sxmty.com | <https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd> |
-| 295 | 亳州农村 | IPv4 直链 | <http://114.105.184.92:9901/tsfile/live/1049_1.m3u8> |
-| 296 | 亳州新闻 | IPv4 直链 | <http://58.220.63.43/zbbf2.ahbztv.com/live/416.m3u8?zanhd&wsSession=9c4e040e25b04ef0d8e433e6-172672213876304&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1> |
-| 297 | 伊犁哈萨克 | IPv4 直链 | <http://110.153.180.106:55555/out_3/index.m3u8?zxinjd> |
-| 298 | 伊犁经济法制 | IPv4 直链 | <http://110.153.180.106:55555/out_4/index.m3u8?zxinjd> |
-| 299 | 伊犁维吾尔 | IPv4 直链 | <http://110.153.180.106:55555/out_2/index.m3u8?zxinjd> |
-| 300 | 优购物电视购物 | tvlive.ugoshop.com | <https://tvlive.ugoshop.com/ugotvlive/ugotv01.m3u8?auth_key=2312509421-0-0-f8f7e886fe98ee0a0c01458710bf26d3> |
-| 301 | 余姚姚江文化 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8> |
-| 302 | 余姚综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8> |
-| 303 | 余杭新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed?> |
-| 304 | 余杭未来 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8> |
-| 305 | 余杭未来E | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed> |
-| 306 | 余杭综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed> |
-| 307 | 佛山公共 | IPv4 直链 | <http://218.16.50.206:9090/udp/239.253.43.53:5146> |
-| 308 | 佛山综合 | IPv4 直链 | <http://113.111.16.104:8888/udp/239.253.43.57:5146> |
-| 309 | 六安公共 | pili-live-rtmp.luan2.hfmt.net | <http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8> |
-| 310 | 六安新闻综合 | pili-live-rtmp.luan2.hfmt.net | <http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8> |
-| 311 | 兰溪新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed?> |
-| 312 | 兰溪新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8> |
-| 313 | 兵团十三师新星综合 | 兵团在线网站 | <http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd> |
-| 314 | 兵团十四师昆玉综合 | 兵团在线网站 | <http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd> |
-| 315 | 内乡综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11325-1.m3u8> |
-| 316 | 内蒙农牧 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/700721138/700721138.m3u8> |
-| 317 | 内蒙古农牧 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800> |
-| 318 | 内蒙古文体娱乐 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800> |
-| 319 | 内蒙古经济生活 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800> |
-| 320 | 内蒙古综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800> |
-| 321 | 内蒙古蒙语文化 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800> |
-| 322 | 内蒙文体 | IPv4 直链 | <http://221.199.193.250:9901/tsfile/live/1008_1.m3u8> |
-| 323 | 内蒙经济 | IPv4 直链 | <http://221.199.193.250:9901/tsfile/live/1007_1.m3u8> |
-| 324 | 利州综合 | tvfile.lzgbdst.com:80 | <http://tvfile.lzgbdst.com:80/nmip-media/channellive/channel106876/playlist.m3u8> |
-| 325 | 包头新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800> |
-| 326 | 化隆综合 | livecdn.dmqhyadmin.com | <http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8> |
-| 327 | 北京新闻 | IPv4 直链 | <http://39.98.201.151:9090/udp/225.1.8.129:8002> |
-| 328 | 北京生活 | IPv4 直链 | <http://39.98.201.151:9090/udp/225.1.8.127:8002> |
-| 329 | 北京科教 | IPv4 直链 | <http://39.98.201.151:9090/udp/225.1.8.105:8002> |
-| 330 | 北京财经 | IPv4 直链 | <http://111.196.129.152:20000/udp/239.3.1.116:8000> |
-| 331 | 北京青年 | IPv4 直链 | <http://39.98.201.151:9090/udp/225.1.8.128:8002> |
-| 332 | 十堰新闻 | p8.vzan.com | <http://p8.vzan.com/slowlive/034028687228317362/live.m3u8> |
-| 333 | 卓尼综合 | pili-live-hls.hfmt.net | <http://pili-live-hls.hfmt.net/gntv/zntv.m3u8?zgand> |
-| 334 | 南京信息 | 南京广播电视台 | <https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8> |
-| 335 | 南京十八 | 南京广播电视台 | <https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8> |
-| 336 | 南京娱乐 | 南京广播电视台 | <https://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8> |
-| 337 | 南京教科 | 南京广播电视台 | <http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8> |
-| 338 | 南京新闻综合 | 南京广播电视台 | <https://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8> |
-| 339 | 南京生活 | 南京广播电视台 | <https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8> |
-| 340 | 南宁公共 | 老友网 | <http://hls.nntv.cn/nnlive/GGPD_24.m3u8> |
-| 341 | 南宁影娱乐 | 老友网 | <http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8> |
-| 342 | 南宁新闻综合 | 老友网 | <http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8> |
-| 343 | 南宁都市生活 | 老友网 | <http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8> |
-| 344 | 原平综合 | xkmspyxn.live.sxmty.com | <http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8?zshanxd> |
-| 345 | 双流综合 | IPv4 直链 | <http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd> |
-| 346 | 叙州新闻综合 | pili-live-hls.ybcxjd.com | <http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8> |
-| 347 | 叙永综合 | luzhi.xuyongrongmei.com:1935 | <http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8> |
-| 348 | 古县综合 | l2fpdktp.live.sxmty.com | <https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd> |
-| 349 | 吉县新闻综合 | jxlive.jxrmtzx.com:8091 | <http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8> |
-| 350 | 吉林乡村 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1171899698/1171899698.m3u8> |
-| 351 | 吉林公共 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1189725287/1189725287.m3u8> |
-| 352 | 吉林生活 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1468821790/1468821790.m3u8> |
-| 353 | 吉林都市 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1677605767/1677605767.m3u8> |
-| 354 | 吴忠公共 | live.kanwz.net | <http://live.kanwz.net/ggpd/sd/live.m3u8> |
-| 355 | 吴忠综合 | live.kanwz.net | <http://live.kanwz.net/zhpd/sd/live.m3u8> |
-| 356 | 周口新闻综合 | IPv4 直链 | <http://125.44.139.18:8081/live/2216261506805201716.m3u8> |
-| 357 | 呼和浩特新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800> |
-| 358 | 哈尔滨娱乐 | stream.hrbtv.net | <http://stream.hrbtv.net/ylpd/sd/live.m3u8> |
-| 359 | 哈尔滨新闻综合 | stream.hrbtv.net | <http://stream.hrbtv.net/xwzh/sd/live.m3u8> |
-| 360 | 哈尔滨生活 | stream.hrbtv.net | <http://stream.hrbtv.net/shpd/sd/live.m3u8> |
-| 361 | 唐河一套 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11328-1.m3u8> |
-| 362 | 四川乡村 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.0.52:5140> |
-| 363 | 四川文化旅游 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.1.102:5140> |
-| 364 | 四川新闻 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.0.47:5140> |
-| 365 | 四川科教 | IPv4 直链 | <http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8> |
-| 366 | 四川经济 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.1.101:5140> |
-| 367 | 固镇新闻 | www.guzhenm.com:7001 | <http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd> |
-| 368 | 垫江综合 | IPv4 直链 | <http://125.62.24.185:80/1.m3u8> |
-| 369 | 天水新闻综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1698724188723989.m3u8> |
-| 370 | 天津 | IPv4 直链 | <http://113.236.28.117:9901/tsfile/live/1129_1.m3u8> |
-| 371 | 天津文艺 | nas.hssvm.com:8888 | <http://nas.hssvm.com:8888/udp/225.1.1.131:5002> |
-| 372 | 天津新闻 | nas.hssvm.com:8888 | <http://nas.hssvm.com:8888/udp/225.1.1.130:5002> |
-| 373 | 天津都市 | ha.xushining.com:50000 | <http://ha.xushining.com:50000/udp/225.1.1.128:5002> |
-| 374 | 夹江新闻综合 | tvfile.jjrm.org.cn | <http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8> |
-| 375 | 奎屯哈萨克语 | IPv4 直链 | <http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd> |
-| 376 | 如东一套新闻综合 | 荔枝网 | <http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8> |
-| 377 | 姚江文化 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?> |
-| 378 | 威海一套新闻综合 | l1.weihai.tv:8081 | <http://l1.weihai.tv:8081/hls/969O76hb22.m3u8> |
-| 379 | 宁夏公共 | hls.ningxiahuangheyun.com | <https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8> |
-| 380 | 宁夏兴海综合 | lived.dmqhyadmin.com | <http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8> |
-| 381 | 宁夏文旅 | hls.ningxiahuangheyun.com | <https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8> |
-| 382 | 宁夏民和综合 | livecdn.dmqhyadmin.com | <http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd> |
-| 383 | 宁夏经济 | hls.ningxiahuangheyun.com | <https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8> |
-| 384 | 安徽经济生活 | IPv4 直链 | <http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8> |
-| 385 | 安徽综艺体育 | IPv4 直链 | <http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8> |
-| 386 | 安顺新闻 | 7fb6a9494e941e2acfc4eed53f777c1a.livehwc3.cn | <http://7fb6a9494e941e2acfc4eed53f777c1a.livehwc3.cn/hplayer1.juyun.tv/camera/154379194.m3u8> |
-| 387 | 定襄综合 | lbyzztfe.live.sxmty.com:80 | <http://lbyzztfe.live.sxmty.com:80/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8> |
-| 388 | 定西公共 | play.kankanlive.com | <https://play.kankanlive.com/live/1645680054929933.m3u8?zgand> |
-| 389 | 定西综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1645679947087932.m3u8?zgand> |
-| 390 | 宜阳综合 | 河南大象融媒体 | <http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8> |
-| 391 | 宾川一套 | live.bcrmtzx.com | <http://live.bcrmtzx.com/tv01/sd/live.m3u8?zyund> |
-| 392 | 宿州科教 | live.ahsz.tv | <http://live.ahsz.tv/video/s10001-kxjy/index.m3u8> |
-| 393 | 小金综合 | xjlive.xjxrmt.cn:8091 | <http://xjlive.xjxrmt.cn:8091/live/xwpd.m3u8> |
-| 394 | 山东体育 | IPv4 直链 | <http://58.57.40.22:9901/tsfile/live/1020_1.m3u8> |
-| 395 | 山东农科 | IPv4 直链 | <http://112.234.21.109:9901/tsfile/live/1005_1.m3u8> |
-| 396 | 山东居家购物 | IPv4 直链 | <http://144.52.160.114:9901/tsfile/live/1063_1.m3u8> |
-| 397 | 山东文旅 | IPv4 直链 | <http://58.57.40.22:9901/tsfile/live/1023_1.m3u8> |
-| 398 | 山东新闻 | IPv4 直链 | <http://60.208.61.2:352/tsfile/live/0141_1.m3u8> |
-| 399 | 山东生活 | IPv4 直链 | <http://58.57.40.22:9901/tsfile/live/1018_1.m3u8> |
-| 400 | 山东综艺 | IPv4 直链 | <http://58.57.40.22:9901/tsfile/live/1021_1.m3u8> |
-| 401 | 山东齐鲁 | IPv4 直链 | <http://60.210.100.54:352/tsfile/live/1001_1.m3u8> |
-| 402 | 山西文体生活 | liveflash.sxrtv.com | <http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true> |
-| 403 | 山西社会与法治 | liveflash.sxrtv.com | <http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true> |
-| 404 | 山西经济与科技 | liveflash.sxrtv.com | <http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true> |
-| 405 | 岳池新闻综合 | liveyc.cmc.yuechirmt.cn:80 | <http://liveyc.cmc.yuechirmt.cn:80/live/yctv.m3u8?auth_key=1714112398-0-0-d9a6bd74623c01c1c2f9576fe51e8b7b> |
-| 406 | 岷县综合 | play.kankanlive.com | <http://play.kankanlive.com/live/1614311581479927.m3u8?zgand> |
-| 407 | 崆峒综合 | IPv4 直链 | <http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu> |
-| 408 | 崇明电视台 | pili-live-hls.wdit.com.cn | <https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8> |
-| 409 | 嵊州新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed?> |
-| 410 | 嵊州新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8> |
-| 411 | 嵊泗综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8> |
-| 412 | 巩义新闻综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/10181-1.m3u8> |
-| 413 | 巴彦淖尔新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800> |
-| 414 | 平湖新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed?> |
-| 415 | 平湖新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8> |
-| 416 | 平湖民生 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed?> |
-| 417 | 平湖民生休闲 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8> |
-| 418 | 平遥新闻综合 | tntgjhjb.live.sxmty.com | <https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd> |
-| 419 | 广东新闻 | IPv4 直链 | <http://14.212.185.71:9901/tsfile/live/1001_1.m3u8> |
-| 420 | 广东民生 | IPv4 直链 | <http://121.33.239.242:9901/tsfile/live/1003_1.m3u8> |
-| 421 | 广元公共 | m3u8.channel.dzsm.com | <https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8> |
-| 422 | 广元综合 | m3u8.channel.dzsm.com | <https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8> |
-| 423 | 广南电视台 | 文山州广播电视台 | <http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel19/playlist.m3u8> |
-| 424 | 广安公共 | live1.gatv.com.cn:85 | <http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8> |
-| 425 | 广州南国都市频道 | tencentplay.gztv.com | <https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7> |
-| 426 | 广州新闻 | tencentplaygzrb01.gztv.com | <http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8> |
-| 427 | 广州电视台新闻频道 | tencentplay.gztv.com | <https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230> |
-| 428 | 广州电视台法治频道 | tencentplay.gztv.com | <https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6> |
-| 429 | 广州电视台综合频道 | tencentplay.gztv.com | <https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86> |
-| 430 | 广州竞赛 | tencentplaygzrb01.gztv.com | <http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8> |
-| 431 | 广州竞赛频道 | tencentplay.gztv.com | <https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca> |
-| 432 | 广州综合 | tencentplaygzrb01.gztv.com | <http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8> |
-| 433 | 广西新闻 | IPv4 直链 | <http://116.9.204.242:9901/tsfile/live/1001_1.m3u8> |
-| 434 | 广西桂林新闻 | pull.gltvs.com | <https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188> |
-| 435 | 庆元综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8> |
-| 436 | 延安一套新闻综合 | lives.cloud.yanews.cn | <http://lives.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8> |
-| 437 | 延安二套公共 | lives.cloud.yanews.cn | <http://lives.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8> |
-| 438 | 延边1 | 延边广播电视台 | <http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild> |
-| 439 | 延边2 | 延边广播电视台 | <http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild> |
-| 440 | 开化公园 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed?> |
-| 441 | 开化国家公园 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8> |
-| 442 | 开化新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed?> |
-| 443 | 开化新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8> |
-| 444 | 张家港新闻综合 | 3gvod.zjgonline.com.cn:1935 | <http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8> |
-| 445 | 张掖新闻综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1629709727589955.m3u8> |
-| 446 | 德阳公共 | scdytv.cn:1935 | <http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8> |
-| 447 | 德阳新闻综合 | scdytv.cn:1935 | <http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8> |
-| 448 | 怀仁综合 | 1yp7hc5p.live.sxmty.com | <http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd> |
-| 449 | 文成综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8> |
-| 450 | 新昌新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8> |
-| 451 | 新昌生活 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8> |
-| 452 | 新疆伊犁哈萨克 | IPv4 直链 | <http://110.153.180.106:55555/out_3/index.m3u8> |
-| 453 | 新疆伊犁汉语综合 | IPv4 直链 | <http://110.153.180.106:55555/out_1/index.m3u8> |
-| 454 | 新疆伊犁经济法制 | IPv4 直链 | <http://110.153.180.106:55555/out_4/index.m3u8> |
-| 455 | 新疆伊犁维吾尔 | IPv4 直链 | <http://110.153.180.106:55555/out_2/index.m3u8> |
-| 456 | 新疆兵团八师石河子教育 | IPv4 直链 | <http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd> |
-| 457 | 新疆兵团八师石河子新闻综合 | IPv4 直链 | <http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd> |
-| 458 | 新疆兵团八师石河子经济生活 | IPv4 直链 | <http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd> |
-| 459 | 新疆奎屯哈萨克语 | IPv4 直链 | <http://218.84.12.186:8002/hls/main/playlist.m3u8> |
-| 460 | 新疆奎屯汉语综合 | IPv4 直链 | <http://218.84.12.186:8001/hls/main/playlist.m3u8> |
-| 461 | 新疆巴音郭楞州 | file.loulannews.cn | <http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8> |
-| 462 | 新疆石河子教育 | IPv4 直链 | <http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8> |
-| 463 | 新疆石河子新闻综合 | IPv4 直链 | <http://124.88.144.73:1935/live/xwzh/playlist.m3u8> |
-| 464 | 新疆石河子经济生活 | IPv4 直链 | <http://124.88.144.73:1935/live/dywt/playlist.m3u8> |
-| 465 | 新闻综合 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1025_1.m3u8> |
-| 466 | 方城一套 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11322-1.m3u8> |
-| 467 | 无锡娱乐 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/461270403/461270403.m3u8> |
-| 468 | 无锡新闻综合 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/1808503557/1808503557.m3u8> |
-| 469 | 无锡生活 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/995802232/995802232.m3u8> |
-| 470 | 无锡都市资讯 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/1260824748/1260824748.m3u8> |
-| 471 | 旺苍新闻综合 | channel.wcrmt.cn:80 | <http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8> |
-| 472 | 昭化综合 | live.zhgbtv.cn:3100 | <http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8> |
-| 473 | 普陀新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed?> |
-| 474 | 普陀新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8> |
-| 475 | 景泰综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1624439143745981.m3u8> |
-| 476 | 朝阳新闻综合 | IPv4 直链 | <http://120.76.248.139/live/bfgd/4200000282.m3u8> |
-| 477 | 来宾综合 | zb.gxlbamc.com:1935 | <http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8> |
-| 478 | 松新闻 | live.strmtzx.cn | <http://live.strmtzx.cn/stxw/sd/live.m3u8?zguizd> |
-| 479 | 松潘新闻综合 | live.spccmc.com:90 | <http://live.spccmc.com:90/live/spxwzh.m3u8> |
-| 480 | 松阳综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8> |
-| 481 | 枣庄公共 | stream.zztvzd.com | <http://stream.zztvzd.com/3/sd/live.m3u8> |
-| 482 | 枣庄教育 | stream.zztvzd.com | <http://stream.zztvzd.com/2/sd/live.m3u8?shandd> |
-| 483 | 枣庄新闻综合 | stream.zztvzd.com | <http://stream.zztvzd.com/1/sd/live.m3u8?shandd> |
-| 484 | 梨园 | IPv4 直链 | <http://120.0.52.162:8086/tsfile/live/1010_1.m3u8> |
-| 485 | 武义新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8> |
-| 486 | 武乡新闻综合 | IPv4 直链 | <http://60.220.198.84:81/0.m3u8> |
-| 487 | 武汉一台新闻综合 | IPv4 直链 | <http://58.48.37.158:1111/tsfile/live/1004_1.m3u8> |
-| 488 | 武汉三台科技生活 | IPv4 直链 | <http://58.48.37.158:1111/tsfile/live/1005_1.m3u8> |
-| 489 | 武汉二台电视剧 | IPv4 直链 | <http://58.48.37.158:1111/tsfile/live/0130_1.m3u8> |
-| 490 | 武汉五台文体 | stream.appwuhan.com | <http://stream.appwuhan.com/5tzb/sd/live.m3u8> |
-| 491 | 武汉六台外语 | stream.appwuhan.com | <http://stream.appwuhan.com/6tzb/sd/live.m3u8> |
-| 492 | 武汉四台经济 | stream.appwuhan.com | <http://stream.appwuhan.com/4tzb/sd/live.m3u8> |
-| 493 | 武汉教育 | IPv4 直链 | <http://58.48.37.158:1111/tsfile/live/1003_1.m3u8> |
-| 494 | 武胜综合 | live2.gatv.com.cn:86 | <http://live2.gatv.com.cn:86/live/WS.m3u8?zsicd> |
-| 495 | 武进新闻 | live.wjyanghu.com | <https://live.wjyanghu.com/live/CH1.m3u8> |
-| 496 | 武进生活 | live.wjyanghu.com | <https://live.wjyanghu.com/live/CH2.m3u8> |
-| 497 | 永嘉新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8> |
-| 498 | 永城综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11481-1.m3u8> |
-| 499 | 汉源综合 | live.hyxrmt.com:85 | <http://live.hyxrmt.com:85/live/xwpd.m3u8> |
-| 500 | 汕头文旅 | IPv4 直链 | <http://218.16.50.206:9090/udp/239.253.43.47:5146> |
-| 501 | 汕头经济 | IPv4 直链 | <http://113.111.16.104:8888/udp/239.77.1.131:5146> |
-| 502 | 汕头综合 | IPv4 直链 | <http://218.16.50.206:9090/udp/239.253.43.45:5146> |
-| 503 | 江宁电视台综合 | 荔枝网 | <https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8> |
-| 504 | 江津新闻综合 | IPv4 直链 | <http://222.179.155.21:1935/ch1.m3u8> |
-| 505 | 江门综合 | IPv4 直链 | <http://14.216.217.88:4206/udp/239.77.0.201:5146> |
-| 506 | 汶川新闻综合 | live.iwcmt.cn:90 | <http://live.iwcmt.cn:90/live/zhxw.m3u8> |
-| 507 | 汾西综合 | qmmqvzoz.live.sxmty.com | <https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd> |
+| 82 | 内蒙古蒙语卫视 | IPv4 直链 | <http://221.199.193.213:9901/tsfile/live/1004_1.m3u8> |
+| 83 | CHC动作电影 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1101_1.m3u8> |
+| 84 | CHC家庭影院 | IPv4 直链 | <http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8> |
+| 85 | CHC影迷电影 | IPv4 直链 | <http://59.173.243.210:9901/tsfile/live/0119_1.m3u8> |
+| 86 | 黑莓电影 | IPv4 直链 | <http://112.102.217.173:9003//hls/99/index.m3u8> |
+| 87 | 东方影视 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1028_1.m3u8> |
+| 88 | 周星驰 | live.metshop.top | <https://live.metshop.top/huya/11342412> |
+| 89 | 刘德华 | live.metshop.top | <https://live.metshop.top/huya/11342424> |
+| 90 | 星空卫视 | IPv4 直链 | <http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 91 | 东森电影 | 1b6467f415.iok.la:9931 | <http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8> |
+| 92 | 靖天电影 | litv.zapi.us.kg | <https://litv.zapi.us.kg/?id=4gtv-4gtv061> |
+| 93 | 靖天戏剧 | litv.zapi.us.kg | <http://litv.zapi.us.kg/?id=4gtv-4gtv058> |
+| 94 | 靖天映画 | litv.zapi.us.kg | <https://litv.zapi.us.kg/?id=4gtv-4gtv055> |
+| 95 | 龙华电影 | IPv4 直链 | <http://37.27.111.214:8080/live/19/hls.m3u8> |
+| 96 | AMC电影 | IPv4 直链 | <http://61.221.215.25:8800/hls/43/index.m3u8> |
+| 97 | 足球频道 | nmglive.imfc.cn | <http://nmglive.imfc.cn/5n1r1c/182396.m3u8> |
+| 98 | 天元围棋 | IPv4 直链 | <http://120.76.248.139/live/bfgd/4200000633.m3u8> |
+| 99 | 重温经典 | ali.hlspull.yximgs.com | <http://ali.hlspull.yximgs.com/live/awei_cwjd.flv> |
+| 100 | 纪实科教8K | IPv4 直链 | <http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8> |
+| 101 | 黑莓动画 | IPv4 直链 | <http://112.102.217.173:9003//hls/100/index.m3u8> |
+| 102 | 优漫卡通 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/1003_1.m3u8> |
+| 103 | 卡酷少儿 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1087_1.m3u8> |
+| 104 | 嘉佳卡通 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0115_1.m3u8> |
+| 105 | 炫动卡通 | IPv4 直链 | <http://112.102.217.173:9003//hls/72/index.m3u8> |
+| 106 | 金鹰卡通 | IPv4 直链 | <http://123.159.129.209:9901/tsfile/live/1000_1.m3u8> |
+| 107 | 广东少儿 | gmxw.7766.org:808 | <http://gmxw.7766.org:808/hls/175/index.m3u8> |
+| 108 | 浙江少儿 | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/1658458613/1658458613.m3u8> |
+| 109 | 哈哈炫动 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/1005_1.m3u8> |
+| 110 | 龙华卡通 | litv.zapi.us.kg | <https://litv.zapi.us.kg/?id=litv-longturn01> |
+| 111 | 广东珠江 | IPv4 直链 | <http://14.212.185.71:9901/tsfile/live/1000_1.m3u8> |
+| 112 | 康巴卫视 | IPv4 直链 | <http://61.157.139.15:9901/tsfile/live/2415_1.m3u8> |
+| 113 | 厦门卫视 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/0112_1.m3u8> |
+| 114 | 延边卫视 | 延边广播电视台 | <http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8> |
+| 115 | 内蒙古蒙语卫视 | IPv4 直链 | <http://221.199.193.213:9901/tsfile/live/1004_1.m3u8> |
+| 116 | 哈哈炫动 | IPv4 直链 | <http://221.213.69.82:9901/tsfile/live/1005_1.m3u8> |
+| 117 | 山东教育 | IPv4 直链 | <http://120.238.94.10:9901/tsfile/live/1062_1.m3u8> |
+| 118 | 广东体育 | IPv4 直链 | <http://14.212.185.71:9901/tsfile/live/1003_1.m3u8> |
+| 119 | 金鹰纪实 | IPv4 直链 | <http://58.57.40.22:9901/tsfile/live/1070_1.m3u8> |
+| 120 | 法治天地 | IPv4 直链 | <http://60.255.240.247:8090/live/fztx_4000.m3u8> |
+| 121 | 民视综艺 | litv.zapi.us.kg | <https://litv.zapi.us.kg/?id=4gtv-4gtv004> |
+| 122 | 求索纪录 | IPv4 直链 | <http://120.6.209.42:8866/udp/239.253.93.236:6414> |
+| 123 | Discovery | ott.watch | <http://ott.watch/stream/E9LDH2ZCN7/177.m3u8> |
+| 124 | 中国环球电视 | CGTN | <http://live.cgtn.com/500/prog_index.m3u8> |
+| 125 | 航拍中国第一季 | hls.cntv.myhwcdn.cn | <http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8> |
+| 126 | 航拍中国第二季 | newcntv.qcloudcdn.com | <http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8> |
+| 127 | 航拍中国第三季 | hls.cntv.kcdnvip.com | <http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8> |
+| 128 | 劲爆体育 | IPv4 直链 | <http://124.231.212.173:9999/tsfile/live/1113_1.m3u8> |
+| 129 | 五星体育 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1030_1.m3u8> |
+| 130 | 精品体育 | IPv4 直链 | <http://112.102.217.173:9003//hls/89/index.m3u8> |
+| 131 | 超级体育 | IPv4 直链 | <http://112.102.217.173:9003//hls/86/index.m3u8> |
+| 132 | 广东体育 | IPv4 直链 | <http://14.212.185.71:9901/tsfile/live/1003_1.m3u8> |
+| 133 | 辽宁体育 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1023_1.m3u8> |
+| 134 | 魅力足球 | www.72444165.xyz:5005 | <http://www.72444165.xyz:5005/itv/bestzb/5000000011000031207> |
+| 135 | 天元围棋 | IPv4 直链 | <http://120.76.248.139/live/bfgd/4200000633.m3u8> |
+| 136 | 五星体育 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1030_1.m3u8> |
+| 137 | 快乐垂钓 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1048_1.m3u8> |
+| 138 | 纬来体育 | cloud.yumixiu768.com:443 | <https://cloud.yumixiu768.com:443/tmp/123.m3u8> |
+| 139 | 游戏风云 | IPv4 直链 | <http://223.166.234.114:7777/tsfile/live/1050_1.m3u8> |
+| 140 | 公视戏剧 | litv.zapi.us.kg | <http://litv.zapi.us.kg/?id=4gtv-4gtv042> |
+| 141 | 龙华戏剧 | litv.zapi.us.kg | <http://litv.zapi.us.kg/?id=litv-longturn18> |
+| 142 | 三立戏剧 | IPv4 直链 | <http://61.221.215.25:8800/hls/41/index.m3u8> |
+| 143 | 3ABNKids | 3abn.bozztv.com | <https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8> |
+| 144 | CAT电影 | litv.zapi.us.kg | <https://litv.zapi.us.kg/?id=4gtv-4gtv076> |
+| 145 | CHC电影 | ha.xushining.com:50000 | <http://ha.xushining.com:50000/udp/225.1.1.214:5002> |
+| 146 | FanpopTV | streaming-cl.sh1ny.space | <https://streaming-cl.sh1ny.space/memfs/e16d2f72-70b5-4bf5-b9c5-107b6390a10f.m3u8> |
+| 147 | JapanimTV | foxkidstv.be:3369 | <https://foxkidstv.be:3369/stream/play.m3u8> |
+| 148 | KuriakosKids | w2.manasat.com | <https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8> |
+| 149 | NewTV动作电影 | www.72444165.xyz:5005 | <http://www.72444165.xyz:5005/itv/ystenlive/1000000004000018653> |
+| 150 | XilamTV | xilam-animation-1-fr.samsung.wurl.tv | <https://xilam-animation-1-fr.samsung.wurl.tv/playlist.m3u8> |
+| 151 | YOYOTV | ythls.armelin.one | <https://ythls.armelin.one/channel/UCiWRSesvSYmY7YOyz0tv_zQ.m3u8> |
+| 152 | 上虞文化影院 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8> |
+| 153 | 东阳影视生活 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXdongyang1/720p.m3u8> |
+| 154 | 中华小当家 | IPv4 直链 | <http://61.221.215.25:8800/hls/40/index.m3u8> |
+| 155 | 九品芝麻官 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/upic/2021/12/28/11/BMjAyMTEyMjgxMTIyMTJfNDAzMDAxOTlfNjM2NjgxODA5MTBfMF8z_bF_Bcc38a845b4b4994898062a76d3958bdc.mp4> |
+| 156 | 人在囧途 | jsmov2.a.yximgs.com | <http://jsmov2.a.yximgs.com/bs3/video-hls/5239093847755471351_hlsb.m3u8> |
+| 157 | 人在囧途之囧妈 | vip.ffzy-online.com | <https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8> |
+| 158 | 人在囧途之泰囧 | vip.ffzy-play.com | <https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8> |
+| 159 | 人在囧途之港囧 | vip.ffzy-play7.com | <https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8> |
+| 160 | 佛山影视 | IPv4 直链 | <http://218.16.50.206:9090/udp/239.253.43.56:5146> |
+| 161 | 倩女幽魂人间道 | jsmov2.a.yximgs.com | <http://jsmov2.a.yximgs.com/bs3/video-hls/5250634317044855747_hlsb.m3u8> |
+| 162 | 倩女幽魂妖魔道 | jsmov2.a.yximgs.com | <http://jsmov2.a.yximgs.com/bs3/video-hls/5232901391302199073_hlsb.m3u8> |
+| 163 | 南宁影视娱乐 | 老友网 | <http://hls.nntv.cn/nnlive/YSYL_244.m3u8> |
+| 164 | 卧虎藏龙 | vip.ffzy-play6.com | <https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8> |
+| 165 | 变形金刚 | hlsdofviewmgspvod.aikan.miguvideo.com | <https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_yqv/asset/zhengshi/3001/946/427/3001946427/media/3001946427_5081378899_56.mp4> |
+| 166 | 哆啦A梦大雄与天空的理想乡 | hlsdofviewmgspvod.aikan.miguvideo.com | <https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/257/5105223257/media/5105223257_5206936022_56.mp4> |
+| 167 | 哆啦A梦大雄与天空的理想乡普通话 | hlsdofviewmgspvod.aikan.miguvideo.com | <https://hlsdofviewmgspvod.aikan.miguvideo.com/depository_cidcobs_wxlz03/asset/zhengshi/5105/223/351/5105223351/media/5105223351_5206941130_56.mp4> |
+| 168 | 哈利波特死神的圣物 | ikcdn01.ikzybf.com | <https://ikcdn01.ikzybf.com/20221105/DABRajDL/index.m3u8> |
+| 169 | 哈利波特消失的密室 | v1.fentvoss.com | <https://v1.fentvoss.com/sdv1/202308/19/7pizD2d5YN2/video/index.m3u8> |
+| 170 | 哈利波特混血王子的背叛 | v1.fentvoss.com | <https://v1.fentvoss.com/sdv1/202308/19/jZ4qXuUYMH2/video/index.m3u8> |
+| 171 | 哈利波特火杯的考验 | ikcdn01.ikzybf.com | <https://ikcdn01.ikzybf.com/20221210/qYaADoTA/index.m3u8> |
+| 172 | 哈尔滨影视 | stream.hrbtv.net | <http://stream.hrbtv.net/yspd/sd/live.m3u8> |
+| 173 | 哥斯拉大战金刚2帝国崛起 | api.heimuer.app | <https://api.heimuer.app/play/6f3edeb2885149e4b30f676e8a94ef3b.m3u8> |
+| 174 | 四川影视文艺 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.0.166:5140> |
+| 175 | 安徽影视 | IPv4 直链 | <http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8> |
+| 176 | 家庭影院 | IPv4 直链 | <http://113.236.31.149:9901/tsfile/live/1105_1.m3u8> |
+| 177 | 寒战 | vip.ffzy-play6.com | <https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8> |
+| 178 | 山西影视 | liveflash.sxrtv.com | <http://liveflash.sxrtv.com/live/sxfilm.m3u8?sub_m3u8=true&edge_slice=true> |
+| 179 | 峨眉电影 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.0.252:5140> |
+| 180 | 广东影视 | IPv4 直链 | <http://58.252.12.164:8000/udp/239.77.0.217:5146> |
+| 181 | 广州影视 | tencentplaygzrb01.gztv.com | <http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8> |
+| 182 | 广州影视频道 | tencentplay.gztv.com | <http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4> |
+| 183 | 广州电视台影视频道 | tencentplay.gztv.com | <https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=2b09d952702fe2c67ddad695faa4c27c&txTime=191b5db5ed0> |
+| 184 | 异形寄生起源 | api.heimuer.app | <https://api.heimuer.app/play/3e9be3a5080c46449dbc355c9cb8baec.m3u8> |
+| 185 | 我不是药神 | vip.ffzy-play1.com | <https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8> |
+| 186 | 拆弹专家1 | vip.ffzy-online.com | <https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8> |
+| 187 | 拆弹专家2 | vip.ffzy-online.com | <https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8> |
+| 188 | 数位电影 | litv.zapi.us.kg | <https://litv.zapi.us.kg/?id=4gtv-4gtv011> |
+| 189 | 新三国备用 | live.metshop.top | <http://live.metshop.top/huya/11352944> |
+| 190 | 新疆石河子影视文体 | IPv4 直链 | <http://124.88.144.73:1935/live/jjsh/playlist.m3u8> |
+| 191 | 无间道1 | vip.ffzy-play6.com | <https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8> |
+| 192 | 无间道3终极无间 | vip.ffzy-play2.com | <https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8> |
+| 193 | 星际穿越 | api.heimuer.app | <https://api.heimuer.app/play/f9b471ddd1ee425bb3c64a24f82561be.m3u8> |
+| 194 | 泰州三套影视娱乐 | stream1.mytaizhou.net | <http://stream1.mytaizhou.net/ysyl/playlist.m3u8?_upt=16dfe82d1725409426> |
+| 195 | 济南影视 | IPv4 直链 | <http://221.0.78.198:1681/hls/10282/index.m3u8> |
+| 196 | 浙江影视 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8?> |
+| 197 | 浙江教科影视 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/833196700/833196700.m3u8> |
+| 198 | 浙江教科影院 | 浙江广播电视集团 | <http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8> |
+| 199 | 淘电影 | IPv4 直链 | <http://39.98.201.151:9090/udp/225.1.8.38:8002> |
+| 200 | 湖北影视 | IPv4 直链 | <http://58.48.37.158:1111/tsfile/live/1000_1.m3u8> |
+| 201 | 湖南电影 | IPv4 直链 | <http://222.243.221.54:9901/tsfile/live/1003_1.m3u8> |
+| 202 | 满城尽带黄金甲 | vip.ffzy-play2.com | <https://vip.ffzy-play2.com/20221022/289_cc1b109c/index.m3u8> |
+| 203 | 滨海影院 | traffic.jbh.tjbh.com | <http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd> |
+| 204 | 狄仁杰之天宫蜃楼 | v9.tlkqc.com | <https://v9.tlkqc.com/wjv9/202408/06/p7712pXCuV81/video/index.m3u8> |
+| 205 | 琅琊榜 | zby.xjqxz.top | <http://zby.xjqxz.top/lyb/live.m3u8> |
+| 206 | 甘肃文化影视 | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/w1l6d5.m3u8> |
+| 207 | 直播熊猫 | gcwbndali.v.myalicdn.com | <https://gcwbndali.v.myalicdn.com/gcwbnd/ipanda1000_2/index.m3u8> |
+| 208 | 粤语极清电影 | pullhw.zhaoyangyang.cn | <https://pullhw.zhaoyangyang.cn/live/8746728.flv?auth_info=%2FK2v%2FtMTZxYh4ggwvvxTsAL%2B2HdFj0CZyaW07X9H2XM%3D.71576673384274654d6f304e76514e70> |
+| 209 | 绍兴文化影视 | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8> |
+| 210 | 绍兴文化影院 | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed> |
+| 211 | 经典电影 | IPv4 直链 | <http://183.66.15.146:60901/tsfile/live/0111_2.m3u8> |
+| 212 | 绝地战警生死与共 | v3.tlkqc.com | <https://v3.tlkqc.com/wjv3/202406/12/gFunRiZvHb75/video/index.m3u8> |
+| 213 | 菏泽三套影视 | 菏泽网络电视台 | <http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8> |
+| 214 | 西部电影 | IPv4 直链 | <http://61.150.67.62:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 215 | 让子弹飞 | vip.ffzy-play7.com | <https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8> |
+| 216 | 贝爷求生影视2 | www.goodiptv.club | <https://www.goodiptv.club/douyu/9661369> |
+| 217 | 超级电影 | IPv4 直链 | <http://112.102.217.173:9003//hls/85/index.m3u8> |
+| 218 | 辽宁影视 | IPv4 直链 | <http://113.236.28.117:9901/tsfile/live/1024_1.m3u8> |
+| 219 | 辽宁影视剧 | IPv4 直链 | <http://120.76.248.139/live/bfgd/4200000070.m3u8> |
+| 220 | 阴阳师 | svip.high22-playback.com | <https://svip.high22-playback.com/20240731/5755_91995ca9/index.m3u8> |
+| 221 | 陕西影视 | gxlive.snrtv.com | <http://gxlive.snrtv.com/sx4-SD.m3u8> |
+| 222 | 陕西西部电影 | gxlive.snrtv.com | <http://gxlive.snrtv.com/sx8-SD.m3u8> |
+| 223 | 鬼舞村诅咒起源 | v12.tlkqc.com | <https://v12.tlkqc.com/wjv12/202408/04/UJGTrrEASp84/video/index.m3u8> |
+| 224 | 魔戒三部曲王者再临 | vip.ffzy-play6.com | <https://vip.ffzy-play6.com/20221017/19_8752ff61/2000k/hls/mixed.m3u8> |
+| 225 | 魔戒二部曲双城奇谋 | api.heimuer.app | <https://api.heimuer.app/play/4c017a32d1a7478696e4b78d95774ccc.m3u8> |
+| 226 | 魔戒首部曲魔戒现身 | api.heimuer.app | <https://api.heimuer.app/play/d10849d4be514bfeb5de7b6ff8bdfb5a.m3u8> |
+| 227 | 黑龙江影视 | IPv4 直链 | <http://112.101.78.50:9901/tsfile/live/1011_1.m3u8> |
+| 228 | 龙门飞甲 | jsmov2.a.yximgs.com | <http://jsmov2.a.yximgs.com/bs3/video-hls/5203346449046555193_hlsb.m3u8> |
+| 229 | 南国都市 | tencentplay.gztv.com | <https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de> |
+| 230 | BesTV青春动漫 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.0.146:5140> |
+| 231 | 七龙珠动漫 | live.iill.top | <https://live.iill.top/huya/11601966> |
+| 232 | 内蒙古少儿 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800> |
+| 233 | 内蒙少儿 | IPv4 直链 | <http://221.199.193.250:9901/tsfile/live/1010_1.m3u8> |
+| 234 | 动漫秀场 | IPv4 直链 | <http://223.166.234.19:7777/tsfile/live/1052_1.m3u8> |
+| 235 | 南京少儿 | 南京广播电视台 | <http://live.nbs.cn/channels/njtv/sepd/nbs23.m3u8> |
+| 236 | 哆啦A梦动漫 | live.iill.top | <https://live.iill.top/huya/11601963> |
+| 237 | 四川妇女儿童 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.0.219:5140> |
+| 238 | 宁夏少儿 | hls.ningxiahuangheyun.com | <https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8> |
+| 239 | 宝宝动画 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.0.147:5140> |
+| 240 | 山东少儿 | IPv4 直链 | <http://123.132.233.194:352/tsfile/live/1002_1.m3u8> |
+| 241 | 斗鱼火影忍者 | live.iill.top | <https://live.iill.top/douyu/1997723> |
+| 242 | 新动漫 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1086_1.m3u8> |
+| 243 | 河北少儿 | tv.pull.hebtv.com | <http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2> |
+| 244 | 河北少儿科教 | IPv4 直链 | <http://120.0.52.241:8086/tsfile/live/1003_1.m3u8> |
+| 245 | 济南少儿 | IPv4 直链 | <http://221.0.78.198:1681/hls/10285/index.m3u8> |
+| 246 | 深圳少儿 | IPv4 直链 | <http://113.111.16.104:8888/udp/239.77.1.244:5146> |
+| 247 | 猫和老鼠 | live.iill.top | <https://live.iill.top/huya/11352879> |
+| 248 | 甘肃少儿 | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/922k96.m3u8> |
+| 249 | 福州少儿 | 福州明珠 | <http://live.zohi.tv/video/s10001-fztv-4/index.m3u8> |
+| 250 | 福建少儿 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/253585251/253585251.m3u8> |
+| 251 | 航海王动漫 | live.iill.top | <https://live.iill.top/huya/16913382> |
+| 252 | 茶啊二中动画 | live.iill.top | <https://live.iill.top/huya/11213191> |
+| 253 | 黑龙江少儿 | IPv4 直链 | <http://112.101.78.50:9901/tsfile/live/1007_1.m3u8> |
+| 254 | 4K南国都市频道 | tencentplay.gztv.com | <http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4> |
+| 255 | YMG未来 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?> |
+| 256 | 七台河新闻综合 | live.qthnews.org.cn:1935 | <http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8> |
+| 257 | 七台河民生社教 | live.qthnews.org.cn:1935 | <http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8> |
+| 258 | 万州三峡移民 | IPv4 直链 | <http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8> |
+| 259 | 万州综合 | IPv4 直链 | <http://123.146.162.24:8017/iTXwrGs/800/live.m3u8> |
+| 260 | 万源新闻综合 | live.wanyuannews.com | <http://live.wanyuannews.com/wytv/hd/live.m3u8> |
+| 261 | 上海外语 | 3ad2a0.tv.netsite.cc | <http://3ad2a0.tv.netsite.cc/proxy/1701776112/1701776112.m3u8> |
+| 262 | 上海教育 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1033_1.m3u8> |
+| 263 | 上海点掌财经 | 3ad2a0.tv.netsite.cc | <http://3ad2a0.tv.netsite.cc/proxy/1577752441/1577752441.m3u8> |
+| 264 | 上海纪实 | IPv4 直链 | <http://175.16.180.250:9901/tsfile/live/1000_1.m3u8> |
+| 265 | 上海都市 | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/2116818558/2116818558.m3u8> |
+| 266 | 上虞文化 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed?> |
+| 267 | 上虞新商都 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8> |
+| 268 | 上虞新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8> |
+| 269 | 上虞综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed?> |
+| 270 | 丘北电视台 | 文山州广播电视台 | <http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel14/playlist.m3u8> |
+| 271 | 东方财经 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1031_1.m3u8> |
+| 272 | 中华美食 | IPv4 直链 | <http://121.24.98.45:8090/hls/73/index.m3u8> |
+| 273 | 中国蓝新闻 | 浙江广播电视集团 | <http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8> |
+| 274 | 丰顺综合 | 1b6467f415.iok.la:9931 | <http://1b6467f415.iok.la:9931/tsfile/live/1100_1.m3u8> |
+| 275 | 临沂公共 | m3u8-channel.lytv.tv | <https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8> |
+| 276 | 临沂农科 | m3u8-channel.lytv.tv | <https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8> |
+| 277 | 临沂新闻综合 | m3u8-channel.lytv.tv | <https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8> |
+| 278 | 临洮综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1638428318510977.m3u8?zgand> |
+| 279 | 义乌新闻综合 | 奥点云 | <https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine> |
+| 280 | 义马新闻综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11281-1.m3u8> |
+| 281 | 之江纪录 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8> |
+| 282 | 之江记录 | 浙江广播电视集团 | <http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?> |
+| 283 | 乌兰察布新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800> |
+| 284 | 乐至综合 | IPv4 直链 | <http://175.155.106.72:89/live1/live1.m3u8> |
+| 285 | 云和新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?> |
+| 286 | 云和新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8> |
+| 287 | 云浮公共 | IPv4 直链 | <http://218.16.50.206:9090/udp/239.77.0.254:5146> |
+| 288 | 云浮综合 | livestream.oeeee.com | <https://livestream.oeeee.com/slive/17806.m3u8> |
+| 289 | 云霄综合 | live.zzyxxw.com:85 | <http://live.zzyxxw.com:85/live/xwzh.m3u8> |
+| 290 | 五台综合 | 568slnjf.live.sxmty.com | <https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8?zshanxd> |
+| 291 | 亳州农村 | IPv4 直链 | <http://114.105.184.92:9901/tsfile/live/1049_1.m3u8> |
+| 292 | 亳州新闻 | IPv4 直链 | <http://58.220.63.43/zbbf2.ahbztv.com/live/416.m3u8?zanhd&wsSession=9c4e040e25b04ef0d8e433e6-172672213876304&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1> |
+| 293 | 伊犁哈萨克 | IPv4 直链 | <http://110.153.180.106:55555/out_3/index.m3u8?zxinjd> |
+| 294 | 伊犁经济法制 | IPv4 直链 | <http://110.153.180.106:55555/out_4/index.m3u8?zxinjd> |
+| 295 | 伊犁维吾尔 | IPv4 直链 | <http://110.153.180.106:55555/out_2/index.m3u8?zxinjd> |
+| 296 | 优购物电视购物 | tvlive.ugoshop.com | <https://tvlive.ugoshop.com/ugotvlive/ugotv01.m3u8?auth_key=2312509421-0-0-f8f7e886fe98ee0a0c01458710bf26d3> |
+| 297 | 余姚姚江文化 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8> |
+| 298 | 余姚综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8> |
+| 299 | 余杭新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed?> |
+| 300 | 余杭未来 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8> |
+| 301 | 余杭未来E | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed> |
+| 302 | 余杭综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed> |
+| 303 | 佛山公共 | IPv4 直链 | <http://14.216.217.88:4206/udp/239.253.43.53:5146> |
+| 304 | 佛山综合 | IPv4 直链 | <http://113.111.16.104:8888/udp/239.253.43.57:5146> |
+| 305 | 六安公共 | pili-live-rtmp.luan2.hfmt.net | <http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8> |
+| 306 | 六安新闻综合 | pili-live-rtmp.luan2.hfmt.net | <http://pili-live-rtmp.luan2.hfmt.net/luan2/jjpd.m3u8> |
+| 307 | 兰溪新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed?> |
+| 308 | 兰溪新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8> |
+| 309 | 兵团十三师新星综合 | 兵团在线网站 | <http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8?zxinjd> |
+| 310 | 兵团十四师昆玉综合 | 兵团在线网站 | <http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd> |
+| 311 | 内乡综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11325-1.m3u8> |
+| 312 | 内蒙农牧 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/700721138/700721138.m3u8> |
+| 313 | 内蒙古农牧 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800> |
+| 314 | 内蒙古文体娱乐 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800> |
+| 315 | 内蒙古经济生活 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800> |
+| 316 | 内蒙古综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800> |
+| 317 | 内蒙古蒙语文化 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=d9d0fd7a252ef56b515c46a2e21830f4&txTime=771E8800> |
+| 318 | 内蒙文体 | IPv4 直链 | <http://221.199.193.250:9901/tsfile/live/1008_1.m3u8> |
+| 319 | 内蒙经济 | IPv4 直链 | <http://221.199.193.250:9901/tsfile/live/1007_1.m3u8> |
+| 320 | 利州综合 | tvfile.lzgbdst.com:80 | <http://tvfile.lzgbdst.com:80/nmip-media/channellive/channel106876/playlist.m3u8> |
+| 321 | 包头新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2358general.m3u8?txSecret=98390a77c143a68f0fd64bfe6e181dcb&txTime=771E8800> |
+| 322 | 化隆综合 | livecdn.dmqhyadmin.com | <http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8> |
+| 323 | 北京新闻 | IPv4 直链 | <http://39.98.201.151:9090/udp/225.1.8.83:8000> |
+| 324 | 北京生活 | IPv4 直链 | <http://39.98.201.151:9090/udp/225.1.8.108:8002> |
+| 325 | 北京科教 | IPv4 直链 | <http://39.98.201.151:9090/udp/225.1.8.123:8002> |
+| 326 | 北京财经 | IPv4 直链 | <http://111.196.129.152:20000/udp/239.3.1.116:8000> |
+| 327 | 北京青年 | IPv4 直链 | <http://39.98.201.151:9090/udp/225.1.8.118:8002> |
+| 328 | 十堰新闻 | p8.vzan.com | <http://p8.vzan.com/slowlive/034028687228317362/live.m3u8> |
+| 329 | 卓尼综合 | pili-live-hls.hfmt.net | <http://pili-live-hls.hfmt.net/gntv/zntv.m3u8?zgand> |
+| 330 | 南京信息 | 南京广播电视台 | <https://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8> |
+| 331 | 南京十八 | 南京广播电视台 | <https://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8> |
+| 332 | 南京娱乐 | 南京广播电视台 | <https://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8> |
+| 333 | 南京教科 | 南京广播电视台 | <http://live.nbs.cn/channels/njtv/jkpd/nbs06.m3u8> |
+| 334 | 南京新闻综合 | 南京广播电视台 | <https://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8> |
+| 335 | 南京生活 | 南京广播电视台 | <https://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8> |
+| 336 | 南宁公共 | IPv4 直链 | <http://113.15.184.118:8181/tsfile/live/1014_1.m3u8> |
+| 337 | 南宁影娱乐 | 老友网 | <http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8> |
+| 338 | 南宁新闻综合 | 老友网 | <http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8> |
+| 339 | 南宁都市生活 | 老友网 | <http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8> |
+| 340 | 原平综合 | xkmspyxn.live.sxmty.com | <http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8?zshanxd> |
+| 341 | 双流综合 | IPv4 直链 | <http://171.221.250.130:18888/27e684978eb642eeb90ab815f6cc51bf/c41893de5e8645b3b43aef1640859b0d.m3u8?zsicd> |
+| 342 | 叙州新闻综合 | pili-live-hls.ybcxjd.com | <http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8> |
+| 343 | 叙永综合 | luzhi.xuyongrongmei.com:1935 | <http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8> |
+| 344 | 古县综合 | l2fpdktp.live.sxmty.com | <https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd> |
+| 345 | 吉县新闻综合 | jxlive.jxrmtzx.com:8091 | <http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8> |
+| 346 | 吉林乡村 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1171899698/1171899698.m3u8> |
+| 347 | 吉林公共 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1189725287/1189725287.m3u8> |
+| 348 | 吉林生活 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1468821790/1468821790.m3u8> |
+| 349 | 吉林都市 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1677605767/1677605767.m3u8> |
+| 350 | 吴忠公共 | live.kanwz.net | <http://live.kanwz.net/ggpd/sd/live.m3u8> |
+| 351 | 吴忠综合 | live.kanwz.net | <http://live.kanwz.net/zhpd/sd/live.m3u8> |
+| 352 | 周口新闻综合 | IPv4 直链 | <http://117.159.72.12:8081/live/2216261506805201716.m3u8> |
+| 353 | 呼和浩特新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800> |
+| 354 | 哈尔滨娱乐 | stream.hrbtv.net | <http://stream.hrbtv.net/ylpd/sd/live.m3u8> |
+| 355 | 哈尔滨新闻综合 | stream.hrbtv.net | <http://stream.hrbtv.net/xwzh/sd/live.m3u8> |
+| 356 | 哈尔滨生活 | stream.hrbtv.net | <http://stream.hrbtv.net/shpd/sd/live.m3u8> |
+| 357 | 唐河一套 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11328-1.m3u8> |
+| 358 | 四川乡村 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.0.52:5140> |
+| 359 | 四川文化旅游 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.1.102:5140> |
+| 360 | 四川新闻 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.0.47:5140> |
+| 361 | 四川科教 | IPv4 直链 | <http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8> |
+| 362 | 四川经济 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.1.101:5140> |
+| 363 | 固镇新闻 | www.guzhenm.com:7001 | <http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd> |
+| 364 | 垫江综合 | IPv4 直链 | <http://125.62.24.185:80/1.m3u8> |
+| 365 | 天水新闻综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1698724188723989.m3u8> |
+| 366 | 天津 | IPv4 直链 | <http://113.236.28.117:9901/tsfile/live/1129_1.m3u8> |
+| 367 | 天津文艺 | nas.hssvm.com:8888 | <http://nas.hssvm.com:8888/udp/225.1.1.131:5002> |
+| 368 | 天津新闻 | nas.hssvm.com:8888 | <http://nas.hssvm.com:8888/udp/225.1.1.130:5002> |
+| 369 | 天津都市 | ha.xushining.com:50000 | <http://ha.xushining.com:50000/udp/225.1.1.128:5002> |
+| 370 | 夹江新闻综合 | tvfile.jjrm.org.cn | <http://tvfile.jjrm.org.cn/nmip-media/channellive/channel106282/playlist.m3u8> |
+| 371 | 奎屯哈萨克语 | IPv4 直链 | <http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd> |
+| 372 | 如东一套新闻综合 | 荔枝网 | <http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8> |
+| 373 | 姚江文化 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?> |
+| 374 | 威海一套新闻综合 | l1.weihai.tv:8081 | <http://l1.weihai.tv:8081/hls/969O76hb22.m3u8> |
+| 375 | 宁夏公共 | hls.ningxiahuangheyun.com | <https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8> |
+| 376 | 宁夏兴海综合 | lived.dmqhyadmin.com | <http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8> |
+| 377 | 宁夏文旅 | hls.ningxiahuangheyun.com | <https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8> |
+| 378 | 宁夏民和综合 | livecdn.dmqhyadmin.com | <http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8?zqinghd> |
+| 379 | 宁夏经济 | hls.ningxiahuangheyun.com | <https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8> |
+| 380 | 安徽经济生活 | IPv4 直链 | <http://112.30.194.221:20080/live/eac499adad7b49ff9cfa79ba84693959/hls.m3u8> |
+| 381 | 安徽综艺体育 | IPv4 直链 | <http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8> |
+| 382 | 安顺新闻 | 7fb6a9494e941e2acfc4eed53f777c1a.livehwc3.cn | <http://7fb6a9494e941e2acfc4eed53f777c1a.livehwc3.cn/hplayer1.juyun.tv/camera/154379194.m3u8> |
+| 383 | 定襄综合 | lbyzztfe.live.sxmty.com:80 | <http://lbyzztfe.live.sxmty.com:80/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8> |
+| 384 | 定西公共 | play.kankanlive.com | <https://play.kankanlive.com/live/1645680054929933.m3u8?zgand> |
+| 385 | 定西综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1645679947087932.m3u8?zgand> |
+| 386 | 宜阳综合 | 河南大象融媒体 | <http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8> |
+| 387 | 宾川一套 | live.bcrmtzx.com | <http://live.bcrmtzx.com/tv01/sd/live.m3u8?zyund> |
+| 388 | 宿州科教 | live.ahsz.tv | <http://live.ahsz.tv/video/s10001-kxjy/index.m3u8> |
+| 389 | 小金综合 | xjlive.xjxrmt.cn:8091 | <http://xjlive.xjxrmt.cn:8091/live/xwpd.m3u8> |
+| 390 | 山东体育 | IPv4 直链 | <http://58.57.40.22:9901/tsfile/live/1020_1.m3u8> |
+| 391 | 山东农科 | IPv4 直链 | <http://58.57.40.22:9901/tsfile/live/1022_1.m3u8> |
+| 392 | 山东居家购物 | IPv4 直链 | <http://144.52.160.114:9901/tsfile/live/1063_1.m3u8> |
+| 393 | 山东文旅 | IPv4 直链 | <http://58.57.40.22:9901/tsfile/live/1023_1.m3u8> |
+| 394 | 山东新闻 | IPv4 直链 | <http://60.208.61.2:352/tsfile/live/0141_1.m3u8> |
+| 395 | 山东生活 | IPv4 直链 | <http://58.57.40.22:9901/tsfile/live/1018_1.m3u8> |
+| 396 | 山东综艺 | IPv4 直链 | <http://58.57.40.22:9901/tsfile/live/1021_1.m3u8> |
+| 397 | 山东齐鲁 | IPv4 直链 | <http://60.210.100.54:352/tsfile/live/1001_1.m3u8> |
+| 398 | 山西文体生活 | liveflash.sxrtv.com | <http://liveflash.sxrtv.com/live/sxpublic.m3u8?sub_m3u8=true&edge_slice=true> |
+| 399 | 山西社会与法治 | liveflash.sxrtv.com | <http://liveflash.sxrtv.com/live/sxedu.m3u8?sub_m3u8=true&edge_slice=true> |
+| 400 | 山西经济与科技 | liveflash.sxrtv.com | <http://liveflash.sxrtv.com/live/sxfinance.m3u8?sub_m3u8=true&edge_slice=true> |
+| 401 | 岳池新闻综合 | liveyc.cmc.yuechirmt.cn:80 | <http://liveyc.cmc.yuechirmt.cn:80/live/yctv.m3u8?auth_key=1714112398-0-0-d9a6bd74623c01c1c2f9576fe51e8b7b> |
+| 402 | 岳西综合 | IPv4 直链 | <http://112.30.194.221:20080/live/b62955a9283f4c2ea8ccb96e8ac468bc/hls.m3u8> |
+| 403 | 岷县综合 | play.kankanlive.com | <http://play.kankanlive.com/live/1614311581479927.m3u8?zgand> |
+| 404 | 崆峒综合 | IPv4 直链 | <http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu> |
+| 405 | 崇明电视台 | pili-live-hls.wdit.com.cn | <https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8> |
+| 406 | 嵊州新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed?> |
+| 407 | 嵊州新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8> |
+| 408 | 嵊泗综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8> |
+| 409 | 巩义新闻综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/10181-1.m3u8> |
+| 410 | 巴彦淖尔新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2348general.m3u8?txSecret=6a4ddce077e41b976fe33619fbef2b30&txTime=771E8800> |
+| 411 | 平湖新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed?> |
+| 412 | 平湖新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8> |
+| 413 | 平湖民生 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed?> |
+| 414 | 平湖民生休闲 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8> |
+| 415 | 平远综合 | IPv4 直链 | <http://183.237.246.14:9931/tsfile/live/1097_1.m3u8> |
+| 416 | 平遥新闻综合 | tntgjhjb.live.sxmty.com | <https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd> |
+| 417 | 广东新闻 | IPv4 直链 | <http://14.212.185.71:9901/tsfile/live/1001_1.m3u8> |
+| 418 | 广东民生 | IPv4 直链 | <http://121.33.239.242:9901/tsfile/live/1003_1.m3u8> |
+| 419 | 广元公共 | m3u8.channel.dzsm.com | <https://m3u8.channel.dzsm.com/nmip-media/channellive/channel101257/playlist.m3u8> |
+| 420 | 广元综合 | m3u8.channel.dzsm.com | <https://m3u8.channel.dzsm.com/nmip-media/channellive/channel100999/playlist.m3u8> |
+| 421 | 广南电视台 | 文山州广播电视台 | <http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel19/playlist.m3u8> |
+| 422 | 广安公共 | live1.gatv.com.cn:85 | <http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8> |
+| 423 | 广州南国都市频道 | tencentplay.gztv.com | <https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=babbcbacdbcf13a3311a264e4dd66b8d&txTime=191b60b41a7> |
+| 424 | 广州新闻 | tencentplaygzrb01.gztv.com | <http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8> |
+| 425 | 广州电视台新闻频道 | tencentplay.gztv.com | <https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=520177bc9dd6916a7d6fa86bdb3f8830&txTime=191b5f5b230> |
+| 426 | 广州电视台法治频道 | tencentplay.gztv.com | <https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=4400d75d2114b2db07d86eda8f8218ee&txTime=191b60ce0f6> |
+| 427 | 广州电视台综合频道 | tencentplay.gztv.com | <https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=dce137597806f62ae6fdfc40328a336e&txTime=191b5fc1c86> |
+| 428 | 广州竞赛 | tencentplaygzrb01.gztv.com | <http://tencentplaygzrb01.gztv.com/live/jingsai.m3u8> |
+| 429 | 广州竞赛频道 | tencentplay.gztv.com | <https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca> |
+| 430 | 广州综合 | tencentplaygzrb01.gztv.com | <http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8> |
+| 431 | 广西新闻 | IPv4 直链 | <http://116.9.204.242:9901/tsfile/live/1001_1.m3u8> |
+| 432 | 广西桂林新闻 | pull.gltvs.com | <https://pull.gltvs.com/live/glxw/playlist.m3u8?v=b0528684bf934e120e1c30fc808e6576&t=1796868188> |
+| 433 | 庆元综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8> |
+| 434 | 延安一套新闻综合 | lives.cloud.yanews.cn | <http://lives.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8> |
+| 435 | 延安二套公共 | lives.cloud.yanews.cn | <http://lives.cloud.yanews.cn/video/s10001-YATV-1/index.m3u8> |
+| 436 | 延边1 | 延边广播电视台 | <http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild> |
+| 437 | 延边2 | 延边广播电视台 | <http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild> |
+| 438 | 开化公园 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8?zzhed?> |
+| 439 | 开化国家公园 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXkaihua2/720p.m3u8> |
+| 440 | 开化新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8?zzhed?> |
+| 441 | 开化新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8> |
+| 442 | 张家港新闻综合 | 3gvod.zjgonline.com.cn:1935 | <http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8> |
+| 443 | 张掖新闻综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1629709727589955.m3u8> |
+| 444 | 德阳公共 | scdytv.cn:1935 | <http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8> |
+| 445 | 德阳新闻综合 | scdytv.cn:1935 | <http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8> |
+| 446 | 怀仁综合 | 1yp7hc5p.live.sxmty.com | <http://1yp7hc5p.live.sxmty.com/live/hls/bff8529922344209985b6e49baa9555a/efa2543628fc4a7ea93d3d6c975f77dc.m3u8?zshanxd> |
+| 447 | 文成综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8> |
+| 448 | 新昌新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8> |
+| 449 | 新昌生活 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8> |
+| 450 | 新疆伊犁哈萨克 | IPv4 直链 | <http://110.153.180.106:55555/out_3/index.m3u8> |
+| 451 | 新疆伊犁汉语综合 | IPv4 直链 | <http://110.153.180.106:55555/out_1/index.m3u8> |
+| 452 | 新疆伊犁经济法制 | IPv4 直链 | <http://110.153.180.106:55555/out_4/index.m3u8> |
+| 453 | 新疆伊犁维吾尔 | IPv4 直链 | <http://110.153.180.106:55555/out_2/index.m3u8> |
+| 454 | 新疆兵团八师石河子教育 | IPv4 直链 | <http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8?zxinjd> |
+| 455 | 新疆兵团八师石河子新闻综合 | IPv4 直链 | <http://124.88.144.73:1935/live/xwzh/playlist.m3u8?zxinjd> |
+| 456 | 新疆兵团八师石河子经济生活 | IPv4 直链 | <http://124.88.144.73:1935/live/dywt/playlist.m3u8?zxinjd> |
+| 457 | 新疆奎屯哈萨克语 | IPv4 直链 | <http://218.84.12.186:8002/hls/main/playlist.m3u8> |
+| 458 | 新疆奎屯汉语综合 | IPv4 直链 | <http://218.84.12.186:8001/hls/main/playlist.m3u8> |
+| 459 | 新疆巴音郭楞州 | file.loulannews.cn | <http://file.loulannews.cn/nmip-media/channellive/channel101476/playlist.m3u8> |
+| 460 | 新疆石河子教育 | IPv4 直链 | <http://124.88.144.73:1935/live/jiaoyu/playlist.m3u8> |
+| 461 | 新疆石河子新闻综合 | IPv4 直链 | <http://124.88.144.73:1935/live/xwzh/playlist.m3u8> |
+| 462 | 新疆石河子经济生活 | IPv4 直链 | <http://124.88.144.73:1935/live/dywt/playlist.m3u8> |
+| 463 | 新闻综合 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1025_1.m3u8> |
+| 464 | 方城一套 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11322-1.m3u8> |
+| 465 | 无锡娱乐 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/461270403/461270403.m3u8> |
+| 466 | 无锡新闻综合 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/1808503557/1808503557.m3u8> |
+| 467 | 无锡生活 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/995802232/995802232.m3u8> |
+| 468 | 无锡都市资讯 | d97e53.tv.netsite.cc | <http://d97e53.tv.netsite.cc/proxy/1260824748/1260824748.m3u8> |
+| 469 | 旺苍新闻综合 | channel.wcrmt.cn:80 | <http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8> |
+| 470 | 昭化综合 | live.zhgbtv.cn:3100 | <http://live.zhgbtv.cn:3100/hls/kwqtkbbi/index.m3u8> |
+| 471 | 普陀新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed?> |
+| 472 | 普陀新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8> |
+| 473 | 景泰综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1624439143745981.m3u8> |
+| 474 | 朝阳新闻综合 | IPv4 直链 | <http://120.76.248.139/live/bfgd/4200000282.m3u8> |
+| 475 | 来宾综合 | zb.gxlbamc.com:1935 | <http://zb.gxlbamc.com:1935/live/lbzh.stream/playlist.m3u8> |
+| 476 | 松新闻 | live.strmtzx.cn | <http://live.strmtzx.cn/stxw/sd/live.m3u8?zguizd> |
+| 477 | 松潘新闻综合 | live.spccmc.com:90 | <http://live.spccmc.com:90/live/spxwzh.m3u8> |
+| 478 | 松阳综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8> |
+| 479 | 枣庄公共 | stream.zztvzd.com | <http://stream.zztvzd.com/3/sd/live.m3u8> |
+| 480 | 枣庄教育 | stream.zztvzd.com | <http://stream.zztvzd.com/2/sd/live.m3u8?shandd> |
+| 481 | 枣庄新闻综合 | stream.zztvzd.com | <http://stream.zztvzd.com/1/sd/live.m3u8?shandd> |
+| 482 | 梨园 | IPv4 直链 | <http://120.0.52.241:8086/tsfile/live/1010_1.m3u8> |
+| 483 | 歙县综合 | IPv4 直链 | <http://112.30.194.221:20080/live/4b3024127d1c472986ccdcb454f81a9f/hls.m3u8> |
+| 484 | 武义新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8> |
+| 485 | 武乡新闻综合 | IPv4 直链 | <http://60.220.198.84:81/0.m3u8> |
+| 486 | 武汉一台新闻综合 | IPv4 直链 | <http://58.48.37.158:1111/tsfile/live/1004_1.m3u8> |
+| 487 | 武汉三台科技生活 | IPv4 直链 | <http://58.48.37.158:1111/tsfile/live/1005_1.m3u8> |
+| 488 | 武汉二台电视剧 | IPv4 直链 | <http://58.48.37.158:1111/tsfile/live/0130_1.m3u8> |
+| 489 | 武汉五台文体 | stream.appwuhan.com | <http://stream.appwuhan.com/5tzb/sd/live.m3u8> |
+| 490 | 武汉六台外语 | stream.appwuhan.com | <http://stream.appwuhan.com/6tzb/sd/live.m3u8> |
+| 491 | 武汉四台经济 | stream.appwuhan.com | <http://stream.appwuhan.com/4tzb/sd/live.m3u8> |
+| 492 | 武汉教育 | IPv4 直链 | <http://58.48.37.158:1111/tsfile/live/1003_1.m3u8> |
+| 493 | 武胜综合 | live2.gatv.com.cn:86 | <http://live2.gatv.com.cn:86/live/WS.m3u8?zsicd> |
+| 494 | 武进新闻 | live.wjyanghu.com | <https://live.wjyanghu.com/live/CH1.m3u8> |
+| 495 | 武进生活 | live.wjyanghu.com | <https://live.wjyanghu.com/live/CH2.m3u8> |
+| 496 | 永嘉新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8> |
+| 497 | 永城综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11481-1.m3u8> |
+| 498 | 汉源综合 | live.hyxrmt.com:85 | <http://live.hyxrmt.com:85/live/xwpd.m3u8> |
+| 499 | 汕头文旅 | IPv4 直链 | <http://14.216.217.88:4206/udp/239.77.1.132:5146> |
+| 500 | 汕头经济 | IPv4 直链 | <http://14.216.217.88:4206/udp/239.77.1.131:5146> |
+| 501 | 汕头综合 | IPv4 直链 | <http://14.216.217.88:4206/udp/239.77.1.130:5146> |
+| 502 | 江宁电视台综合 | 荔枝网 | <https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8> |
+| 503 | 江津新闻综合 | IPv4 直链 | <http://222.179.155.21:1935/ch1.m3u8> |
+| 504 | 江门综合 | IPv4 直链 | <http://113.111.16.104:8888/udp/239.77.0.201:5146> |
+| 505 | 汶川新闻综合 | live.iwcmt.cn:90 | <http://live.iwcmt.cn:90/live/zhxw.m3u8> |
+| 506 | 汾西综合 | qmmqvzoz.live.sxmty.com | <https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd> |
+| 507 | 沁阳新闻综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/10882-1.m3u8> |
 | 508 | 沙湾综合 | tvfile.swrmt.com:80 | <http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8> |
 | 509 | 沛县新闻综合 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/2058383266/2058383266.m3u8> |
 | 510 | 沭阳综合 | 荔枝网 | <http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8> |
@@ -541,207 +541,207 @@
 | 533 | 济南教育 | IPv4 直链 | <http://221.0.78.198:1681/hls/10286/index.m3u8> |
 | 534 | 济南新闻综合 | IPv4 直链 | <http://221.0.78.198:1681/hls/10279/index.m3u8> |
 | 535 | 济南生活 | IPv4 直链 | <http://221.0.78.198:1681/hls/10281/index.m3u8> |
-| 536 | 济南综合 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1003_1.m3u8> |
-| 537 | 济南都市 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1004_1.m3u8> |
-| 538 | 济宁公共 | IPv4 直链 | <http://111.14.181.15:9901/tsfile/live/1009_1.m3u8> |
-| 539 | 济宁图文 | lives.jnnews.tv | <http://lives.jnnews.tv/video/s10001-JNTV4/index.m3u8> |
-| 540 | 济宁教育 | lives.jnnews.tv | <http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8> |
-| 541 | 济宁新闻综合 | lives.jnnews.tv | <http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8> |
-| 542 | 济宁综合 | IPv4 直链 | <http://111.14.181.15:9901/tsfile/live/1007_1.m3u8> |
-| 543 | 济源电视一套 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/19001-1.m3u8> |
+| 536 | 济南都市 | IPv4 直链 | <http://221.0.78.198:1681/hls/10280/index.m3u8> |
+| 537 | 济宁公共 | IPv4 直链 | <http://111.14.181.15:9901/tsfile/live/1009_1.m3u8> |
+| 538 | 济宁图文 | lives.jnnews.tv | <http://lives.jnnews.tv/video/s10001-JNTV4/index.m3u8> |
+| 539 | 济宁教育 | lives.jnnews.tv | <http://lives.jnnews.tv/video/s10001-JNTV-2/index.m3u8> |
+| 540 | 济宁新闻综合 | lives.jnnews.tv | <http://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8> |
+| 541 | 济宁综合 | IPv4 直链 | <http://111.14.181.15:9901/tsfile/live/1007_1.m3u8> |
+| 542 | 济源电视一套 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/19001-1.m3u8> |
+| 543 | 浙江公共新闻 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8> |
 | 544 | 浙江教育 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?> |
 | 545 | 浙江数码时代 | 浙江广播电视集团 | <http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8> |
 | 546 | 浙江新闻 | tvbox.nat.netsite.cc:8043 | <https://tvbox.nat.netsite.cc:8043/proxy/2053951003/2053951003.m3u8> |
-| 547 | 浙江民生休闲 | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/991769224/991769224.m3u8> |
-| 548 | 浙江生活 | tvbox.nat.netsite.cc:8043 | <https://tvbox.nat.netsite.cc:8043/proxy/1529435983/1529435983.m3u8> |
-| 549 | 浙江经济生活 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8> |
+| 547 | 浙江民生休闲 | tvbox.nat.netsite.cc:8043 | <https://tvbox.nat.netsite.cc:8043/proxy/991769224/991769224.m3u8> |
+| 548 | 浙江生活 | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/1529435983/1529435983.m3u8> |
+| 549 | 浙江经视 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8> |
 | 550 | 浙江钱江 | tvbox.nat.netsite.cc:8043 | <https://tvbox.nat.netsite.cc:8043/proxy/2044904392/2044904392.m3u8> |
-| 551 | 浙江青田 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8> |
-| 552 | 海南新闻 | IPv4 直链 | <http://36.101.0.224:554/udp/239.253.64.11:5140> |
-| 553 | 涟水电视台综合 | 荔枝网 | <http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8> |
-| 554 | 淮安公共 | live1.habctv.com | <http://live1.habctv.com/ggpdsl/sd/live.m3u8> |
-| 555 | 深圳东部 | IPv4 直链 | <http://14.216.217.88:4206/udp/239.77.1.224:5146> |
-| 556 | 深圳移动电视 | IPv4 直链 | <http://14.216.217.88:4206/udp/239.77.1.175:5146> |
-| 557 | 渑池新闻综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11221-1.m3u8> |
-| 558 | 湖北公共 | IPv4 直链 | <http://59.173.243.210:9901/tsfile/live/1034_1.m3u8> |
-| 559 | 湖北垄上 | IPv4 直链 | <http://119.36.148.115:59901/tsfile/live/1006_1.m3u8> |
-| 560 | 湖北崇阳综合 | IPv4 直链 | <http://61.184.176.248:10500/live/live.m3u8> |
-| 561 | 湖北教育 | IPv4 直链 | <http://220.249.114.102:9901/tsfile/live/1011_1.m3u8> |
-| 562 | 湖北武汉新闻 | stream.appwuhan.com | <http://stream.appwuhan.com/1tzb/sd/live.m3u8> |
-| 563 | 湖北潜江综合 | 千城云科 | <http://hbqjdb.chinashadt.com:2035/live/3.stream/playlist.m3u8> |
-| 564 | 湖北生活 | IPv4 直链 | <http://220.249.114.102:9901/tsfile/live/1012_1.m3u8> |
-| 565 | 湖北经视 | IPv4 直链 | <http://113.57.93.165:9900/tsfile/live/1017_1.m3u8> |
-| 566 | 湖北综合 | IPv4 直链 | <http://119.36.148.115:59901/tsfile/live/1005_1.m3u8> |
-| 567 | 湖南公共 | IPv4 直链 | <http://116.128.242.83:9901/tsfile/live/0117_1.m3u8> |
-| 568 | 湖南娱乐 | 3ad2a0.tv.netsite.cc | <http://3ad2a0.tv.netsite.cc/proxy/884645401/884645401.m3u8> |
-| 569 | 湖南教育 | IPv4 直链 | <http://223.159.10.196:8099/tsfile/live/1008_1.m3u8> |
-| 570 | 湖南爱晚 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1916495164/1916495164.m3u8> |
-| 571 | 湖南电视剧 | IPv4 直链 | <http://223.159.10.196:8099/tsfile/live/1004_1.m3u8> |
-| 572 | 湖南经视 | IPv4 直链 | <http://42.48.50.138:9002/tsfile/live/1004_1.m3u8> |
-| 573 | 湖南都市 | IPv4 直链 | <http://42.48.50.138:9002/tsfile/live/0127_1.m3u8> |
-| 574 | 湖南金鹰纪实 | IPv4 直链 | <http://220.170.243.209:9901/tsfile/live/1007_1.m3u8> |
-| 575 | 湘潭公共 | live.hnxttv.com:9601 | <http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8> |
-| 576 | 湘潭新闻综合 | live.hnxttv.com:9601 | <http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8> |
-| 577 | 滁州公共 | live.cztv.cc:85 | <http://live.cztv.cc:85/live/ggpd.m3u8?zanhd> |
-| 578 | 滁州市广播电视台公共 | live.cztv.cc:85 | <http://live.cztv.cc:85/live/ggpd.m3u8> |
-| 579 | 滁州新闻综合 | live.cztv.cc:85 | <http://live.cztv.cc:85/live/xwpd.m3u8> |
-| 580 | 滁州科教 | live.cztv.cc:85 | <http://live.cztv.cc:85/live/sjpd.m3u8> |
-| 581 | 滑县新闻 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/10526-1.m3u8> |
-| 582 | 漳州新闻综合 | 奥点云 | <https://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8> |
-| 583 | 漳浦综合 | IPv4 直链 | <http://220.161.87.62:8090/hls/0/index.m3u8> |
-| 584 | 潞城新闻综合 | IPv4 直链 | <http://59.48.42.6:62204/lucheng.m3u8> |
-| 585 | 潮州公共 | vod-zjst-time.sobeylive.com | <http://vod-zjst-time.sobeylive.com/czbtv2019/czggpd.m3u8> |
-| 586 | 潮州综合 | vod-zjst-time.sobeylive.com | <http://vod-zjst-time.sobeylive.com/czbtv2019/czzhpd.m3u8> |
-| 587 | 灵宝新闻综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11282-1.m3u8> |
-| 588 | 烟台公共 | 烟台网络广播电视台 | <http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8> |
-| 589 | 焦作公共 | 河南大象融媒体 | <http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8> |
-| 590 | 玛曲综合 | pili-live-hls.hfmt.net | <http://pili-live-hls.hfmt.net/gntv/mqtv.m3u8?gansu> |
-| 591 | 璧山综合 | IPv4 直链 | <http://222.179.42.129:8181/hls1.m3u8?zzhongqd> |
-| 592 | 甘南综合 | pili-live-hls.hfmt.net | <http://pili-live-hls.hfmt.net/gntv/gnhytv.m3u8?zgand> |
-| 593 | 甘孜综合 | tv.drs.ganzitv.com:8100 | <http://tv.drs.ganzitv.com:8100/channellive/gztv.flv?zsicd> |
-| 594 | 甘肃公共应急 | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/3t5xyc.m3u8> |
-| 595 | 甘肃经济 | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/10iv1j.m3u8> |
-| 596 | 甘肃都市 | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/l54391.m3u8> |
-| 597 | 生活时尚 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1051_1.m3u8> |
-| 598 | 田东综合 | pulls.myun.tv | <http://pulls.myun.tv/live/0dkp33j5.m3u8> |
-| 599 | 睢宁三农 | 荔枝网 | <http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8> |
-| 600 | 睢宁生活教育 | 荔枝网 | <http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8> |
-| 601 | 睢宁综合 | 荔枝网 | <http://suining-tv-hls.cm.jstv.com:80/suining-tv/suiningzh.m3u8> |
-| 602 | 石家庄娱乐 | IPv4 直链 | <http://120.0.52.241:8086/tsfile/live/1007_1.m3u8> |
-| 603 | 石家庄新闻综合 | IPv4 直链 | <http://120.0.52.241:8086/tsfile/live/1006_1.m3u8> |
-| 604 | 石家庄都市 | IPv4 直链 | <http://120.0.52.241:8086/tsfile/live/1009_1.m3u8> |
-| 605 | 砚山电视台 | 文山州广播电视台 | <http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8> |
-| 606 | 福州生活 | 福州明珠 | <http://live.zohi.tv/video/s10001-shpd-3/index.m3u8?zfud> |
-| 607 | 福州综合 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23301_1.m3u8> |
-| 608 | 福建文体 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23291_1.m3u8> |
-| 609 | 福建新闻 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/199601741/199601741.m3u8> |
-| 610 | 福建海峡卫视 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1400186150/1400186150.m3u8> |
-| 611 | 福建漳州新闻 | 奥点云 | <http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8> |
-| 612 | 福建电视剧 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1180178372/1180178372.m3u8> |
-| 613 | 福建经济 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23289_1.m3u8> |
-| 614 | 福建综合 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/269896449/269896449.m3u8> |
-| 615 | 禹州综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11081-1.m3u8> |
-| 616 | 第一财经 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1029_1.m3u8> |
-| 617 | 纳溪新闻 | bl.ainaxi.cn | <https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8> |
-| 618 | 绍兴公共 | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed> |
-| 619 | 绍兴文化 | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed?> |
-| 620 | 绍兴新闻 | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed?> |
-| 621 | 绍兴新闻综合 | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8> |
-| 622 | 绍兴电视台公共 | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8> |
-| 623 | 缙云综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8> |
-| 624 | 苍南新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed?> |
-| 625 | 苍南新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8> |
-| 626 | 苏州文化生活 | tylive.kan0512.com | <http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8> |
-| 627 | 苏州新闻综合 | tylive.kan0512.com | <http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8> |
-| 628 | 苏州生活资讯 | tylive.kan0512.com | <http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8> |
-| 629 | 苏州社会经济 | tylive.kan0512.com | <http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8> |
-| 630 | 茂名公共 | IPv4 直链 | <http://113.111.16.104:8888/udp/239.77.0.207:5146> |
-| 631 | 茂名综合 | IPv4 直链 | <http://218.16.50.206:9090/udp/239.77.0.206:5146> |
-| 632 | 荆门新闻综合 | stream.jmtv.com.cn | <http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd> |
-| 633 | 荣昌综合 | IPv4 直链 | <http://183.64.181.25:40023/rongchang01.m3u8> |
-| 634 | 荥阳综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/10182-1.m3u8> |
-| 635 | 菏泽影 | 菏泽网络电视台 | <http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd> |
-| 636 | 菏泽新闻综合 | 菏泽网络电视台 | <http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8> |
-| 637 | 菏泽经济生活 | 菏泽网络电视台 | <http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8> |
-| 638 | 萧山新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed?> |
-| 639 | 萧山新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8> |
-| 640 | 萧山生活 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8> |
-| 641 | 萧山综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?> |
-| 642 | 蒙语文化 | IPv4 直链 | <http://221.199.193.250:9901/tsfile/live/1005_1.m3u8> |
-| 643 | 蓬安新闻综合 | palive.patv123.com:8091 | <http://palive.patv123.com:8091/live/xwpd_800K.m3u8> |
-| 644 | 衢江新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed?> |
-| 645 | 衢江新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8> |
-| 646 | 西华综合 | 河南大象融媒体 | <http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8> |
-| 647 | 西和综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1659926941626981.m3u8> |
-| 648 | 西宁新闻综合 | 西宁网络电视台 | <https://liveout.xntv.tv/a65jur/96iln2.m3u8> |
-| 649 | 西宁生活服务 | dtrmlive.qhdtrm.cn | <http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8> |
-| 650 | 西安1套 | IPv4 直链 | <http://61.150.67.62:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 651 | 西安2套 | IPv4 直链 | <http://61.150.67.62:9901/tsfile/live/1015_1.m3u8> |
-| 652 | 西安3套 | IPv4 直链 | <http://61.150.67.62:9901/tsfile/live/1016_1.m3u8> |
-| 653 | 西安4套 | IPv4 直链 | <http://61.150.67.62:9901/tsfile/live/1017_1.m3u8> |
-| 654 | 西安5套 | IPv4 直链 | <http://61.150.67.62:9901/tsfile/live/1018_1.m3u8> |
-| 655 | 西安教育 | IPv4 直链 | <http://61.150.67.62:9901/tsfile/live/1019_1.m3u8> |
-| 656 | 诸暨新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8> |
-| 657 | 象山新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed?> |
-| 658 | 象山综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8> |
-| 659 | 贵南综合 | livecdn.dmqhyadmin.com | <http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8> |
-| 660 | 贵州松桃新闻 | live.strmtzx.cn | <http://live.strmtzx.cn/stxw/sd/live.m3u8> |
-| 661 | 贺州综合 | zhz.gxhzxw.com:2935 | <http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8> |
-| 662 | 赣榆新闻综合 | 荔枝网 | <http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8> |
-| 663 | 赤峰新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800> |
-| 664 | 辽宁公共 | IPv4 直链 | <http://113.236.28.117:9901/tsfile/live/1020_1.m3u8> |
-| 665 | 辽宁北方 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1018_1.m3u8> |
-| 666 | 辽宁教育青少 | IPv4 直链 | <http://120.76.248.139/live/bfgd/4200000075.m3u8> |
-| 667 | 辽宁生活 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1022_1.m3u8> |
-| 668 | 辽宁经济 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1021_1.m3u8> |
-| 669 | 辽宁都市 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1019_1.m3u8> |
-| 670 | 运城一套新闻综合 | live.0359tv.com | <http://live.0359tv.com/lsdream/ss4Lj11/live.m3u8> |
-| 671 | 运城三套科教 | live.0359tv.com | <http://live.0359tv.com/lsdream/p5eq48m/live.m3u8> |
-| 672 | 运城二套公共 | live.0359tv.com | <http://live.0359tv.com/lsdream/t667aTY/live.m3u8> |
-| 673 | 运城新闻综合 | live.0359tv.com | <http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8> |
-| 674 | 连云港公共 | live.lyg1.com | <http://live.lyg1.com/ggpd/sd/live.m3u8> |
-| 675 | 通州电视台 | pull.dayuntongzhou.com | <http://pull.dayuntongzhou.com/live/tztv.m3u8> |
-| 676 | 通渭综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1661761962676984.m3u8> |
-| 677 | 遂昌综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8> |
-| 678 | 邓州新闻 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11381-1.m3u8> |
-| 679 | 邯郸公共 | IPv4 直链 | <http://121.24.98.45:8090/hls/88/index.m3u8> |
-| 680 | 邯郸新闻 | IPv4 直链 | <http://121.24.98.45:8090/hls/87/index.m3u8> |
-| 681 | 邯郸科教 | IPv4 直链 | <http://121.24.98.45:8090/hls/89/index.m3u8> |
-| 682 | 都市剧场 | ha.xushining.com:50000 | <http://ha.xushining.com:50000/udp/225.1.1.146:5002> |
-| 683 | 鄂尔多斯新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800> |
-| 684 | 鄞州一套 | pili-publish.yzxw.newaircloud.com | <http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8?zzhed> |
-| 685 | 鄞州二套 | pili-publish.yzxw.newaircloud.com | <http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8?zzhed> |
-| 686 | 酒泉综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1702033926169975.m3u8> |
-| 687 | 重庆时尚购物 | tvlive.ugoshop.com | <https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129> |
-| 688 | 重庆汽摩 | IPv4 直链 | <http://120.76.248.139/live/bfgd/4200000168.m3u8> |
-| 689 | 金川乡村 | live.jinchuanrmt.com:90 | <http://live.jinchuanrmt.com:90/live/jcxc.m3u8> |
-| 690 | 金川新闻综合 | IPv4 直链 | <http://139.203.180.9:90/live/zhxw.m3u8> |
-| 691 | 金川综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1625041962958919.m3u8?zgand> |
-| 692 | 钱江都市 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8> |
-| 693 | 镇江二套社会民生 | zjtv-wshls.homecdn.com | <http://zjtv-wshls.homecdn.com/live/2aa16.m3u8> |
-| 694 | 长宁综合 | cnpull.sccnfb.com:80 | <http://cnpull.sccnfb.com:80/live/123456.m3u8> |
-| 695 | 长沙女性 | tvbox.nat.netsite.cc:8043 | <https://tvbox.nat.netsite.cc:8043/proxy/1812024686/1812024686.m3u8> |
-| 696 | 长沙政法 | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/298063278/298063278.m3u8> |
-| 697 | 长沙新闻综合 | 3ad2a0.tv.netsite.cc | <http://3ad2a0.tv.netsite.cc/proxy/1524274658/1524274658.m3u8> |
-| 698 | 门源综合 | livecdn.dmqhyadmin.com | <http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8> |
-| 699 | 闻喜综合 | www.wxhcgbds.com:8081 | <https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd> |
-| 700 | 阳曲综合 | 83awgyp5.live.sxmty.com | <https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd> |
-| 701 | 陕西1套 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1000_1.m3u8> |
-| 702 | 陕西2套 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1001_1.m3u8> |
-| 703 | 陕西3套 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1002_1.m3u8> |
-| 704 | 陕西4套 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1003_1.m3u8> |
-| 705 | 陕西5套 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1004_1.m3u8> |
-| 706 | 陕西6套 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1005_1.m3u8> |
-| 707 | 陕西7套 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1006_1.m3u8> |
-| 708 | 陕西8套 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1007_1.m3u8> |
-| 709 | 陕西乐家购物 | gxlive.snrtv.com | <http://gxlive.snrtv.com/sx6-SD.m3u8> |
-| 710 | 陕西体育休闲 | gxlive.snrtv.com | <http://gxlive.snrtv.com/sx7-SD.m3u8> |
-| 711 | 陕西公共 | gxlive.snrtv.com | <http://gxlive.snrtv.com/sx5-SD.m3u8> |
-| 712 | 陕西农林 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1359389546/1359389546.m3u8> |
-| 713 | 陕西新闻资讯 | gxlive.snrtv.com | <http://gxlive.snrtv.com/sx1-SD.m3u8> |
-| 714 | 陕西生活 | gxlive.snrtv.com | <http://gxlive.snrtv.com/sx3-SD.m3u8> |
-| 715 | 陕西购物 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1183146985/1183146985.m3u8> |
-| 716 | 陕西都市青春 | gxlive.snrtv.com | <http://gxlive.snrtv.com/sx2-SD.m3u8> |
-| 717 | 青州综合 | 千城云科 | <http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8> |
-| 718 | 青海经视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=e4e9fe741725348067> |
-| 719 | 青海都市 | stream.qhbtv.com | <http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=ea03ed711725339376> |
-| 720 | 青田电视 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed> |
-| 721 | 青神综合 | lmt.scqstv.com:80 | <http://lmt.scqstv.com:80/live1/live1.m3u8> |
-| 722 | 靖江新闻综合 | visit.jjbctv.com:1935 | <http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8> |
-| 723 | 韶关公共 | IPv4 直链 | <http://218.16.50.206:9090/udp/239.77.0.119:5146> |
-| 724 | 马尔康综合 | live.zmmek.com:90 | <http://live.zmmek.com:90/live/zhxw.m3u8> |
-| 725 | 高平综合 | live.gprmt.cn | <http://live.gprmt.cn/gpnews/hd/live.m3u8> |
-| 726 | 高邮一套新闻综合 | 荔枝网 | <http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8> |
-| 727 | 麻栗坡电视台 | 文山州广播电视台 | <http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8> |
-| 728 | 黄山公共生活 | hslive.hsnewsnet.com | <http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd> |
-| 729 | 黄山新闻综合 | hslive.hsnewsnet.com | <http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd> |
-| 730 | 黄河卫视 | liveflash.sxrtv.com | <http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true> |
-| 731 | 黎城综合 | IPv4 直链 | <http://111.53.96.67:8081/live/1/index.m3u8> |
-| 732 | 黑龙江哈尔滨都市资讯 | stream.hrbtv.net | <https://stream.hrbtv.net/zxpd/sd/live.m3u8> |
-| 733 | 黑龙江文体 | IPv4 直链 | <http://112.101.78.50:9901/tsfile/live/1009_1.m3u8> |
-| 734 | 黑龙江新闻法治 | IPv4 直链 | <http://112.101.78.50:9901/tsfile/live/1010_1.m3u8> |
-| 735 | 黑龙江都市 | IPv4 直链 | <http://112.101.78.50:9901/tsfile/live/1005_1.m3u8> |
-| 736 | 龙岩新闻综合 | fanmingming.com | <https://fanmingming.com/fm?id=962> |
+| 551 | 浙江钱江都市 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8> |
+| 552 | 浙江青田 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8> |
+| 553 | 海南新闻 | IPv4 直链 | <http://36.101.0.224:554/udp/239.253.64.11:5140> |
+| 554 | 涟水电视台综合 | 荔枝网 | <http://lianshui-tv-hls.cm.jstv.com/lianshui-tv/lsxw.m3u8> |
+| 555 | 淮安公共 | live1.habctv.com | <http://live1.habctv.com/ggpdsl/sd/live.m3u8> |
+| 556 | 深圳东部 | IPv4 直链 | <http://14.216.217.88:4206/udp/239.77.1.224:5146> |
+| 557 | 深圳移动电视 | IPv4 直链 | <http://14.216.217.88:4206/udp/239.77.1.175:5146> |
+| 558 | 渑池新闻综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11221-1.m3u8> |
+| 559 | 湖北公共 | IPv4 直链 | <http://59.173.243.210:9901/tsfile/live/1034_1.m3u8> |
+| 560 | 湖北垄上 | IPv4 直链 | <http://119.36.148.115:59901/tsfile/live/1006_1.m3u8> |
+| 561 | 湖北崇阳综合 | IPv4 直链 | <http://61.184.176.248:10500/live/live.m3u8> |
+| 562 | 湖北教育 | IPv4 直链 | <http://220.249.114.102:9901/tsfile/live/1011_1.m3u8> |
+| 563 | 湖北武汉新闻 | stream.appwuhan.com | <http://stream.appwuhan.com/1tzb/sd/live.m3u8> |
+| 564 | 湖北潜江综合 | 千城云科 | <http://hbqjdb.chinashadt.com:2035/live/3.stream/playlist.m3u8> |
+| 565 | 湖北生活 | IPv4 直链 | <http://220.249.114.102:9901/tsfile/live/1012_1.m3u8> |
+| 566 | 湖北经视 | IPv4 直链 | <http://113.57.93.165:9900/tsfile/live/1017_1.m3u8> |
+| 567 | 湖北综合 | IPv4 直链 | <http://119.36.148.115:59901/tsfile/live/1005_1.m3u8> |
+| 568 | 湖南公共 | IPv4 直链 | <http://116.128.242.83:9901/tsfile/live/0117_1.m3u8> |
+| 569 | 湖南娱乐 | 3ad2a0.tv.netsite.cc | <http://3ad2a0.tv.netsite.cc/proxy/884645401/884645401.m3u8> |
+| 570 | 湖南教育 | IPv4 直链 | <http://124.231.212.173:9999/tsfile/live/1086_1.m3u8> |
+| 571 | 湖南爱晚 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1916495164/1916495164.m3u8> |
+| 572 | 湖南电视剧 | IPv4 直链 | <http://223.159.10.196:8099/tsfile/live/1004_1.m3u8> |
+| 573 | 湖南经视 | IPv4 直链 | <http://42.48.50.138:9002/tsfile/live/1004_1.m3u8> |
+| 574 | 湖南都市 | IPv4 直链 | <http://42.48.50.138:9002/tsfile/live/0127_1.m3u8> |
+| 575 | 湖南金鹰纪实 | IPv4 直链 | <http://220.170.243.209:9901/tsfile/live/1007_1.m3u8> |
+| 576 | 湘潭公共 | live.hnxttv.com:9601 | <http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8> |
+| 577 | 湘潭新闻综合 | live.hnxttv.com:9601 | <http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8> |
+| 578 | 滁州公共 | live.cztv.cc:85 | <http://live.cztv.cc:85/live/ggpd.m3u8?zanhd> |
+| 579 | 滁州市广播电视台公共 | live.cztv.cc:85 | <http://live.cztv.cc:85/live/ggpd.m3u8> |
+| 580 | 滁州新闻综合 | live.cztv.cc:85 | <http://live.cztv.cc:85/live/xwpd.m3u8> |
+| 581 | 滁州科教 | live.cztv.cc:85 | <http://live.cztv.cc:85/live/sjpd.m3u8> |
+| 582 | 滑县新闻 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/10526-1.m3u8> |
+| 583 | 漳州新闻综合 | 奥点云 | <https://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8> |
+| 584 | 漳浦综合 | IPv4 直链 | <http://220.161.87.62:8090/hls/0/index.m3u8> |
+| 585 | 潞城新闻综合 | IPv4 直链 | <http://59.48.42.6:62204/lucheng.m3u8> |
+| 586 | 潮州公共 | vod-zjst-time.sobeylive.com | <http://vod-zjst-time.sobeylive.com/czbtv2019/czggpd.m3u8> |
+| 587 | 潮州综合 | vod-zjst-time.sobeylive.com | <http://vod-zjst-time.sobeylive.com/czbtv2019/czzhpd.m3u8> |
+| 588 | 灵宝新闻综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11282-1.m3u8> |
+| 589 | 烟台公共 | 烟台网络广播电视台 | <http://live.yantaitv.cn/live/e50f104a4ffe4a41b2217cbda534146f/d86092e69df94668b33390278b061700-1.m3u8> |
+| 590 | 焦作公共 | 河南大象融媒体 | <http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8> |
+| 591 | 玛曲综合 | pili-live-hls.hfmt.net | <http://pili-live-hls.hfmt.net/gntv/mqtv.m3u8?gansu> |
+| 592 | 璧山综合 | IPv4 直链 | <http://222.179.42.129:8181/hls1.m3u8?zzhongqd> |
+| 593 | 甘南综合 | pili-live-hls.hfmt.net | <http://pili-live-hls.hfmt.net/gntv/gnhytv.m3u8?zgand> |
+| 594 | 甘孜综合 | tv.drs.ganzitv.com:8100 | <http://tv.drs.ganzitv.com:8100/channellive/gztv.flv> |
+| 595 | 甘肃公共应急 | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/3t5xyc.m3u8> |
+| 596 | 甘肃经济 | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/10iv1j.m3u8> |
+| 597 | 甘肃都市 | hls.gstv.com.cn | <https://hls.gstv.com.cn/49048r/l54391.m3u8> |
+| 598 | 生活时尚 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1051_1.m3u8> |
+| 599 | 田东综合 | pulls.myun.tv | <http://pulls.myun.tv/live/0dkp33j5.m3u8> |
+| 600 | 睢宁三农 | 荔枝网 | <http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8> |
+| 601 | 睢宁生活教育 | 荔枝网 | <http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8> |
+| 602 | 睢宁综合 | 荔枝网 | <http://suining-tv-hls.cm.jstv.com:80/suining-tv/suiningzh.m3u8> |
+| 603 | 石家庄娱乐 | IPv4 直链 | <http://120.0.52.241:8086/tsfile/live/1007_1.m3u8> |
+| 604 | 石家庄新闻综合 | IPv4 直链 | <http://120.0.52.241:8086/tsfile/live/1006_1.m3u8> |
+| 605 | 石家庄都市 | IPv4 直链 | <http://120.0.52.241:8086/tsfile/live/1009_1.m3u8> |
+| 606 | 砚山电视台 | 文山州广播电视台 | <http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8> |
+| 607 | 福州生活 | 福州明珠 | <http://live.zohi.tv/video/s10001-shpd-3/index.m3u8?zfud> |
+| 608 | 福州综合 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23301_1.m3u8> |
+| 609 | 福建文体 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23291_1.m3u8> |
+| 610 | 福建新闻 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/199601741/199601741.m3u8> |
+| 611 | 福建海峡卫视 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1400186150/1400186150.m3u8> |
+| 612 | 福建漳州新闻 | 奥点云 | <http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8> |
+| 613 | 福建电视剧 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1180178372/1180178372.m3u8> |
+| 614 | 福建经济 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23289_1.m3u8> |
+| 615 | 福建综合 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/269896449/269896449.m3u8> |
+| 616 | 禹州综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11081-1.m3u8> |
+| 617 | 第一财经 | IPv4 直链 | <http://223.166.234.149:7777/tsfile/live/1029_1.m3u8> |
+| 618 | 纳溪新闻 | bl.ainaxi.cn | <https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8> |
+| 619 | 绍兴公共 | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed> |
+| 620 | 绍兴文化 | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed?> |
+| 621 | 绍兴新闻 | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed?> |
+| 622 | 绍兴新闻综合 | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8> |
+| 623 | 绍兴电视台公共 | 绍兴网 | <http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8> |
+| 624 | 缙云综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8> |
+| 625 | 苍南新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed?> |
+| 626 | 苍南新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8> |
+| 627 | 苏州文化生活 | tylive.kan0512.com | <http://tylive.kan0512.com/norecord/norecord_csztv3.m3u8> |
+| 628 | 苏州新闻综合 | tylive.kan0512.com | <http://tylive.kan0512.com/norecord/norecord_csztv1.m3u8> |
+| 629 | 苏州生活资讯 | tylive.kan0512.com | <http://tylive.kan0512.com/norecord/norecord_csztv5.m3u8> |
+| 630 | 苏州社会经济 | tylive.kan0512.com | <http://tylive.kan0512.com/norecord/norecord_csztv2.m3u8> |
+| 631 | 茂名公共 | IPv4 直链 | <http://14.216.217.88:4206/udp/239.77.0.207:5146> |
+| 632 | 茂名综合 | IPv4 直链 | <http://113.111.16.104:8888/udp/239.77.0.206:5146> |
+| 633 | 荆门新闻综合 | stream.jmtv.com.cn | <http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd> |
+| 634 | 荣昌综合 | IPv4 直链 | <http://183.64.181.25:40023/rongchang01.m3u8> |
+| 635 | 荥阳综合 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/10182-1.m3u8> |
+| 636 | 菏泽影 | 菏泽网络电视台 | <http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8?shandd> |
+| 637 | 菏泽新闻综合 | 菏泽网络电视台 | <http://live.hznet.tv:1935/live/live1/500k/tzwj_video.m3u8> |
+| 638 | 菏泽经济生活 | 菏泽网络电视台 | <http://live.hznet.tv:1935/live/live2/500K/tzwj_video.m3u8> |
+| 639 | 萧山新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed?> |
+| 640 | 萧山新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8> |
+| 641 | 萧山生活 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8> |
+| 642 | 萧山综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?> |
+| 643 | 蒙语文化 | IPv4 直链 | <http://221.199.193.250:9901/tsfile/live/1005_1.m3u8> |
+| 644 | 蓬安新闻综合 | palive.patv123.com:8091 | <http://palive.patv123.com:8091/live/xwpd_800K.m3u8> |
+| 645 | 衢江新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed?> |
+| 646 | 衢江新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8> |
+| 647 | 西华综合 | 河南大象融媒体 | <http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8> |
+| 648 | 西和综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1659926941626981.m3u8> |
+| 649 | 西宁新闻综合 | 西宁网络电视台 | <https://liveout.xntv.tv/a65jur/96iln2.m3u8> |
+| 650 | 西宁生活服务 | dtrmlive.qhdtrm.cn | <http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8> |
+| 651 | 西安1套 | IPv4 直链 | <http://61.150.67.62:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 652 | 西安2套 | IPv4 直链 | <http://61.150.67.62:9901/tsfile/live/1015_1.m3u8> |
+| 653 | 西安3套 | IPv4 直链 | <http://61.150.67.62:9901/tsfile/live/1016_1.m3u8> |
+| 654 | 西安4套 | IPv4 直链 | <http://61.150.67.62:9901/tsfile/live/1017_1.m3u8> |
+| 655 | 西安5套 | IPv4 直链 | <http://61.150.67.62:9901/tsfile/live/1018_1.m3u8> |
+| 656 | 西安教育 | IPv4 直链 | <http://61.150.67.62:9901/tsfile/live/1019_1.m3u8> |
+| 657 | 诸暨新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8> |
+| 658 | 象山新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8?zzhed?> |
+| 659 | 象山综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8> |
+| 660 | 贵南综合 | livecdn.dmqhyadmin.com | <http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8> |
+| 661 | 贵州松桃新闻 | live.strmtzx.cn | <http://live.strmtzx.cn/stxw/sd/live.m3u8> |
+| 662 | 贺州综合 | zhz.gxhzxw.com:2935 | <http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8> |
+| 663 | 赣榆新闻综合 | 荔枝网 | <http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8> |
+| 664 | 赤峰新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800> |
+| 665 | 辽宁公共 | IPv4 直链 | <http://113.236.28.117:9901/tsfile/live/1020_1.m3u8> |
+| 666 | 辽宁北方 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1018_1.m3u8> |
+| 667 | 辽宁教育青少 | IPv4 直链 | <http://120.76.248.139/live/bfgd/4200000075.m3u8> |
+| 668 | 辽宁生活 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1022_1.m3u8> |
+| 669 | 辽宁经济 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1021_1.m3u8> |
+| 670 | 辽宁都市 | IPv4 直链 | <http://123.189.39.129:9901/tsfile/live/1019_1.m3u8> |
+| 671 | 运城一套新闻综合 | live.0359tv.com | <http://live.0359tv.com/lsdream/ss4Lj11/live.m3u8> |
+| 672 | 运城三套科教 | live.0359tv.com | <http://live.0359tv.com/lsdream/p5eq48m/live.m3u8> |
+| 673 | 运城二套公共 | live.0359tv.com | <http://live.0359tv.com/lsdream/t667aTY/live.m3u8> |
+| 674 | 运城新闻综合 | live.0359tv.com | <http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8> |
+| 675 | 连云港公共 | live.lyg1.com | <http://live.lyg1.com/ggpd/sd/live.m3u8> |
+| 676 | 通州电视台 | pull.dayuntongzhou.com | <http://pull.dayuntongzhou.com/live/tztv.m3u8> |
+| 677 | 通渭综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1661761962676984.m3u8> |
+| 678 | 遂昌综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8> |
+| 679 | 邓州新闻 | 河南大象融媒体 | <http://live.dxhmt.cn:9081/tv/11381-1.m3u8> |
+| 680 | 邯郸公共 | IPv4 直链 | <http://121.24.98.45:8090/hls/88/index.m3u8> |
+| 681 | 邯郸新闻 | IPv4 直链 | <http://121.24.98.45:8090/hls/87/index.m3u8> |
+| 682 | 邯郸科教 | IPv4 直链 | <http://121.24.98.45:8090/hls/89/index.m3u8> |
+| 683 | 都市剧场 | ha.xushining.com:50000 | <http://ha.xushining.com:50000/udp/225.1.1.146:5002> |
+| 684 | 鄂尔多斯新闻综合 | livestream-bt.nmtv.cn | <https://livestream-bt.nmtv.cn/nmtv/2349general.m3u8?txSecret=e44477052aba305cadeea45aaf1c674a&txTime=771E8800> |
+| 685 | 鄞州一套 | pili-publish.yzxw.newaircloud.com | <http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8?zzhed> |
+| 686 | 鄞州二套 | pili-publish.yzxw.newaircloud.com | <http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8?zzhed> |
+| 687 | 酒泉综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1702033926169975.m3u8> |
+| 688 | 重庆时尚购物 | tvlive.ugoshop.com | <https://tvlive.ugoshop.com/ugotvlive/ssgotv.m3u8?auth_key=2312509421-0-0-6642ec3645caa943da6855a9ef7e2129> |
+| 689 | 重庆汽摩 | IPv4 直链 | <http://120.76.248.139/live/bfgd/4200000168.m3u8> |
+| 690 | 金川乡村 | live.jinchuanrmt.com:90 | <http://live.jinchuanrmt.com:90/live/jcxc.m3u8> |
+| 691 | 金川新闻综合 | IPv4 直链 | <http://139.203.180.9:90/live/zhxw.m3u8> |
+| 692 | 金川综合 | play.kankanlive.com | <https://play.kankanlive.com/live/1625041962958919.m3u8?zgand> |
+| 693 | 钱江都市 | 浙江广播电视集团 | <https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?> |
+| 694 | 镇江二套社会民生 | zjtv-wshls.homecdn.com | <http://zjtv-wshls.homecdn.com/live/2aa16.m3u8> |
+| 695 | 长宁综合 | cnpull.sccnfb.com:80 | <http://cnpull.sccnfb.com:80/live/123456.m3u8> |
+| 696 | 长沙女性 | tvbox.nat.netsite.cc:8043 | <https://tvbox.nat.netsite.cc:8043/proxy/1812024686/1812024686.m3u8> |
+| 697 | 长沙政法 | ced8ee.tv.netsite.cc | <http://ced8ee.tv.netsite.cc/proxy/298063278/298063278.m3u8> |
+| 698 | 长沙新闻综合 | 3ad2a0.tv.netsite.cc | <http://3ad2a0.tv.netsite.cc/proxy/1524274658/1524274658.m3u8> |
+| 699 | 门源综合 | livecdn.dmqhyadmin.com | <http://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8> |
+| 700 | 闻喜综合 | www.wxhcgbds.com:8081 | <https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd> |
+| 701 | 阳曲综合 | 83awgyp5.live.sxmty.com | <https://83awgyp5.live.sxmty.com/live/hls/6f6f4b36f9bd42628b718b595ba507ed/724b7e8907a8414d873eb2a2f69bfa18.m3u8?zshanxd> |
+| 702 | 陕西1套 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1000_1.m3u8> |
+| 703 | 陕西2套 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1001_1.m3u8> |
+| 704 | 陕西3套 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1002_1.m3u8> |
+| 705 | 陕西4套 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1003_1.m3u8> |
+| 706 | 陕西5套 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1004_1.m3u8> |
+| 707 | 陕西6套 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1005_1.m3u8> |
+| 708 | 陕西7套 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1006_1.m3u8> |
+| 709 | 陕西8套 | IPv4 直链 | <http://123.138.22.30:9901/tsfile/live/1007_1.m3u8> |
+| 710 | 陕西乐家购物 | gxlive.snrtv.com | <http://gxlive.snrtv.com/sx6-SD.m3u8> |
+| 711 | 陕西体育休闲 | gxlive.snrtv.com | <http://gxlive.snrtv.com/sx7-SD.m3u8> |
+| 712 | 陕西公共 | gxlive.snrtv.com | <http://gxlive.snrtv.com/sx5-SD.m3u8> |
+| 713 | 陕西农林 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1359389546/1359389546.m3u8> |
+| 714 | 陕西新闻资讯 | gxlive.snrtv.com | <http://gxlive.snrtv.com/sx1-SD.m3u8> |
+| 715 | 陕西生活 | gxlive.snrtv.com | <http://gxlive.snrtv.com/sx3-SD.m3u8> |
+| 716 | 陕西购物 | 0a736a.tv.netsite.cc | <http://0a736a.tv.netsite.cc/proxy/1183146985/1183146985.m3u8> |
+| 717 | 陕西都市青春 | gxlive.snrtv.com | <http://gxlive.snrtv.com/sx2-SD.m3u8> |
+| 718 | 青州综合 | 千城云科 | <http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8> |
+| 719 | 青海经视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=e4e9fe741725348067> |
+| 720 | 青海都市 | stream.qhbtv.com | <http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=ea03ed711725339376> |
+| 721 | 青田电视 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8?zzhed> |
+| 722 | 青神综合 | lmt.scqstv.com:80 | <http://lmt.scqstv.com:80/live1/live1.m3u8> |
+| 723 | 靖江新闻综合 | visit.jjbctv.com:1935 | <http://visit.jjbctv.com:1935/live/xwzhmb/playlist.m3u8> |
+| 724 | 韶关公共 | IPv4 直链 | <http://218.16.50.206:9090/udp/239.77.0.119:5146> |
+| 725 | 马尔康综合 | live.zmmek.com:90 | <http://live.zmmek.com:90/live/zhxw.m3u8> |
+| 726 | 高平综合 | live.gprmt.cn | <http://live.gprmt.cn/gpnews/hd/live.m3u8> |
+| 727 | 高邮一套新闻综合 | 荔枝网 | <http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8> |
+| 728 | 麻栗坡电视台 | 文山州广播电视台 | <http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8> |
+| 729 | 黄山公共生活 | hslive.hsnewsnet.com | <http://hslive.hsnewsnet.com/lsdream/iY92ady/1000/live.m3u8?zanhd> |
+| 730 | 黄山新闻综合 | hslive.hsnewsnet.com | <http://hslive.hsnewsnet.com/lsdream/hve9Wjs/1000/live.m3u8?zanhd> |
+| 731 | 黄河卫视 | liveflash.sxrtv.com | <http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true> |
+| 732 | 黎城综合 | IPv4 直链 | <http://111.53.96.67:8081/live/1/index.m3u8> |
+| 733 | 黑龙江哈尔滨都市资讯 | stream.hrbtv.net | <https://stream.hrbtv.net/zxpd/sd/live.m3u8> |
+| 734 | 黑龙江文体 | IPv4 直链 | <http://112.101.78.50:9901/tsfile/live/1009_1.m3u8> |
+| 735 | 黑龙江新闻法治 | IPv4 直链 | <http://112.101.78.50:9901/tsfile/live/1010_1.m3u8> |
+| 736 | 黑龙江都市 | IPv4 直链 | <http://112.101.78.50:9901/tsfile/live/1005_1.m3u8> |
 | 737 | 龙泉新闻 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed?> |
 | 738 | 龙泉新闻综合 | 新蓝云 | <http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8> |
 | 739 | 龙泉驿新闻综合 | live-pull.newslqy.com | <https://live-pull.newslqy.com/live/fmzb1682404988829.m3u8> |
@@ -1168,443 +1168,430 @@
 | 1160 | 解说刘老师说电影 | live.metshop.top | <https://live.metshop.top/huya/20289754> |
 | 1161 | 解说嫦娥撩电影 | live.metshop.top | <https://live.metshop.top/huya/18201106> |
 | 1162 | 解说小冉看电影 | live.metshop.top | <https://live.metshop.top/huya/17341907> |
-| 1163 | 解说恐怖电影解说 | live.metshop.top | <https://live.metshop.top/huya/16741179> |
-| 1164 | 解说疯狂解说家 | live.metshop.top | <https://live.metshop.top/huya/18366196> |
-| 1165 | 解说续哥说电影 | live.metshop.top | <https://live.metshop.top/huya/24396472> |
-| 1166 | 解说老炮说电影 | live.metshop.top | <https://live.metshop.top/huya/15454716> |
-| 1167 | 解说虎妞说电影 | live.metshop.top | <https://live.metshop.top/huya/20343144> |
-| 1168 | 解说阿翔说电影 | live.metshop.top | <https://live.metshop.top/huya/16868935> |
-| 1169 | 解说顾久撩电影 | live.metshop.top | <https://live.metshop.top/huya/16422212> |
-| 1170 | 解说鹿哥电影 | live.metshop.top | <https://live.metshop.top/huya/24396360> |
-| 1171 | 解说默爷侃电影 | live.metshop.top | <https://live.metshop.top/huya/17204307> |
-| 1172 | B站CS2 | live.iill.top | <https://live.iill.top/bilibili/21622811> |
-| 1173 | B站JJ斗地主 | live.iill.top | <https://live.iill.top/bilibili/22021983> |
-| 1174 | B站QQ飞车手游 | live.iill.top | <https://live.iill.top/bilibili/21743919> |
-| 1175 | B站使命召唤手游 | live.iill.top | <https://live.iill.top/bilibili/22741849> |
-| 1176 | B站无畏契约 | live.iill.top | <https://live.iill.top/bilibili/22908869> |
-| 1177 | B站王者荣耀 | live.iill.top | <https://live.iill.top/bilibili/21654762> |
-| 1178 | B站第五人格 | live.iill.top | <https://live.iill.top/bilibili/5555> |
-| 1179 | B站绝地求生 | live.iill.top | <https://live.iill.top/bilibili/98> |
-| 1180 | B站英雄联盟 | live.iill.top | <https://live.iill.top/bilibili/6> |
-| 1181 | B站英雄联盟手游 | live.iill.top | <https://live.iill.top/bilibili/23138275> |
-| 1182 | 斗鱼DOTA2 | live.iill.top | <https://live.iill.top/douyu/3811559> |
-| 1183 | 斗鱼FIFA | live.iill.top | <https://live.iill.top/douyu/7692166> |
-| 1184 | 斗鱼JJ斗地主 | live.iill.top | <https://live.iill.top/douyu/488743> |
-| 1185 | 斗鱼QQ飞车手游 | live.iill.top | <https://live.iill.top/douyu/5040227> |
-| 1186 | 斗鱼云顶之弈 | live.iill.top | <https://live.iill.top/douyu/522423> |
-| 1187 | 斗鱼使命召唤手游 | live.iill.top | <https://live.iill.top/douyu/9223245> |
-| 1188 | 斗鱼原神 | live.iill.top | <https://live.iill.top/douyu/10853239> |
-| 1189 | 斗鱼和平精英 | live.iill.top | <https://live.iill.top/douyu/999> |
-| 1190 | 斗鱼我的世界 | live.iill.top | <https://live.iill.top/douyu/738878> |
-| 1191 | 斗鱼无畏契约 | live.iill.top | <https://live.iill.top/douyu/4585645> |
-| 1192 | 斗鱼梦幻西游手游 | live.iill.top | <https://live.iill.top/huya/9163712> |
-| 1193 | 斗鱼永劫无间 | live.iill.top | <https://live.iill.top/huya/9662891> |
-| 1194 | 斗鱼王者荣耀 | live.iill.top | <https://live.iill.top/douyu/1984839> |
-| 1195 | 斗鱼穿越火线 | live.iill.top | <https://live.iill.top/douyu/605964> |
-| 1196 | 斗鱼第五人格 | live.iill.top | <https://live.iill.top/douyu/3226194> |
-| 1197 | 斗鱼绝地求生 | live.iill.top | <https://live.iill.top/douyu/100> |
-| 1198 | 斗鱼英雄联盟 | live.iill.top | <https://live.iill.top/douyu/288016> |
-| 1199 | 斗鱼街霸 | live.iill.top | <https://live.iill.top/huya/11437> |
-| 1200 | 斗鱼跑跑卡丁车 | live.iill.top | <https://live.iill.top/douyu/7722576> |
-| 1201 | 斗鱼跑跑卡丁车手游 | live.iill.top | <https://live.iill.top/douyu/6672862> |
-| 1202 | 斗鱼金铲铲之战 | live.iill.top | <https://live.iill.top/douyu/9715241> |
-| 1203 | 电竞天堂 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.1.135:5140> |
-| 1204 | 虎牙DOTA2 | live.iill.top | <https://live.iill.top/huya/660118> |
-| 1205 | 虎牙使命召唤手游 | live.iill.top | <https://live.iill.top/huya/11718629> |
-| 1206 | 虎牙和平精英 | live.iill.top | <https://live.iill.top/huya/660006> |
-| 1207 | 虎牙无畏契约 | live.iill.top | <https://live.iill.top/huya/660679> |
-| 1208 | 虎牙永劫无间 | live.iill.top | <https://live.iill.top/huya/660115> |
-| 1209 | 虎牙王者荣耀 | live.iill.top | <https://live.iill.top/huya/660002> |
-| 1210 | 虎牙穿越火线 | live.iill.top | <https://live.iill.top/huya/660101> |
-| 1211 | 虎牙穿越火线手游 | live.iill.top | <https://live.iill.top/huya/660102> |
-| 1212 | 虎牙第五人格 | live.iill.top | <https://live.iill.top/huya/idvesports> |
-| 1213 | 虎牙绝地求生 | live.iill.top | <https://live.iill.top/huya/660005> |
-| 1214 | 虎牙英雄联盟 | live.iill.top | <https://live.iill.top/huya/660001> |
-| 1215 | 虎牙逆战 | live.iill.top | <https://live.iill.top/huya/nsl2021> |
-| 1216 | 虎牙金铲铲之战 | live.iill.top | <https://live.iill.top/huya/660579> |
-| 1217 | 10首车载 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-nb6afsyti2t91p54/sc/cae_h264_delogo/1644221195521496576/mda-nb6afsyti2t91p54.mp4> |
-| 1218 | 2018精选十首动感DJ舞曲串烧大碟 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-ii00rzrptt9e56yf/sc/mda-ii00rzrptt9e56yf.mp4> |
-| 1219 | 2019火爆DJ串烧第一期 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-jgjca1pammc75yy9/sc/mda-jgjca1pammc75yy9.mp4> |
-| 1220 | 2020国外热门动感DJ版 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-kb2bqk7bw0ntjpfn/sc/mda-kb2bqk7bw0ntjpfn.mp4> |
-| 1221 | 2021年最火伤感音乐 | vdse.bdstatic.com | <https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4> |
-| 1222 | 2021年网络火爆伤感情歌6首 | vdse.bdstatic.com | <https://vdse.bdstatic.com//80e0473f97055cec1c9c76c1c7e5498a.mp4> |
-| 1223 | 2021热门伤感DJ | vdse.bdstatic.com | <https://vdse.bdstatic.com//06b4e9b185b843e694e4d20e9b0a0aac.mp4> |
-| 1224 | 2首车载DJ歌曲联唱 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-jiugyuw4xwqiwzet/sc/mda-jiugyuw4xwqiwzet.mp4> |
-| 1225 | 5首伤感DJ | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-nd5cr584424xr57c/sc/cae_h264_delogo/1649238205192327499/mda-nd5cr584424xr57c.mp4> |
-| 1226 | 5首劲爆dj | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mm69dxgtcqg28j9j/sc/cae_h264/1638860024910192032/mda-mm69dxgtcqg28j9j.mp4> |
-| 1227 | 7DJ舞曲 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-nch73gktvfmgdrbd/sc/cae_h264_delogo/1647644537085447432/mda-nch73gktvfmgdrbd.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1648813542-0-0-4a2d27d50015d19f3ed5cf5fbc261f79&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=ced9e69a4f6154e91be590c1d5a488ab&logid=0942439256&vid=4192073541598205553&pt=0&appver=7.2.1.10&model=T7-5G10&osver=9&cr=2&abtest=peav_g52&sle=1&sl=1420&split=1235330&dt=1&nt=0&pe=0&prerender=0&kpdl=1&h265_m=-1&klogid=c770aa16cadb579d&kapid=1&psp=1&psk=1028&pif=0_0_0_0&qtfc=65535&qtut=0&stg=none> |
-| 1228 | 7首伤感情歌 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-nbdj7sp20st0jd9d/sc/cae_h264_delogo/1644847557994341172/mda-nbdj7sp20st0jd9d.mp4> |
-| 1229 | DJ13首经典老歌 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-igbpw1bm4vdxitj0/logo/sc/mda-igbpw1bm4vdxitj0.mp4> |
-| 1230 | DJ4首吸烟的女人 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mg7zcjiauy83ehmz/sc/cae_h264/1625790109974824055/mda-mg7zcjiauy83ehmz.mp4> |
-| 1231 | DJ天后 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-kk5f22n13qna8edp/v1-cae/sc/mda-kk5f22n13qna8edp.mp4> |
-| 1232 | DJ小薇 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-nd6jimimnfwyjuar/sc/cae_h264_delogo/1649345922829980302/mda-nd6jimimnfwyjuar.mp4> |
-| 1233 | DJ心在跳情在烧 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4> |
-| 1234 | DJ情歌 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mm67ychk60q5n0d1/sc/cae_h264/1638893384360470440/mda-mm67ychk60q5n0d1.mp4> |
-| 1235 | DJ情歌5首 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mmg7iqkrutbwd7az/sc/cae_h264/1639851941696222972/mda-mmg7iqkrutbwd7az.mp4> |
-| 1236 | DJ情歌8首 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mk7hhug7aprk2806/sc/cae_h264/1636496746808750167/mda-mk7hhug7aprk2806.mp4> |
-| 1237 | DJ情歌爱情迷了路 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-mdbrb7fns70avrmt/1080p/cae_h264/1618222287/mda-mdbrb7fns70avrmt.mp4> |
-| 1238 | DJ情火拥抱你离去夜夜夜漫长 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-nd3gy7ukv0reh4xv/sc/cae_h264_delogo/1649115109025912038/mda-nd3gy7ukv0reh4xv.mp4> |
-| 1239 | DJ我们不再是从前 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mhne550wq5m66zvj/1080p/cae_h264/1629803514331462220/mda-mhne550wq5m66zvj.mp4> |
-| 1240 | DJ无情书 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-kkikg9rzshuhcxwy/v1-cae/sc/mda-kkikg9rzshuhcxwy.mp4> |
-| 1241 | DJ最烈的酒最猛的烟 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-nd3eicnw62x3z3j0/hd/cae_h264_delogo/1649067794176996768/mda-nd3eicnw62x3z3j0.mp4> |
-| 1242 | DJ歌曲怎么爱都爱不够 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mksyipb0103ck0pm/sc/cae_h264_nowatermark/1638055298562460672/mda-mksyipb0103ck0pm.mp4> |
-| 1243 | DJ此生已过半 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mdaprhx095djift2/hd/mda-mdaprhx095djift2.mp4> |
-| 1244 | DJ没理由 | bj.bcebos.com | <https://bj.bcebos.com/v1/baidu-little-video/vod-gechgi84v43uhfhp/mda-kmbyf4x2aeqt8cds.mp4> |
-| 1245 | DJ流浪兄弟 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/1629972852606533219/mda-mhrdtax1km0idkc5.mp4> |
-| 1246 | DJ潮湿的心 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-jfsre2z1s4xk012w/sc/mda-jfsre2z1s4xk012w.mp4> |
-| 1247 | DJ爆红老歌10首车载 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-nbhgwre9iykh09ya/sc/cae_h264_delogo/1645187028367793873/mda-nbhgwre9iykh09ya.mp4> |
-| 1248 | DJ爱难求 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-mk99haw9m5kp6p5s/default/h264/1636526565199080954/mda-mk99haw9m5kp6p5s.mp4> |
-| 1249 | DJ版一个人挺好 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mh6gqq4b59z26cjx/1080p/cae_h264/1628504623473300938/mda-mh6gqq4b59z26cjx.mp4> |
-| 1250 | DJ版三月里的小雨 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mgwegh0bzv4cy6cb/1080p/cae_h264/1627727251470197083/mda-mgwegh0bzv4cy6cb.mp4> |
-| 1251 | DJ版原谅你的谎 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-mhacxx5vhr2we882/1080p/cae_h264/1628673933350116053/mda-mhacxx5vhr2we882.mp4> |
-| 1252 | DJ版时间会知道你好不好 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mhairve7gvye1192/1080p/cae_h264/1629457148988604256/mda-mhairve7gvye1192.mp4> |
-| 1253 | DJ版望爱却步 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-mh3ei4sg2jypty79/1080p/cae_h264/1628072927342489970/mda-mh3ei4sg2jypty79.mp4> |
-| 1254 | DJ版爱不得忘不舍 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mh8j8egnj8idbvd8/1080p/cae_h264/1629367979662473678/mda-mh8j8egnj8idbvd8.mp4> |
-| 1255 | DJ版蜜雪冰城 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mhbae2pwwxhyxjcz/1080p/cae_h264/1628767594518574030/mda-mhbae2pwwxhyxjcz.mp4> |
-| 1256 | DJ版黑街 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mk612p9ceppwbgxj/sc/cae_h264/1636246729628620650/mda-mk612p9ceppwbgxj.mp4> |
-| 1257 | DJ等爱 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mfhh1e0hwq212rrt/sc/h264/1623988905898256147/mda-mfhh1e0hwq212rrt.mp4> |
-| 1258 | DJ等爱的玫瑰 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-jfsusw53dxs6kyvc/sc/mda-jfsusw53dxs6kyvc.mp4> |
-| 1259 | DJ给你留念 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-kim3r6dpd04ypqn4/cae_h264_nowatermark/mda-kim3r6dpd04ypqn4.mp4> |
-| 1260 | DJ老歌607080爱听 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-nd59vsq0r1e2j3g2/sc/cae_h264_delogo/1649230737582909591/mda-nd59vsq0r1e2j3g2.mp4> |
-| 1261 | DJ舍不得又能怎样呢 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-ncv1qd3acxskd46p/sc/cae_h264_delogo/1648720820032252958/mda-ncv1qd3acxskd46p.mp4> |
-| 1262 | DJ舞曲 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-nch73gktvfmgdrbd/sc/cae_h264_delogo/1647644537085447432/mda-nch73gktvfmgdrbd.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1648813542-0-0-4a2d27d50015d19f3ed5cf5fbc261f79&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=ced9e69a4f6154e91be590c1d5a488ab&logid=0942439256&vid=4192073541598205553&pt=0&appver=7.2.1.10&model=T7-5G10&osver=9&cr=2&abtest=peav_g52&sle=1&sl=1420&split=1235330&dt=1&nt=0&pe=0&prerender=0&kpdl=1&h265_m=-1&klogid=c770aa16cadb579d&kapid=1&psp=1&psk=68&pif=0_0_0_0&qtfc=65535&qtut=0&stg=none> |
-| 1263 | DJ舞曲拼命的喝酒拼命的抽烟 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-nd1n5vscnn77rui2/sc/cae_h264_delogo/1648915878369422268/mda-nd1n5vscnn77rui2.mp4> |
-| 1264 | DJ舞曲让我做你的眼睛 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mhaargrart2qrkdz/1080p/cae_h264/1629630942996744682/mda-mhaargrart2qrkdz.mp4> |
-| 1265 | DJ舞曲闯天涯 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mjf3hahmam95yfkd/sc/cae_h264_nowatermark/1634352379471224566/mda-mjf3hahmam95yfkd.mp4> |
-| 1266 | DJ连锁反应 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-na26q8vkv1hegaw4/sc/cae_h264/1641186067929723723/mda-na26q8vkv1hegaw4.mp4> |
-| 1267 | DJ酒醉风雨情伤心苦酒朋友的酒红尘没有错 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-nd1a4zuxf78py830/sc/cae_h264_delogo/1649003829932795060/mda-nd1a4zuxf78py830.mp4> |
-| 1268 | DJ醉过多少回 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-megp46e98a4f2b9g/sc/h264/1621239560364992817/mda-megp46e98a4f2b9g.mp4> |
-| 1269 | dj舞曲女人版 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mkp88kxv6r8y73k9/sc/cae_h264/1637733263867775329/mda-mkp88kxv6r8y73k9.mp4> |
-| 1270 | dj舞曲英雄泪 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638069225501294830/mda-mkt45tnypacz3smk.mp4> |
-| 1271 | 一首伤感歌曲 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-nbr5d212a9mkb4vp/cae_h264_delogo/1645848373794241498/mda-nbr5d212a9mkb4vp.mp4> |
-| 1272 | 一首爱一回错一回DJ版 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-mbim69siwwsgwp7d/v1-cae/1080p/mda-mbim69siwwsgwp7d.mp4> |
-| 1273 | 人间惊鸿客 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mh2bbyjcqjxjhzkd/1080p/cae_h264/1627978577559447916/mda-mh2bbyjcqjxjhzkd.mp4> |
-| 1274 | 唱着情歌流着泪 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mhwaejanf0ie6b8j/1080p/cae_h264/1630409563129833732/mda-mhwaejanf0ie6b8j.mp4> |
-| 1275 | 拈花一笑对面的小姐姐想你了小哥哥一朵情花开 | vdse.bdstatic.com | <https://vdse.bdstatic.com//7cfaf27a4db89583e069a40fbc2ed84b.mp4> |
-| 1276 | 无味DJ版 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mgqiagirsmmpuarm/1080p/cae_h264/1627218846577884242/mda-mgqiagirsmmpuarm.mp4> |
-| 1277 | 治愈放松音乐 | live.iill.top | <https://live.iill.top/huya/21241811> |
-| 1278 | 潇洒的走DJ动感节奏 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-kgirfiwxg342z9d8/v1-cae/sc/mda-kgirfiwxg342z9d8.mp4> |
-| 1279 | 爱你到最后一刻 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mhr9c7q9xzgy1812/1080p/cae_h264/1630062648077583523/mda-mhr9c7q9xzgy1812.mp4> |
-| 1280 | 爱难求情难断 | vdse.bdstatic.com | <https://vdse.bdstatic.com//0c8ed110c5522e9bd31752ecb999b1ab.mp4> |
-| 1281 | 精选DJ洗脑神曲节奏欢快动感魔性 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-ncsh78jh0xna7ngs/sc/cae_h264_delogo/1648389408244925817/mda-ncsh78jh0xna7ngs.mp4> |
-| 1282 | 经典老歌DJ舞曲串烧708090后 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-ihps4033ktcz7mfq/sc/mda-ihps4033ktcz7mfq.mp4> |
-| 1283 | 经典老歌伤感女声篇 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-ig8mrb0k4jjc5ydt/sc/mda-ig8mrb0k4jjc5ydt.mp4> |
-| 1284 | 野狼的士高 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-ncp47pjrm7kqjfwq/720p/h264_delogo/1648091187992655346/mda-ncp47pjrm7kqjfwq.mp4> |
-| 1285 | 阅读学习音乐 | live.iill.top | <https://live.iill.top/huya/21241813> |
-| 1286 | 音乐之声 | 央广网 | <http://ngcdn003.cnr.cn/live/yyzs/index.m3u8> |
-| 1287 | 音乐石榴音乐 | live.iill.top | <https://live.iill.top/huya/17091681> |
-| 1288 | 鸳鸯DJ劲爆DJ | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-nba9z1mqi949jyyb/sc/cae_h264_delogo/1644629210546304303/mda-nba9z1mqi949jyyb.mp4> |
-| 1289 | 七彩戏剧 | IPv4 直链 | <http://223.166.234.19:7777/tsfile/live/1034_1.m3u8> |
-| 1290 | 戏曲精选 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.0.144:5140> |
-| 1291 | 梨园频道 | 河南大象融媒体 | <http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8> |
-| 1292 | 1983年春晚 | txmov2.a.kwimgs.com | <http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8> |
-| 1293 | 1984年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8> |
-| 1294 | 1985年春晚 | txmov2.a.kwimgs.com | <http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8> |
-| 1295 | 1986年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8> |
-| 1296 | 1987年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8> |
-| 1297 | 1988年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8> |
-| 1298 | 1989年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8> |
-| 1299 | 1992年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8> |
-| 1300 | 1993年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8> |
-| 1301 | 1994年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8> |
-| 1302 | 1995年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8> |
-| 1303 | 1996年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8> |
-| 1304 | 1997年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8> |
-| 1305 | 1998年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8> |
-| 1306 | 1999年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8> |
-| 1307 | 2000年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8> |
-| 1308 | 2001年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8> |
-| 1309 | 2002年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8> |
-| 1310 | 2003年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8> |
-| 1311 | 2004年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8> |
-| 1312 | 2005年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8> |
-| 1313 | 2006年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8> |
-| 1314 | 2007年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8> |
-| 1315 | 2008年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8> |
-| 1316 | 2009年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8> |
-| 1317 | 2010年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8> |
-| 1318 | 2011年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8> |
-| 1319 | 2012年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8> |
-| 1320 | 2013年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8> |
-| 1321 | 2014年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8> |
-| 1322 | 2015年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8> |
-| 1323 | 2016年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8> |
-| 1324 | 2017年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8> |
-| 1325 | 2018年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8> |
-| 1326 | 2020年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8> |
-| 1327 | 2021年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8> |
-| 1328 | 2022年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8> |
-| 1329 | 2023年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8> |
-| 1330 | 20241221091330 | gitee.com | <https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4> |
+| 1163 | 解说疯狂解说家 | live.metshop.top | <https://live.metshop.top/huya/18366196> |
+| 1164 | 解说续哥说电影 | live.metshop.top | <https://live.metshop.top/huya/24396472> |
+| 1165 | 解说老炮说电影 | live.metshop.top | <https://live.metshop.top/huya/15454716> |
+| 1166 | 解说虎妞说电影 | live.metshop.top | <https://live.metshop.top/huya/20343144> |
+| 1167 | 解说阿翔说电影 | live.metshop.top | <https://live.metshop.top/huya/16868935> |
+| 1168 | 解说顾久撩电影 | live.metshop.top | <https://live.metshop.top/huya/16422212> |
+| 1169 | 解说鹿哥电影 | live.metshop.top | <https://live.metshop.top/huya/24396360> |
+| 1170 | 解说默爷侃电影 | live.metshop.top | <https://live.metshop.top/huya/17204307> |
+| 1171 | B站CS2 | live.iill.top | <https://live.iill.top/bilibili/21622811> |
+| 1172 | B站JJ斗地主 | live.iill.top | <https://live.iill.top/bilibili/22021983> |
+| 1173 | B站QQ飞车手游 | live.iill.top | <https://live.iill.top/bilibili/21743919> |
+| 1174 | B站使命召唤手游 | live.iill.top | <https://live.iill.top/bilibili/22741849> |
+| 1175 | B站无畏契约 | live.iill.top | <https://live.iill.top/bilibili/22908869> |
+| 1176 | B站王者荣耀 | live.iill.top | <https://live.iill.top/bilibili/55> |
+| 1177 | B站第五人格 | live.iill.top | <https://live.iill.top/bilibili/5555> |
+| 1178 | B站绝地求生 | live.iill.top | <https://live.iill.top/bilibili/98> |
+| 1179 | B站英雄联盟 | live.iill.top | <https://live.iill.top/bilibili/6> |
+| 1180 | B站英雄联盟手游 | live.iill.top | <https://live.iill.top/bilibili/23138275> |
+| 1181 | 斗鱼DOTA2 | live.iill.top | <https://live.iill.top/douyu/3811559> |
+| 1182 | 斗鱼FIFA | live.iill.top | <https://live.iill.top/douyu/7692166> |
+| 1183 | 斗鱼JJ斗地主 | live.iill.top | <https://live.iill.top/douyu/488743> |
+| 1184 | 斗鱼QQ飞车手游 | live.iill.top | <https://live.iill.top/douyu/5040227> |
+| 1185 | 斗鱼云顶之弈 | live.iill.top | <https://live.iill.top/douyu/522423> |
+| 1186 | 斗鱼使命召唤手游 | live.iill.top | <https://live.iill.top/douyu/9223245> |
+| 1187 | 斗鱼原神 | live.iill.top | <https://live.iill.top/douyu/10853239> |
+| 1188 | 斗鱼和平精英 | live.iill.top | <https://live.iill.top/douyu/999> |
+| 1189 | 斗鱼我的世界 | live.iill.top | <https://live.iill.top/douyu/738878> |
+| 1190 | 斗鱼无畏契约 | live.iill.top | <https://live.iill.top/douyu/4585645> |
+| 1191 | 斗鱼梦幻西游手游 | live.iill.top | <https://live.iill.top/huya/9163712> |
+| 1192 | 斗鱼永劫无间 | live.iill.top | <https://live.iill.top/huya/9662891> |
+| 1193 | 斗鱼王者荣耀 | live.iill.top | <https://live.iill.top/douyu/1984839> |
+| 1194 | 斗鱼穿越火线 | live.iill.top | <https://live.iill.top/douyu/5388537> |
+| 1195 | 斗鱼第五人格 | live.iill.top | <https://live.iill.top/douyu/3226194> |
+| 1196 | 斗鱼绝地求生 | live.iill.top | <https://live.iill.top/douyu/100> |
+| 1197 | 斗鱼英雄联盟 | live.iill.top | <https://live.iill.top/douyu/288016> |
+| 1198 | 斗鱼街霸 | live.iill.top | <https://live.iill.top/huya/11437> |
+| 1199 | 斗鱼跑跑卡丁车 | live.iill.top | <https://live.iill.top/douyu/7722576> |
+| 1200 | 斗鱼跑跑卡丁车手游 | live.iill.top | <https://live.iill.top/douyu/6672862> |
+| 1201 | 斗鱼金铲铲之战 | live.iill.top | <https://live.iill.top/douyu/9715241> |
+| 1202 | 电竞天堂 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.1.135:5140> |
+| 1203 | 虎牙DOTA2 | live.iill.top | <https://live.iill.top/huya/660118> |
+| 1204 | 虎牙使命召唤手游 | live.iill.top | <https://live.iill.top/huya/11718629> |
+| 1205 | 虎牙和平精英 | live.iill.top | <https://live.iill.top/huya/660006> |
+| 1206 | 虎牙无畏契约 | live.iill.top | <https://live.iill.top/huya/660679> |
+| 1207 | 虎牙永劫无间 | live.iill.top | <https://live.iill.top/huya/660115> |
+| 1208 | 虎牙王者荣耀 | live.iill.top | <https://live.iill.top/huya/660002> |
+| 1209 | 虎牙穿越火线 | live.iill.top | <https://live.iill.top/huya/660101> |
+| 1210 | 虎牙穿越火线手游 | live.iill.top | <https://live.iill.top/huya/660102> |
+| 1211 | 虎牙第五人格 | live.iill.top | <https://live.iill.top/huya/idvesports> |
+| 1212 | 虎牙绝地求生 | live.iill.top | <https://live.iill.top/huya/660004> |
+| 1213 | 虎牙英雄联盟 | live.iill.top | <https://live.iill.top/huya/660001> |
+| 1214 | 虎牙逆战 | live.iill.top | <https://live.iill.top/huya/nsl2021> |
+| 1215 | 虎牙金铲铲之战 | live.iill.top | <https://live.iill.top/huya/660579> |
+| 1216 | 10首车载 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-nb6afsyti2t91p54/sc/cae_h264_delogo/1644221195521496576/mda-nb6afsyti2t91p54.mp4> |
+| 1217 | 2018精选十首动感DJ舞曲串烧大碟 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-ii00rzrptt9e56yf/sc/mda-ii00rzrptt9e56yf.mp4> |
+| 1218 | 2019火爆DJ串烧第一期 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-jgjca1pammc75yy9/sc/mda-jgjca1pammc75yy9.mp4> |
+| 1219 | 2020国外热门动感DJ版 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-kb2bqk7bw0ntjpfn/sc/mda-kb2bqk7bw0ntjpfn.mp4> |
+| 1220 | 2021年最火伤感音乐 | vdse.bdstatic.com | <https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4> |
+| 1221 | 2021年网络火爆伤感情歌6首 | vdse.bdstatic.com | <https://vdse.bdstatic.com//80e0473f97055cec1c9c76c1c7e5498a.mp4> |
+| 1222 | 2021热门伤感DJ | vdse.bdstatic.com | <https://vdse.bdstatic.com//06b4e9b185b843e694e4d20e9b0a0aac.mp4> |
+| 1223 | 2首车载DJ歌曲联唱 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-jiugyuw4xwqiwzet/sc/mda-jiugyuw4xwqiwzet.mp4> |
+| 1224 | 5首伤感DJ | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-nd5cr584424xr57c/sc/cae_h264_delogo/1649238205192327499/mda-nd5cr584424xr57c.mp4> |
+| 1225 | 5首劲爆dj | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mm69dxgtcqg28j9j/sc/cae_h264/1638860024910192032/mda-mm69dxgtcqg28j9j.mp4> |
+| 1226 | 7DJ舞曲 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-nch73gktvfmgdrbd/sc/cae_h264_delogo/1647644537085447432/mda-nch73gktvfmgdrbd.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1648813542-0-0-4a2d27d50015d19f3ed5cf5fbc261f79&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=ced9e69a4f6154e91be590c1d5a488ab&logid=0942439256&vid=4192073541598205553&pt=0&appver=7.2.1.10&model=T7-5G10&osver=9&cr=2&abtest=peav_g52&sle=1&sl=1420&split=1235330&dt=1&nt=0&pe=0&prerender=0&kpdl=1&h265_m=-1&klogid=c770aa16cadb579d&kapid=1&psp=1&psk=1028&pif=0_0_0_0&qtfc=65535&qtut=0&stg=none> |
+| 1227 | 7首伤感情歌 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-nbdj7sp20st0jd9d/sc/cae_h264_delogo/1644847557994341172/mda-nbdj7sp20st0jd9d.mp4> |
+| 1228 | DJ13首经典老歌 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-igbpw1bm4vdxitj0/logo/sc/mda-igbpw1bm4vdxitj0.mp4> |
+| 1229 | DJ4首吸烟的女人 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mg7zcjiauy83ehmz/sc/cae_h264/1625790109974824055/mda-mg7zcjiauy83ehmz.mp4> |
+| 1230 | DJ天后 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-kk5f22n13qna8edp/v1-cae/sc/mda-kk5f22n13qna8edp.mp4> |
+| 1231 | DJ小薇 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-nd6jimimnfwyjuar/sc/cae_h264_delogo/1649345922829980302/mda-nd6jimimnfwyjuar.mp4> |
+| 1232 | DJ心在跳情在烧 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/cae_h264/1630406994590156367/mda-mhwf07t27w3gi1y7.mp4> |
+| 1233 | DJ情歌 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mm67ychk60q5n0d1/sc/cae_h264/1638893384360470440/mda-mm67ychk60q5n0d1.mp4> |
+| 1234 | DJ情歌5首 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mmg7iqkrutbwd7az/sc/cae_h264/1639851941696222972/mda-mmg7iqkrutbwd7az.mp4> |
+| 1235 | DJ情歌8首 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mk7hhug7aprk2806/sc/cae_h264/1636496746808750167/mda-mk7hhug7aprk2806.mp4> |
+| 1236 | DJ情歌爱情迷了路 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-mdbrb7fns70avrmt/1080p/cae_h264/1618222287/mda-mdbrb7fns70avrmt.mp4> |
+| 1237 | DJ情火拥抱你离去夜夜夜漫长 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-nd3gy7ukv0reh4xv/sc/cae_h264_delogo/1649115109025912038/mda-nd3gy7ukv0reh4xv.mp4> |
+| 1238 | DJ我们不再是从前 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mhne550wq5m66zvj/1080p/cae_h264/1629803514331462220/mda-mhne550wq5m66zvj.mp4> |
+| 1239 | DJ无情书 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-kkikg9rzshuhcxwy/v1-cae/sc/mda-kkikg9rzshuhcxwy.mp4> |
+| 1240 | DJ最烈的酒最猛的烟 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-nd3eicnw62x3z3j0/hd/cae_h264_delogo/1649067794176996768/mda-nd3eicnw62x3z3j0.mp4> |
+| 1241 | DJ歌曲怎么爱都爱不够 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mksyipb0103ck0pm/sc/cae_h264_nowatermark/1638055298562460672/mda-mksyipb0103ck0pm.mp4> |
+| 1242 | DJ此生已过半 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mdaprhx095djift2/hd/mda-mdaprhx095djift2.mp4> |
+| 1243 | DJ没理由 | bj.bcebos.com | <https://bj.bcebos.com/v1/baidu-little-video/vod-gechgi84v43uhfhp/mda-kmbyf4x2aeqt8cds.mp4> |
+| 1244 | DJ流浪兄弟 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/1629972852606533219/mda-mhrdtax1km0idkc5.mp4> |
+| 1245 | DJ潮湿的心 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-jfsre2z1s4xk012w/sc/mda-jfsre2z1s4xk012w.mp4> |
+| 1246 | DJ爆红老歌10首车载 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-nbhgwre9iykh09ya/sc/cae_h264_delogo/1645187028367793873/mda-nbhgwre9iykh09ya.mp4> |
+| 1247 | DJ爱难求 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-mk99haw9m5kp6p5s/default/h264/1636526565199080954/mda-mk99haw9m5kp6p5s.mp4> |
+| 1248 | DJ版一个人挺好 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mh6gqq4b59z26cjx/1080p/cae_h264/1628504623473300938/mda-mh6gqq4b59z26cjx.mp4> |
+| 1249 | DJ版三月里的小雨 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mgwegh0bzv4cy6cb/1080p/cae_h264/1627727251470197083/mda-mgwegh0bzv4cy6cb.mp4> |
+| 1250 | DJ版原谅你的谎 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-mhacxx5vhr2we882/1080p/cae_h264/1628673933350116053/mda-mhacxx5vhr2we882.mp4> |
+| 1251 | DJ版时间会知道你好不好 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mhairve7gvye1192/1080p/cae_h264/1629457148988604256/mda-mhairve7gvye1192.mp4> |
+| 1252 | DJ版望爱却步 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-mh3ei4sg2jypty79/1080p/cae_h264/1628072927342489970/mda-mh3ei4sg2jypty79.mp4> |
+| 1253 | DJ版爱不得忘不舍 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mh8j8egnj8idbvd8/1080p/cae_h264/1629367979662473678/mda-mh8j8egnj8idbvd8.mp4> |
+| 1254 | DJ版蜜雪冰城 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mhbae2pwwxhyxjcz/1080p/cae_h264/1628767594518574030/mda-mhbae2pwwxhyxjcz.mp4> |
+| 1255 | DJ版黑街 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mk612p9ceppwbgxj/sc/cae_h264/1636246729628620650/mda-mk612p9ceppwbgxj.mp4> |
+| 1256 | DJ等爱 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mfhh1e0hwq212rrt/sc/h264/1623988905898256147/mda-mfhh1e0hwq212rrt.mp4> |
+| 1257 | DJ等爱的玫瑰 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-jfsusw53dxs6kyvc/sc/mda-jfsusw53dxs6kyvc.mp4> |
+| 1258 | DJ给你留念 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-kim3r6dpd04ypqn4/cae_h264_nowatermark/mda-kim3r6dpd04ypqn4.mp4> |
+| 1259 | DJ老歌607080爱听 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-nd59vsq0r1e2j3g2/sc/cae_h264_delogo/1649230737582909591/mda-nd59vsq0r1e2j3g2.mp4> |
+| 1260 | DJ舍不得又能怎样呢 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-ncv1qd3acxskd46p/sc/cae_h264_delogo/1648720820032252958/mda-ncv1qd3acxskd46p.mp4> |
+| 1261 | DJ舞曲 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-nch73gktvfmgdrbd/sc/cae_h264_delogo/1647644537085447432/mda-nch73gktvfmgdrbd.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1648813542-0-0-4a2d27d50015d19f3ed5cf5fbc261f79&bcevod_channel=searchbox_feed&pd=1&vt=1&cd=0&watermark=0&did=ced9e69a4f6154e91be590c1d5a488ab&logid=0942439256&vid=4192073541598205553&pt=0&appver=7.2.1.10&model=T7-5G10&osver=9&cr=2&abtest=peav_g52&sle=1&sl=1420&split=1235330&dt=1&nt=0&pe=0&prerender=0&kpdl=1&h265_m=-1&klogid=c770aa16cadb579d&kapid=1&psp=1&psk=68&pif=0_0_0_0&qtfc=65535&qtut=0&stg=none> |
+| 1262 | DJ舞曲拼命的喝酒拼命的抽烟 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-nd1n5vscnn77rui2/sc/cae_h264_delogo/1648915878369422268/mda-nd1n5vscnn77rui2.mp4> |
+| 1263 | DJ舞曲让我做你的眼睛 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mhaargrart2qrkdz/1080p/cae_h264/1629630942996744682/mda-mhaargrart2qrkdz.mp4> |
+| 1264 | DJ舞曲闯天涯 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-mjf3hahmam95yfkd/sc/cae_h264_nowatermark/1634352379471224566/mda-mjf3hahmam95yfkd.mp4> |
+| 1265 | DJ连锁反应 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-na26q8vkv1hegaw4/sc/cae_h264/1641186067929723723/mda-na26q8vkv1hegaw4.mp4> |
+| 1266 | DJ酒醉风雨情伤心苦酒朋友的酒红尘没有错 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-nd1a4zuxf78py830/sc/cae_h264_delogo/1649003829932795060/mda-nd1a4zuxf78py830.mp4> |
+| 1267 | DJ醉过多少回 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-megp46e98a4f2b9g/sc/h264/1621239560364992817/mda-megp46e98a4f2b9g.mp4> |
+| 1268 | dj舞曲女人版 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mkp88kxv6r8y73k9/sc/cae_h264/1637733263867775329/mda-mkp88kxv6r8y73k9.mp4> |
+| 1269 | dj舞曲英雄泪 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638069225501294830/mda-mkt45tnypacz3smk.mp4> |
+| 1270 | 一首伤感歌曲 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-nbr5d212a9mkb4vp/cae_h264_delogo/1645848373794241498/mda-nbr5d212a9mkb4vp.mp4> |
+| 1271 | 一首爱一回错一回DJ版 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-mbim69siwwsgwp7d/v1-cae/1080p/mda-mbim69siwwsgwp7d.mp4> |
+| 1272 | 人间惊鸿客 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mh2bbyjcqjxjhzkd/1080p/cae_h264/1627978577559447916/mda-mh2bbyjcqjxjhzkd.mp4> |
+| 1273 | 唱着情歌流着泪 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mhwaejanf0ie6b8j/1080p/cae_h264/1630409563129833732/mda-mhwaejanf0ie6b8j.mp4> |
+| 1274 | 拈花一笑对面的小姐姐想你了小哥哥一朵情花开 | vdse.bdstatic.com | <https://vdse.bdstatic.com//7cfaf27a4db89583e069a40fbc2ed84b.mp4> |
+| 1275 | 无味DJ版 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mgqiagirsmmpuarm/1080p/cae_h264/1627218846577884242/mda-mgqiagirsmmpuarm.mp4> |
+| 1276 | 治愈放松音乐 | live.iill.top | <https://live.iill.top/huya/21241811> |
+| 1277 | 潇洒的走DJ动感节奏 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-kgirfiwxg342z9d8/v1-cae/sc/mda-kgirfiwxg342z9d8.mp4> |
+| 1278 | 爱你到最后一刻 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-mhr9c7q9xzgy1812/1080p/cae_h264/1630062648077583523/mda-mhr9c7q9xzgy1812.mp4> |
+| 1279 | 爱难求情难断 | vdse.bdstatic.com | <https://vdse.bdstatic.com//0c8ed110c5522e9bd31752ecb999b1ab.mp4> |
+| 1280 | 精选DJ洗脑神曲节奏欢快动感魔性 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-ncsh78jh0xna7ngs/sc/cae_h264_delogo/1648389408244925817/mda-ncsh78jh0xna7ngs.mp4> |
+| 1281 | 经典老歌DJ舞曲串烧708090后 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-ihps4033ktcz7mfq/sc/mda-ihps4033ktcz7mfq.mp4> |
+| 1282 | 经典老歌伤感女声篇 | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-ig8mrb0k4jjc5ydt/sc/mda-ig8mrb0k4jjc5ydt.mp4> |
+| 1283 | 野狼的士高 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-ncp47pjrm7kqjfwq/720p/h264_delogo/1648091187992655346/mda-ncp47pjrm7kqjfwq.mp4> |
+| 1284 | 阅读学习音乐 | live.iill.top | <https://live.iill.top/huya/21241813> |
+| 1285 | 音乐之声 | 央广网 | <http://ngcdn003.cnr.cn/live/yyzs/index.m3u8> |
+| 1286 | 音乐石榴音乐 | live.iill.top | <https://live.iill.top/huya/17091681> |
+| 1287 | 鸳鸯DJ劲爆DJ | vd3.bdstatic.com | <https://vd3.bdstatic.com/mda-nba9z1mqi949jyyb/sc/cae_h264_delogo/1644629210546304303/mda-nba9z1mqi949jyyb.mp4> |
+| 1288 | 七彩戏剧 | IPv4 直链 | <http://223.166.234.19:7777/tsfile/live/1034_1.m3u8> |
+| 1289 | 戏曲精选 | wouu.net:9977 | <http://wouu.net:9977/udp/239.93.0.144:5140> |
+| 1290 | 梨园频道 | 河南大象融媒体 | <http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8> |
+| 1291 | 1983年春晚 | txmov2.a.kwimgs.com | <http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8> |
+| 1292 | 1984年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8> |
+| 1293 | 1986年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8> |
+| 1294 | 1987年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8> |
+| 1295 | 1988年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8> |
+| 1296 | 1989年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8> |
+| 1297 | 1992年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8> |
+| 1298 | 1993年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8> |
+| 1299 | 1994年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8> |
+| 1300 | 1995年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8> |
+| 1301 | 1996年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8> |
+| 1302 | 1997年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8> |
+| 1303 | 1998年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8> |
+| 1304 | 1999年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8> |
+| 1305 | 2000年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8> |
+| 1306 | 2001年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8> |
+| 1307 | 2002年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8> |
+| 1308 | 2003年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8> |
+| 1309 | 2004年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8> |
+| 1310 | 2005年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8> |
+| 1311 | 2006年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8> |
+| 1312 | 2007年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8> |
+| 1313 | 2008年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8> |
+| 1314 | 2009年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8> |
+| 1315 | 2010年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8> |
+| 1316 | 2011年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8> |
+| 1317 | 2012年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8> |
+| 1318 | 2013年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8> |
+| 1319 | 2014年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8> |
+| 1320 | 2015年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8> |
+| 1321 | 2016年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8> |
+| 1322 | 2017年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8> |
+| 1323 | 2018年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8> |
+| 1324 | 2019年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8> |
+| 1325 | 2020年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8> |
+| 1326 | 2021年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8> |
+| 1327 | 2022年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8> |
+| 1328 | 2023年春晚 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8> |
+| 1329 | 20241221091330 | gitee.com | <https://gitee.com/kabigo/tv/raw/master/assets/about1080p.mp4> |
+| 1330 | 20241222000112 | cdn.jsdelivr.net | <https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/time/time.mp4> |
 | 1331 | 2024年春晚 | p2.bdstatic.com | <https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8> |
 | 1332 | 4K60PHLGHEVCEAC3测试 | cdn.jsdelivr.net | <https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/hlg4kvideo/index.m3u8> |
 | 1333 | 4K60PSDRH264AAC测试 | cdn.jsdelivr.net | <https://cdn.jsdelivr.net/gh/feiyangdigital/testvideo/sdr4kvideo/index.m3u8> |
 | 1334 | AMC音乐 | AMChls.wns.live | <https://AMChls.wns.live/hls/stream.m3u8> |
 | 1335 | BBCNews | d2vnbkvjbims7j.cloudfront.net | <https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8> |
 | 1336 | HITFM劲曲调频 | fanmingming.com | <https://fanmingming.com/fm?id=662> |
-| 1337 | LoveRadio | fanmingming.com | <https://fanmingming.com/fm?id=1313> |
-| 1338 | NBATV | 170.yfvodcdn.com:19980 | <http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8> |
-| 1339 | TRA体育 | litv.zapi.us.kg | <http://litv.zapi.us.kg/?id=4gtv-4gtv077> |
-| 1340 | 三国演义 | lunbo.freetv.top | <https://lunbo.freetv.top/yy/1354930932> |
-| 1341 | 上海五星体育 | IPv4 直链 | <http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/itv/5000000010000017540.m3u8%3Fcdn%3Dbestzb> |
-| 1342 | 上海交通广播 | fanmingming.com | <https://fanmingming.com/fm?id=1312> |
-| 1343 | 上海南浦大桥 | gctxyc.liveplay.myqcloud.com | <https://gctxyc.liveplay.myqcloud.com/gc/tjhh01_1/index.m3u8> |
-| 1344 | 上海戏曲广播 | fanmingming.com | <https://fanmingming.com/fm?id=1314> |
-| 1345 | 上海新闻广播 | fanmingming.com | <https://fanmingming.com/fm?id=849> |
-| 1346 | 上海新闻综合 | IPv4 直链 | <http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/itv/5000000011000031110.m3u8%3Fcdn%3Dbestzb> |
-| 1347 | 上海第一财经广播 | fanmingming.com | <https://fanmingming.com/fm?id=370> |
-| 1348 | 与凤行第01集 | v10.dious.cc | <https://v10.dious.cc/20240329/lr8dbbBx/index.m3u8> |
-| 1349 | 与凤行第03集 | v10.dious.cc | <https://v10.dious.cc/20240318/FOqsIvVh/index.m3u8> |
-| 1350 | 与凤行第04集 | v10.dious.cc | <https://v10.dious.cc/20240318/kF872NxK/index.m3u8> |
-| 1351 | 与凤行第05集 | v10.dious.cc | <https://v10.dious.cc/20240319/Tpb6eoqw/index.m3u8> |
-| 1352 | 与凤行第06集 | v10.dious.cc | <https://v10.dious.cc/20240319/Qq1OGXnG/index.m3u8> |
-| 1353 | 与凤行第07集 | v10.dious.cc | <https://v10.dious.cc/20240320/N74RFp5W/index.m3u8> |
-| 1354 | 与凤行第08集 | v10.dious.cc | <https://v10.dious.cc/20240320/uuCktgwQ/index.m3u8> |
-| 1355 | 与凤行第09集 | v10.dious.cc | <https://v10.dious.cc/20240321/ZUBweBm9/index.m3u8> |
-| 1356 | 与凤行第10集 | v10.dious.cc | <https://v10.dious.cc/20240321/tMMV92Le/index.m3u8> |
-| 1357 | 与凤行第11集 | v10.dious.cc | <https://v10.dious.cc/20240322/C6bCbTld/index.m3u8> |
-| 1358 | 与凤行第12集 | v10.dious.cc | <https://v10.dious.cc/20240323/tvf9Y2r3/index.m3u8> |
-| 1359 | 与凤行第13集 | v10.dious.cc | <https://v10.dious.cc/20240324/hCTFbVTu/index.m3u8> |
-| 1360 | 与凤行第14集 | v10.dious.cc | <https://v10.dious.cc/20240325/3cUvcSlX/index.m3u8> |
-| 1361 | 与凤行第15集 | v10.dious.cc | <https://v10.dious.cc/20240325/SU2JwXbC/index.m3u8> |
-| 1362 | 与凤行第16集 | v10.dious.cc | <https://v10.dious.cc/20240326/L2ybHJ8k/index.m3u8> |
-| 1363 | 与凤行第17集 | v10.dious.cc | <https://v10.dious.cc/20240326/RJe1PQsa/index.m3u8> |
-| 1364 | 与凤行第18集 | v10.dious.cc | <https://v10.dious.cc/20240327/yRO1jv5E/index.m3u8> |
-| 1365 | 与凤行第19集 | v10.dious.cc | <https://v10.dious.cc/20240327/g82XuSLg/index.m3u8> |
-| 1366 | 与凤行第20集 | v10.dious.cc | <https://v10.dious.cc/20240328/78flqJh0/index.m3u8> |
-| 1367 | 与凤行第21集 | v10.dious.cc | <https://v10.dious.cc/20240328/LZSv3tMu/index.m3u8> |
-| 1368 | 与凤行第22集 | v10.dious.cc | <https://v10.dious.cc/20240329/cArRSoV3/index.m3u8> |
-| 1369 | 与凤行第23集 | v10.dious.cc | <https://v10.dious.cc/20240330/QDmY79tj/index.m3u8> |
-| 1370 | 与凤行第25集 | v10.dious.cc | <https://v10.dious.cc/20240401/60jgaoNU/index.m3u8> |
-| 1371 | 与凤行第26集 | v10.dious.cc | <https://v10.dious.cc/20240401/D9XtluGM/index.m3u8> |
-| 1372 | 与凤行第27集 | v10.dious.cc | <https://v10.dious.cc/20240402/nUz4g9RR/index.m3u8> |
-| 1373 | 与凤行第28集 | v10.dious.cc | <https://v10.dious.cc/20240402/uQvYoY57/index.m3u8> |
-| 1374 | 与凤行第29集 | v10.dious.cc | <https://v10.dious.cc/20240403/IWhLxsdm/index.m3u8> |
-| 1375 | 与凤行第30集 | v10.dious.cc | <https://v10.dious.cc/20240403/2T2vhxQw/index.m3u8> |
-| 1376 | 中国之声 | fanmingming.com | <https://fanmingming.com/fm?id=639> |
-| 1377 | 中国交通广播 | fanmingming.com | <https://fanmingming.com/fm?id=653> |
-| 1378 | 中央电视塔东 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8> |
-| 1379 | 中央电视塔南 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8> |
-| 1380 | 丽江古城万古楼遥望玉龙雪山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8> |
-| 1381 | 丽江古城大水车 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8> |
-| 1382 | 丽江古城大研花巷观景 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8> |
-| 1383 | 乌镇全景 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8> |
-| 1384 | 乌镇蓝印花布 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8> |
-| 1385 | 乌镇西市河 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8> |
-| 1386 | 乌镇龙形田 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8> |
-| 1387 | 乐山大佛全景 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8> |
-| 1388 | 云南丽江冰川 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8> |
-| 1389 | 云南丽江印象实景 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8> |
-| 1390 | 云南丽江玉龙雪山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8> |
-| 1391 | 云南丽江玉龙雪山草甸 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8> |
-| 1392 | 云南丽江蓝月谷 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8> |
-| 1393 | 云南大理崇圣寺三塔中景 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8> |
-| 1394 | 云南大理崇圣寺三塔远景 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8> |
-| 1395 | 云南白沙远眺玉龙雪山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8> |
-| 1396 | 五彩池 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8> |
-| 1397 | 仙剑奇侠传 | lunbo.freetv.top | <https://lunbo.freetv.top/yy/1382749903> |
-| 1398 | 八里沟风景区天界山玻璃栈道 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8> |
-| 1399 | 八里沟风景区桃花湾瀑布 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8> |
-| 1400 | 六盘山红军长征景区 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8> |
-| 1401 | 关于本源 | gitlab.com | <https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4> |
-| 1402 | 北京交通广播 | fanmingming.com | <https://fanmingming.com/fm?id=354> |
-| 1403 | 北京文艺广播 | fanmingming.com | <https://fanmingming.com/fm?id=355> |
-| 1404 | 北京音乐广播 | fanmingming.com | <https://fanmingming.com/fm?id=356> |
-| 1405 | 南京玄武湖公园 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8> |
-| 1406 | 南海之声 | fanmingming.com | <https://fanmingming.com/fm?id=664> |
-| 1407 | 博斯无限1 | litv.zapi.us.kg | <https://litv.zapi.us.kg/?id=litv-longturn10> |
-| 1408 | 博斯运动1 | litv.zapi.us.kg | <https://litv.zapi.us.kg/?id=litv-longturn07> |
-| 1409 | 博斯高球1 | litv.zapi.us.kg | <https://litv.zapi.us.kg/?id=litv-longturn05> |
-| 1410 | 厦门鼓浪屿 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8> |
-| 1411 | 咪咕直播1 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1412 | 咪咕直播10 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1413 | 咪咕直播11 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1414 | 咪咕直播12 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1415 | 咪咕直播14 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000002032/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1416 | 咪咕直播14K | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1417 | 咪咕直播15 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1418 | 咪咕直播16 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1419 | 咪咕直播17 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1420 | 咪咕直播18 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000004464/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1421 | 咪咕直播19 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1422 | 咪咕直播2 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1423 | 咪咕直播20 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1424 | 咪咕直播21 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1425 | 咪咕直播22 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000006944/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1426 | 咪咕直播23 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000007692/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1427 | 咪咕直播24 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1428 | 咪咕直播25 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1429 | 咪咕直播26 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000011112/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1430 | 咪咕直播27 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1431 | 咪咕直播28 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1432 | 咪咕直播29 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000011763/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1433 | 咪咕直播3 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1434 | 咪咕直播30 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000011873/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1435 | 咪咕直播31 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000012398/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1436 | 咪咕直播32 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000012450/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1437 | 咪咕直播33 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1438 | 咪咕直播34 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1439 | 咪咕直播35 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1440 | 咪咕直播36 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1441 | 咪咕直播37 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000017389/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1442 | 咪咕直播38 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000017678/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1443 | 咪咕直播39 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000017997/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1444 | 咪咕直播4 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1445 | 咪咕直播40 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000019380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1446 | 咪咕直播41 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1447 | 咪咕直播42 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000020168/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1448 | 咪咕直播43 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1449 | 咪咕直播44 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1450 | 咪咕直播45 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000024205/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1451 | 咪咕直播46 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000024691/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1452 | 咪咕直播47 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000025380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1453 | 咪咕直播48 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000025943/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1454 | 咪咕直播49 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000027318/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1455 | 咪咕直播5 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1456 | 咪咕直播50 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000027638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1457 | 咪咕直播51 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000027691/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1458 | 咪咕直播52 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000031669/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1459 | 咪咕直播53 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1460 | 咪咕直播6 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1461 | 咪咕直播7 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1462 | 咪咕直播8 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1463 | 咪咕直播9 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000026778/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
-| 1464 | 哈萨克语广播 | fanmingming.com | <https://fanmingming.com/fm?id=655> |
-| 1465 | 四川四姑娘山隆珠措 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8> |
-| 1466 | 四川峨眉山云海日出 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8> |
-| 1467 | 四川峨眉山普贤菩萨铜像 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8> |
-| 1468 | 四川峨眉山远眺万佛顶 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8> |
-| 1469 | 四川峨眉山远眺贡嘎雪山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8> |
-| 1470 | 天涯石 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8> |
-| 1471 | 天道 | lunbo.freetv.top | <https://lunbo.freetv.top/yy/1382735574> |
-| 1472 | 安徽池州九华山风景区九华山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8> |
-| 1473 | 安徽黟县芦村远眺 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8> |
-| 1474 | 安徽黟县西递牌坊 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8> |
-| 1475 | 宰相刘罗锅 | lunbo.freetv.top | <https://lunbo.freetv.top/yy/1382745191> |
-| 1476 | 射雕英雄传 | lunbo.freetv.top | <https://lunbo.freetv.top/yy/1354210357> |
-| 1477 | 年代音乐889 | fanmingming.com | <https://fanmingming.com/fm?id=2397> |
-| 1478 | 广西桂林漓江景区 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8> |
-| 1479 | 广西玉林大容山莲花山顶 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8> |
-| 1480 | 庆余年 | live.metshop.top | <https://live.metshop.top/douyu/5908256> |
-| 1481 | 张掖七彩丹霞 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8> |
-| 1482 | 恒山悬空寺全景 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8> |
-| 1483 | 挨饿德1 | live.iill.top | <https://live.iill.top/huya/20985858> |
-| 1484 | 挨饿德2 | live.iill.top | <https://live.iill.top/huya/17693860> |
-| 1485 | 文艺之声 | fanmingming.com | <https://fanmingming.com/fm?id=648> |
-| 1486 | 新疆天山 | gctxyc.liveplay.myqcloud.com | <http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8> |
-| 1487 | 春晚91 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8> |
-| 1488 | 普陀山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8> |
-| 1489 | 智林体育台 | IPv4 直链 | <http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A5050/litv/4gtv-4gtv101> |
-| 1490 | 月牙泉 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8> |
-| 1491 | 望乡台 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8> |
-| 1492 | 每日一首 | cloud.video.taobao.com | <https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4> |
-| 1493 | 江苏南京牛首山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8> |
-| 1494 | 江苏徐州云龙湖风景区云龙山观景台西 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8> |
-| 1495 | 沸点100MIX | fanmingming.com | <https://fanmingming.com/fm?id=1318> |
-| 1496 | 泰山主峰 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8> |
-| 1497 | 泰山十八盘 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8> |
-| 1498 | 泰山南天门 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8> |
-| 1499 | 泰山大观峰 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8> |
-| 1500 | 泰山太平岭 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8> |
-| 1501 | 泰山望人松 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8> |
-| 1502 | 泰山玉皇顶 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8> |
-| 1503 | 泰山白云亭悬崖 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8> |
-| 1504 | 泰山碧霞祠 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8> |
-| 1505 | 浙江舟山东极岛 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8> |
-| 1506 | 浦江之声广播 | fanmingming.com | <https://fanmingming.com/fm?id=1317> |
-| 1507 | 湖南张家界天门山天空步道 | mlivewbndtxy.liveplay.myqcloud.com | <https://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive_djy03_2/index.m3u8> |
-| 1508 | 湖南张家界天门山西线玻璃栈道 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8> |
-| 1509 | 湖南张家界宝峰湖 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8> |
-| 1510 | 湖南张家界将军列队 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8> |
-| 1511 | 湖南张家界御笔峰 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8> |
-| 1512 | 湖南张家界水绕四门 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8> |
-| 1513 | 爱情公寓 | live.metshop.top | <https://live.metshop.top/douyu/2838296> |
-| 1514 | 狮子山鸟瞰丽江古城 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8> |
-| 1515 | 番外篇 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22732_018e6020/index.m3u8> |
-| 1516 | 直播中国精编直播 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8> |
-| 1517 | 福建武夷山玉女峰 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8> |
-| 1518 | 福建漳州醉美沙滩翡翠湾 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8> |
-| 1519 | 笑傲江湖 | vip.ffzy-play7.com | <https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8> |
-| 1520 | 第一集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22686_866e04a7/index.m3u8> |
-| 1521 | 第七集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22692_a76bbc54/index.m3u8> |
-| 1522 | 第三十一集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22715_de46c41c/index.m3u8> |
-| 1523 | 第三十七集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22721_198ac9a4/index.m3u8> |
-| 1524 | 第三十三集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22720_512de013/index.m3u8> |
-| 1525 | 第三十九集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22725_856376c9/index.m3u8> |
-| 1526 | 第三十二集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22717_f68706d1/index.m3u8> |
-| 1527 | 第三十五集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22719_14bf9a3b/index.m3u8> |
-| 1528 | 第三十八集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22723_f624149b/index.m3u8> |
-| 1529 | 第三十六集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22722_9f54cbd2/index.m3u8> |
-| 1530 | 第三十四集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22718_0939ec0c/index.m3u8> |
-| 1531 | 第三十集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22716_1ac04a90/index.m3u8> |
-| 1532 | 第三集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22688_e5e8f07f/index.m3u8> |
-| 1533 | 第九集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22694_32ffaf46/index.m3u8> |
-| 1534 | 第二十一集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22704_5d46d244/index.m3u8> |
-| 1535 | 第二十七集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22712_af581805/index.m3u8> |
-| 1536 | 第二十三集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22708_4f1a66a2/index.m3u8> |
-| 1537 | 第二十九集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22714_de3ff74d/index.m3u8> |
-| 1538 | 第二十二集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22709_14d02f33/index.m3u8> |
-| 1539 | 第二十五集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22711_85b4b7d4/index.m3u8> |
-| 1540 | 第二十八集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22713_d6d224b6/index.m3u8> |
-| 1541 | 第二十六集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22710_88603a0e/index.m3u8> |
-| 1542 | 第二十四集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22707_aae076de/index.m3u8> |
-| 1543 | 第二十集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22706_d30975c0/index.m3u8> |
-| 1544 | 第二集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22687_ef6d93cf/index.m3u8> |
-| 1545 | 第五集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22690_b50b3ef5/index.m3u8> |
-| 1546 | 第八集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22695_16e14a51/index.m3u8> |
-| 1547 | 第六集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22691_3a9e8ff7/index.m3u8> |
-| 1548 | 第十一集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22697_426b873e/index.m3u8> |
-| 1549 | 第十七集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22703_90a4e183/index.m3u8> |
-| 1550 | 第十三集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22698_02ea9756/index.m3u8> |
-| 1551 | 第十九集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22705_bb60ab6e/index.m3u8> |
-| 1552 | 第十二集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22696_1547fa94/index.m3u8> |
-| 1553 | 第十五集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22700_354ed120/index.m3u8> |
-| 1554 | 第十八集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22701_9ac5dc6c/index.m3u8> |
-| 1555 | 第十六集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22702_b9df4a89/index.m3u8> |
-| 1556 | 第十四集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22699_29bc4391/index.m3u8> |
-| 1557 | 第十集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22693_17eb9651/index.m3u8> |
-| 1558 | 第四十一集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22726_bcaee9e0/index.m3u8> |
-| 1559 | 第四十三集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22727_3bb22752/index.m3u8> |
-| 1560 | 第四十二集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22728_7fff7f3a/index.m3u8> |
-| 1561 | 第四十五集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22729_2d951857/index.m3u8> |
-| 1562 | 第四十六集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22730_6d039e6d/index.m3u8> |
-| 1563 | 第四十四集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22731_53e87991/index.m3u8> |
-| 1564 | 第四十集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22724_2236a2ba/index.m3u8> |
-| 1565 | 第四集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22689_4f7df3ba/index.m3u8> |
-| 1566 | 红楼梦 | lunbo.freetv.top | <https://lunbo.freetv.top/yy/1382745084> |
-| 1567 | 纪实人文 | IPv4 直链 | <http://209.141.58.162:4994/proxy?url=http%3A//209.141.58.162%3A62315/itv/5000000004000010282.m3u8%3Fcdn%3Dbestzb> |
-| 1568 | 经济之声 | fanmingming.com | <https://fanmingming.com/fm?id=640> |
-| 1569 | 维吾尔语广播 | fanmingming.com | <https://fanmingming.com/fm?id=651> |
-| 1570 | 美国之音 | litv.zapi.us.kg | <https://litv.zapi.us.kg/?id=litv-ftv03> |
-| 1571 | 舌尖上的中国第1季 | lunbo.freetv.top | <https://lunbo.freetv.top/yy/1354930952> |
-| 1572 | 英语资讯广播 | fanmingming.com | <https://fanmingming.com/fm?id=734> |
-| 1573 | 荒野求生 | live.iill.top | <https://live.iill.top/huya/593667> |
-| 1574 | 藏语广播 | fanmingming.com | <https://fanmingming.com/fm?id=650> |
-| 1575 | 贵州省兴义市万峰林 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8> |
-| 1576 | 轻松调频 | fanmingming.com | <https://fanmingming.com/fm?id=689> |
-| 1577 | 都江堰鱼嘴 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8> |
-| 1578 | 野行者 | live.iill.top | <https://live.iill.top/huya/20072663> |
-| 1579 | 长三角之声 | fanmingming.com | <https://fanmingming.com/fm?id=843> |
-| 1580 | 陕西洋县国宝朱鹮02 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8> |
-| 1581 | 陕西洋县国宝朱鹮03 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8> |
-| 1582 | 雪乡大石碑 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8> |
-| 1583 | 雪乡梦幻家园 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8> |
-| 1584 | 青岛崂山八水河 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8> |
-| 1585 | 青岛崂山双福 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8> |
-| 1586 | 鸣沙山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8> |
-| 1587 | 黄山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8> |
-| 1588 | 黄山卧云峰 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8> |
-| 1589 | 黄山始信新道 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8> |
-| 1590 | 黄山排云亭 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8> |
-| 1591 | 黄山飞来石 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8> |
-| 1592 | 黄果树六角亭瀑布 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8> |
-| 1593 | 黄花城水长城01 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8> |
-| 1594 | 黄花城水长城02 | gctxyc.liveplay.myqcloud.com | <http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8> |
-| 1595 | 黄花城水长城03 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8> |
-| 1596 | 黄龙 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8> |
-| 1597 | 2024-12-21 18:23:02 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qk63w4c03xbwmvaj/720p/h264/1730947489568846926/mda-qk63w4c03xbwmvaj.mp4?v_from_s=bdapp-resbox-hnb> |
+| 1337 | KFM981 | fanmingming.com | <https://fanmingming.com/fm?id=1310> |
+| 1338 | LoveRadio | fanmingming.com | <https://fanmingming.com/fm?id=1313> |
+| 1339 | NBATV | 170.yfvodcdn.com:19980 | <http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8> |
+| 1340 | 三国演义 | live.metshop.top | <https://live.metshop.top/huya/11602081> |
+| 1341 | 上海南浦大桥 | gctxyc.liveplay.myqcloud.com | <https://gctxyc.liveplay.myqcloud.com/gc/tjhh01_1/index.m3u8> |
+| 1342 | 上海戏曲广播 | fanmingming.com | <https://fanmingming.com/fm?id=1314> |
+| 1343 | 上海新闻广播 | fanmingming.com | <https://fanmingming.com/fm?id=849> |
+| 1344 | 与凤行第01集 | v10.dious.cc | <https://v10.dious.cc/20240329/lr8dbbBx/index.m3u8> |
+| 1345 | 与凤行第02集 | v10.dious.cc | <https://v10.dious.cc/20240318/PfbmM3fQ/index.m3u8> |
+| 1346 | 与凤行第03集 | v10.dious.cc | <https://v10.dious.cc/20240318/FOqsIvVh/index.m3u8> |
+| 1347 | 与凤行第04集 | v10.dious.cc | <https://v10.dious.cc/20240318/kF872NxK/index.m3u8> |
+| 1348 | 与凤行第05集 | v10.dious.cc | <https://v10.dious.cc/20240319/Tpb6eoqw/index.m3u8> |
+| 1349 | 与凤行第06集 | v10.dious.cc | <https://v10.dious.cc/20240319/Qq1OGXnG/index.m3u8> |
+| 1350 | 与凤行第07集 | v10.dious.cc | <https://v10.dious.cc/20240320/N74RFp5W/index.m3u8> |
+| 1351 | 与凤行第08集 | v10.dious.cc | <https://v10.dious.cc/20240320/uuCktgwQ/index.m3u8> |
+| 1352 | 与凤行第09集 | v10.dious.cc | <https://v10.dious.cc/20240321/ZUBweBm9/index.m3u8> |
+| 1353 | 与凤行第10集 | v10.dious.cc | <https://v10.dious.cc/20240321/tMMV92Le/index.m3u8> |
+| 1354 | 与凤行第11集 | v10.dious.cc | <https://v10.dious.cc/20240322/C6bCbTld/index.m3u8> |
+| 1355 | 与凤行第12集 | v10.dious.cc | <https://v10.dious.cc/20240323/tvf9Y2r3/index.m3u8> |
+| 1356 | 与凤行第13集 | v10.dious.cc | <https://v10.dious.cc/20240324/hCTFbVTu/index.m3u8> |
+| 1357 | 与凤行第14集 | v10.dious.cc | <https://v10.dious.cc/20240325/3cUvcSlX/index.m3u8> |
+| 1358 | 与凤行第15集 | v10.dious.cc | <https://v10.dious.cc/20240325/SU2JwXbC/index.m3u8> |
+| 1359 | 与凤行第16集 | v10.dious.cc | <https://v10.dious.cc/20240326/L2ybHJ8k/index.m3u8> |
+| 1360 | 与凤行第17集 | v10.dious.cc | <https://v10.dious.cc/20240326/RJe1PQsa/index.m3u8> |
+| 1361 | 与凤行第18集 | v10.dious.cc | <https://v10.dious.cc/20240327/yRO1jv5E/index.m3u8> |
+| 1362 | 与凤行第19集 | v10.dious.cc | <https://v10.dious.cc/20240327/g82XuSLg/index.m3u8> |
+| 1363 | 与凤行第20集 | v10.dious.cc | <https://v10.dious.cc/20240328/78flqJh0/index.m3u8> |
+| 1364 | 与凤行第21集 | v10.dious.cc | <https://v10.dious.cc/20240328/LZSv3tMu/index.m3u8> |
+| 1365 | 与凤行第22集 | v10.dious.cc | <https://v10.dious.cc/20240329/cArRSoV3/index.m3u8> |
+| 1366 | 与凤行第23集 | v10.dious.cc | <https://v10.dious.cc/20240330/QDmY79tj/index.m3u8> |
+| 1367 | 与凤行第24集 | v10.dious.cc | <https://v10.dious.cc/20240331/u95QOPku/index.m3u8> |
+| 1368 | 与凤行第25集 | v10.dious.cc | <https://v10.dious.cc/20240401/60jgaoNU/index.m3u8> |
+| 1369 | 与凤行第26集 | v10.dious.cc | <https://v10.dious.cc/20240401/D9XtluGM/index.m3u8> |
+| 1370 | 与凤行第27集 | v10.dious.cc | <https://v10.dious.cc/20240402/nUz4g9RR/index.m3u8> |
+| 1371 | 与凤行第28集 | v10.dious.cc | <https://v10.dious.cc/20240402/uQvYoY57/index.m3u8> |
+| 1372 | 与凤行第29集 | v10.dious.cc | <https://v10.dious.cc/20240403/IWhLxsdm/index.m3u8> |
+| 1373 | 与凤行第30集 | v10.dious.cc | <https://v10.dious.cc/20240403/2T2vhxQw/index.m3u8> |
+| 1374 | 东上海之声 | fanmingming.com | <https://fanmingming.com/fm?id=848> |
+| 1375 | 中国乡村之声 | fanmingming.com | <https://fanmingming.com/fm?id=654> |
+| 1376 | 中国交通广播 | fanmingming.com | <https://fanmingming.com/fm?id=653> |
+| 1377 | 中央电视塔东 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8> |
+| 1378 | 中央电视塔南 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8> |
+| 1379 | 丽江古城万古楼遥望玉龙雪山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8> |
+| 1380 | 丽江古城大水车 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8> |
+| 1381 | 丽江古城大研花巷观景 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8> |
+| 1382 | 乌镇全景 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8> |
+| 1383 | 乌镇蓝印花布 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8> |
+| 1384 | 乌镇西市河 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8> |
+| 1385 | 乌镇龙形田 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8> |
+| 1386 | 乐山大佛全景 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8> |
+| 1387 | 云南丽江冰川 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8> |
+| 1388 | 云南丽江印象实景 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8> |
+| 1389 | 云南丽江玉龙雪山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8> |
+| 1390 | 云南丽江玉龙雪山草甸 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8> |
+| 1391 | 云南丽江蓝月谷 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8> |
+| 1392 | 云南大理崇圣寺三塔中景 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8> |
+| 1393 | 云南大理崇圣寺三塔远景 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8> |
+| 1394 | 云南白沙远眺玉龙雪山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8> |
+| 1395 | 五彩池 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8> |
+| 1396 | 八里沟风景区天界山玻璃栈道 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8> |
+| 1397 | 八里沟风景区桃花湾瀑布 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8> |
+| 1398 | 六盘山红军长征景区 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8> |
+| 1399 | 关于本源 | gitlab.com | <https://gitlab.com/p2v5/wangtv/-/raw/main/about1080p.mp4> |
+| 1400 | 动感101 | fanmingming.com | <https://fanmingming.com/fm?id=1311> |
+| 1401 | 北京音乐广播 | fanmingming.com | <https://fanmingming.com/fm?id=356> |
+| 1402 | 南京玄武湖公园 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8> |
+| 1403 | 南海之声 | fanmingming.com | <https://fanmingming.com/fm?id=664> |
+| 1404 | 厦门鼓浪屿 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8> |
+| 1405 | 咪咕直播1 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000005308/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1406 | 咪咕直播10 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1407 | 咪咕直播11 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000031494/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1408 | 咪咕直播12 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000000097/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1409 | 咪咕直播13 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000002019/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1410 | 咪咕直播14 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000002032/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1411 | 咪咕直播14K | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000005180/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1412 | 咪咕直播15 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000002809/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1413 | 咪咕直播16 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000003915/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1414 | 咪咕直播17 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000004193/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1415 | 咪咕直播18 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000004464/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1416 | 咪咕直播19 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000005837/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1417 | 咪咕直播2 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000005969/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1418 | 咪咕直播20 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000006077/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1419 | 咪咕直播21 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000006658/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1420 | 咪咕直播22 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000006944/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1421 | 咪咕直播23 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000007692/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1422 | 咪咕直播24 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000009788/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1423 | 咪咕直播25 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000010833/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1424 | 咪咕直播26 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000011112/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1425 | 咪咕直播27 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000011297/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1426 | 咪咕直播28 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000011518/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1427 | 咪咕直播29 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000011763/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1428 | 咪咕直播3 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000007218/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1429 | 咪咕直播30 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000011873/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1430 | 咪咕直播31 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000012398/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1431 | 咪咕直播32 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000012450/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1432 | 咪咕直播33 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000012558/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1433 | 咪咕直播34 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000012616/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1434 | 咪咕直播35 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000015470/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1435 | 咪咕直播36 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000015560/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1436 | 咪咕直播37 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000017389/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1437 | 咪咕直播38 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000017678/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1438 | 咪咕直播39 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000017997/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1439 | 咪咕直播4 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000008001/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1440 | 咪咕直播40 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000019380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1441 | 咪咕直播41 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000019839/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1442 | 咪咕直播42 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000020168/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1443 | 咪咕直播43 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000021904/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1444 | 咪咕直播44 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000023434/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1445 | 咪咕直播45 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000024205/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1446 | 咪咕直播46 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000024691/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1447 | 咪咕直播47 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000025380/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1448 | 咪咕直播48 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000025943/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1449 | 咪咕直播49 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000027318/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1450 | 咪咕直播5 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000008176/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1451 | 咪咕直播50 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000027638/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1452 | 咪咕直播51 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000027691/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1453 | 咪咕直播52 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000031669/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1454 | 咪咕直播53 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000010000032106/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1455 | 咪咕直播6 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000008379/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1456 | 咪咕直播7 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000010129/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1457 | 咪咕直播8 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000010948/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1458 | 咪咕直播9 | IPv4 直链 | <http://111.13.111.242/000000001000/3000000001000026778/index.m3u8?channel-id=FifastbLive&livemode=1&stbId=3&HlsProfileId=> |
+| 1459 | 哈萨克语广播 | fanmingming.com | <https://fanmingming.com/fm?id=655> |
+| 1460 | 四川四姑娘山隆珠措 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8> |
+| 1461 | 四川峨眉山云海日出 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8> |
+| 1462 | 四川峨眉山普贤菩萨铜像 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8> |
+| 1463 | 四川峨眉山远眺万佛顶 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8> |
+| 1464 | 四川峨眉山远眺贡嘎雪山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8> |
+| 1465 | 天涯石 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8> |
+| 1466 | 安徽池州九华山风景区九华山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8> |
+| 1467 | 安徽黟县芦村远眺 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8> |
+| 1468 | 安徽黟县西递牌坊 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8> |
+| 1469 | 年代音乐889 | fanmingming.com | <https://fanmingming.com/fm?id=2397> |
+| 1470 | 广西桂林漓江景区 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8> |
+| 1471 | 广西玉林大容山莲花山顶 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8> |
+| 1472 | 庆余年 | live.metshop.top | <https://live.metshop.top/douyu/5908256> |
+| 1473 | 张掖七彩丹霞 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8> |
+| 1474 | 恒山悬空寺全景 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8> |
+| 1475 | 挨饿德1 | live.iill.top | <https://live.iill.top/huya/20985858> |
+| 1476 | 挨饿德2 | live.iill.top | <https://live.iill.top/huya/17693860> |
+| 1477 | 文艺之声 | fanmingming.com | <https://fanmingming.com/fm?id=648> |
+| 1478 | 新疆天山 | gctxyc.liveplay.myqcloud.com | <http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8> |
+| 1479 | 新白娘子传奇 | lunbo.freetv.top | <https://lunbo.freetv.top/yy/1354930969> |
+| 1480 | 春晚91 | txmov2.a.kwimgs.com | <https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8> |
+| 1481 | 普陀山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8> |
+| 1482 | 月牙泉 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8> |
+| 1483 | 望乡台 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8> |
+| 1484 | 每日一首 | cloud.video.taobao.com | <https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240031614983.mp4> |
+| 1485 | 江苏南京牛首山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8> |
+| 1486 | 江苏徐州云龙湖风景区云龙山观景台西 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8> |
+| 1487 | 沸点100MIX | fanmingming.com | <https://fanmingming.com/fm?id=1318> |
+| 1488 | 泰山主峰 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8> |
+| 1489 | 泰山十八盘 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8> |
+| 1490 | 泰山南天门 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8> |
+| 1491 | 泰山大观峰 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8> |
+| 1492 | 泰山太平岭 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8> |
+| 1493 | 泰山望人松 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8> |
+| 1494 | 泰山玉皇顶 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8> |
+| 1495 | 泰山白云亭悬崖 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8> |
+| 1496 | 泰山碧霞祠 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8> |
+| 1497 | 浙江舟山东极岛 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8> |
+| 1498 | 湖南张家界天门山天空步道 | mlivewbndtxy.liveplay.myqcloud.com | <https://mlivewbndtxy.liveplay.myqcloud.com/mlivewbnd/mlive_djy03_2/index.m3u8> |
+| 1499 | 湖南张家界天门山西线玻璃栈道 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8> |
+| 1500 | 湖南张家界宝峰湖 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8> |
+| 1501 | 湖南张家界将军列队 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8> |
+| 1502 | 湖南张家界御笔峰 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8> |
+| 1503 | 湖南张家界水绕四门 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8> |
+| 1504 | 爱情公寓 | live.metshop.top | <https://live.metshop.top/douyu/2838296> |
+| 1505 | 狮子山鸟瞰丽江古城 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8> |
+| 1506 | 番外篇 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22732_018e6020/index.m3u8> |
+| 1507 | 直播中国精编直播 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8> |
+| 1508 | 神州之声 | fanmingming.com | <https://fanmingming.com/fm?id=644> |
+| 1509 | 福建武夷山玉女峰 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8> |
+| 1510 | 福建漳州醉美沙滩翡翠湾 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8> |
+| 1511 | 笑傲江湖 | vip.ffzy-play7.com | <https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8> |
+| 1512 | 第一集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22686_866e04a7/index.m3u8> |
+| 1513 | 第七集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22692_a76bbc54/index.m3u8> |
+| 1514 | 第三十一集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22715_de46c41c/index.m3u8> |
+| 1515 | 第三十七集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22721_198ac9a4/index.m3u8> |
+| 1516 | 第三十三集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22720_512de013/index.m3u8> |
+| 1517 | 第三十九集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22725_856376c9/index.m3u8> |
+| 1518 | 第三十二集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22717_f68706d1/index.m3u8> |
+| 1519 | 第三十五集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22719_14bf9a3b/index.m3u8> |
+| 1520 | 第三十八集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22723_f624149b/index.m3u8> |
+| 1521 | 第三十六集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22722_9f54cbd2/index.m3u8> |
+| 1522 | 第三十四集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22718_0939ec0c/index.m3u8> |
+| 1523 | 第三十集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22716_1ac04a90/index.m3u8> |
+| 1524 | 第三集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22688_e5e8f07f/index.m3u8> |
+| 1525 | 第九集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22694_32ffaf46/index.m3u8> |
+| 1526 | 第二十一集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22704_5d46d244/index.m3u8> |
+| 1527 | 第二十七集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22712_af581805/index.m3u8> |
+| 1528 | 第二十三集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22708_4f1a66a2/index.m3u8> |
+| 1529 | 第二十九集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22714_de3ff74d/index.m3u8> |
+| 1530 | 第二十二集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22709_14d02f33/index.m3u8> |
+| 1531 | 第二十五集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22711_85b4b7d4/index.m3u8> |
+| 1532 | 第二十八集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22713_d6d224b6/index.m3u8> |
+| 1533 | 第二十六集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22710_88603a0e/index.m3u8> |
+| 1534 | 第二十四集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22707_aae076de/index.m3u8> |
+| 1535 | 第二十集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22706_d30975c0/index.m3u8> |
+| 1536 | 第二集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22687_ef6d93cf/index.m3u8> |
+| 1537 | 第五集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22690_b50b3ef5/index.m3u8> |
+| 1538 | 第八集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22695_16e14a51/index.m3u8> |
+| 1539 | 第六集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22691_3a9e8ff7/index.m3u8> |
+| 1540 | 第十一集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22697_426b873e/index.m3u8> |
+| 1541 | 第十七集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22703_90a4e183/index.m3u8> |
+| 1542 | 第十三集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22698_02ea9756/index.m3u8> |
+| 1543 | 第十九集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22705_bb60ab6e/index.m3u8> |
+| 1544 | 第十二集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22696_1547fa94/index.m3u8> |
+| 1545 | 第十五集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22700_354ed120/index.m3u8> |
+| 1546 | 第十八集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22701_9ac5dc6c/index.m3u8> |
+| 1547 | 第十六集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22702_b9df4a89/index.m3u8> |
+| 1548 | 第十四集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22699_29bc4391/index.m3u8> |
+| 1549 | 第十集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22693_17eb9651/index.m3u8> |
+| 1550 | 第四十一集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22726_bcaee9e0/index.m3u8> |
+| 1551 | 第四十三集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22727_3bb22752/index.m3u8> |
+| 1552 | 第四十二集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22728_7fff7f3a/index.m3u8> |
+| 1553 | 第四十五集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22729_2d951857/index.m3u8> |
+| 1554 | 第四十六集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22730_6d039e6d/index.m3u8> |
+| 1555 | 第四十四集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22731_53e87991/index.m3u8> |
+| 1556 | 第四十集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22724_2236a2ba/index.m3u8> |
+| 1557 | 第四集 | yzzy.play-cdn7.com | <https://yzzy.play-cdn7.com/20221013/22689_4f7df3ba/index.m3u8> |
+| 1558 | 英语资讯广播 | fanmingming.com | <https://fanmingming.com/fm?id=734> |
+| 1559 | 荒野求生 | live.iill.top | <https://live.iill.top/huya/593667> |
+| 1560 | 藏语广播 | fanmingming.com | <https://fanmingming.com/fm?id=650> |
+| 1561 | 贵州省兴义市万峰林 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8> |
+| 1562 | 轻松调频 | fanmingming.com | <https://fanmingming.com/fm?id=689> |
+| 1563 | 都江堰鱼嘴 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8> |
+| 1564 | 野行者 | live.iill.top | <https://live.iill.top/huya/20072663> |
+| 1565 | 长三角之声 | fanmingming.com | <https://fanmingming.com/fm?id=843> |
+| 1566 | 陕西洋县国宝朱鹮02 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8> |
+| 1567 | 陕西洋县国宝朱鹮03 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8> |
+| 1568 | 雪乡大石碑 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8> |
+| 1569 | 雪乡梦幻家园 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8> |
+| 1570 | 青岛崂山八水河 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8> |
+| 1571 | 青岛崂山双福 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8> |
+| 1572 | 鸣沙山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8> |
+| 1573 | 鹿鼎记 | lunbo.freetv.top | <https://lunbo.freetv.top/yy/28265277> |
+| 1574 | 黄山 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8> |
+| 1575 | 黄山卧云峰 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8> |
+| 1576 | 黄山始信新道 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8> |
+| 1577 | 黄山排云亭 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8> |
+| 1578 | 黄山飞来石 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8> |
+| 1579 | 黄果树六角亭瀑布 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8> |
+| 1580 | 黄花城水长城01 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8> |
+| 1581 | 黄花城水长城02 | gctxyc.liveplay.myqcloud.com | <http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8> |
+| 1582 | 黄花城水长城03 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8> |
+| 1583 | 黄龙 | gcalic.v.myalicdn.com | <https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8> |
+| 1584 | 2024-12-22 00:21:34 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qk63w4c03xbwmvaj/720p/h264/1730947489568846926/mda-qk63w4c03xbwmvaj.mp4?v_from_s=bdapp-resbox-hnb> |
 
-Updated at **12/21/2024 10:33:39 PM**
+Updated at **12/22/2024 12:24:35 AM**
 
 ## 使用说明
 

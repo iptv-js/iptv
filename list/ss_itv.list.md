@@ -473,7 +473,7 @@
 | 465 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 466 | 龙岩综合 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **12/21/2024 10:33:39 PM**
+Updated at **12/22/2024 12:24:35 AM**
 
 ## 使用说明
 
