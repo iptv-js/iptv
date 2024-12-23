@@ -694,7 +694,7 @@
 | 686 | 笑傲江湖 | vip.ffzy-play7.com | <https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8> |
 | 687 | 2024-12-24 00:08:39 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-qk63w4c03xbwmvaj/720p/h264/1730947489568846926/mda-qk63w4c03xbwmvaj.mp4?v_from_s=bdapp-resbox-hnb> |
 
-Updated at **12/24/2024 12:26:26 AM**
+Updated at **12/24/2024 12:28:52 AM**
 
 ## 使用说明
 
