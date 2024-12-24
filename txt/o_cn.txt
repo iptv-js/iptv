@@ -469,6 +469,7 @@ Business,#genre#
 Bloomberg_TV_Asia_(720p),https://bloomberg.com/media-manifest/streams/asia.m3u8
 Bloomberg_TV_Asia_Live_Event_(720p),https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 CCTV2_(1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.102:10250
+CNBC_Asia_HD_(720p),https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
 World_Economy_Channel,http://49.113.179.174:4022/udp/238.125.2.205:5140
 徐州经济生活_(1080p),http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
 浙江经济生活_(1080p)_[Not_24/7],https://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
