@@ -70,7 +70,7 @@
 | 62 | 新疆卫视 | pi.0472.org | <https://pi.0472.org/live/xjws.m3u8?token=241703> |
 | 63 | 海南卫视 | pi.0472.org | <https://pi.0472.org/live/hinws.m3u8?token=241703> |
 
-Updated at **12/29/2024 12:27:14 AM**
+Updated at **12/30/2024 12:24:24 AM**
 
 ## 使用说明
 
