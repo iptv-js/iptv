@@ -67,7 +67,7 @@
 | 59 | 甘肃卫视 | IPv4 直链 | <http://117.161.12.116/live/program/live/gsws/1300000/mnf.m3u8> |
 | 60 | 贵州卫视 | 9bwaz8y2.gzstv.com | <https://9bwaz8y2.gzstv.com/live/CH01_lo.m3u8?txSecret=86b0574bf5f6968ce35fb230d608952f&txTime=67710026> |
 
-Updated at **12/30/2024 12:24:24 AM**
+Updated at **12/30/2024 12:26:49 AM**
 
 ## 使用说明
 
