@@ -456,7 +456,7 @@
 | 448 | 马鞍山新闻 | IPv4 直链 | <http://223.241.247.214:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 449 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **12/31/2024 12:26:39 AM**
+Updated at **12/31/2024 12:29:17 AM**
 
 ## 使用说明
 

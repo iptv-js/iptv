@@ -121,7 +121,7 @@
 | 113 | [BD]黑龙江卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/0d44ee99e0aebb0bdb18de41c7c8923f18473f638ed0eb4139d665cd5e3d2a15.m3u8> |
 | 114 | [BD]黑龙江都市 | stream1.freetv.fun | <https://stream1.freetv.fun/dcd8bf7aa1d3ddb28cc3bc7937057f57e6e8b0c90b1f9339843731320f68a11d.ctv> |
 
-Updated at **12/31/2024 12:26:39 AM**
+Updated at **12/31/2024 12:29:17 AM**
 
 ## 使用说明
 
