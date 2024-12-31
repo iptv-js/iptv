@@ -84,7 +84,7 @@
 | 76 | 甘肃卫视 | IPv4 直链 | <http://117.161.12.116/live/program/live/gsws/1300000/mnf.m3u8> |
 | 77 | 兵团卫视 | IPv4 直链 | <http://117.161.12.116/live/program/live/btws/1300000/mnf.m3u8> |
 
-Updated at **1/1/2025 12:25:46 AM**
+Updated at **1/1/2025 12:28:15 AM**
 
 ## 使用说明
 
