@@ -219,7 +219,7 @@
 | 211 | 欢笑剧场4K | IPv6 直链 | <http://[2409:8087:5e08:24::17]:6610/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3> |
 | 212 | 2025-01-03 00:17:59 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-qmfhcast4zs3v8c9/720p/h264/1734351332606021389/mda-qmfhcast4zs3v8c9.mp4?v_from_s=bdapp-resbox-suzhou> |
 
-Updated at **1/3/2025 12:26:53 AM**
+Updated at **1/3/2025 12:29:22 AM**
 
 ## 使用说明
 
