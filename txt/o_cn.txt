@@ -494,6 +494,7 @@ Dragon_TV_International_(360p),http://210.210.155.37/x6bnqe/s/s29/index.m3u8
 Liangshan_TV_[Not_24/7],http://118.122.2.29:9999/hls/47/index.m3u8
 QTV-4,http://video10.qtv.com.cn/drm/qtv4at/manifest.m3u8
 QTV-5,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
+STV_City,http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 TV_BRICS_Chinese_(1080p)_[Not_24/7],https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 Weihai_Public_Channel,http://l2.weihai.tv:8081/hls/g16E3482eM.m3u8
 Yanbian_Cinese_Comprehensive_Channel,https://live.ybtvyun.com/video/s10016-6d4fe23a90b3/index.m3u8
@@ -510,6 +511,7 @@ Yanbian_Cinese_Comprehensive_Channel,https://live.ybtvyun.com/video/s10016-6d4fe
 Entertainment,#genre#
 CCTV3_(1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.122:10370
 City_Theater_Channel,http://49.113.179.174:4022/udp/238.125.1.60:5140
+Hunan_Entertainment_Channel,http://1732e975z9.zicp.fun:8082/hls/20/index.m3u8
 
 Sports,#genre#
 CCTV5_(1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.123:10376
@@ -537,6 +539,7 @@ Shandong_Education_TV,http://49.113.179.174:4022/udp/238.125.0.156:5140
 
 Culture,#genre#
 CCTV8_(1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.125:10388
+Nei_Monggol_TV_2_Mongolian_Culture_Channel,http://1.183.141.194:8001/hls/54/index.m3u8
 
 Documentary,#genre#
 CCTV9_(1080p),http://bl.dchwtq.asia:10000/rtp/239.69.1.104:10262
@@ -568,6 +571,9 @@ Shanghai_Education_Television_Station,http://223.166.234.114:7777/tsfile/live/10
 
 Outdoor,#genre#
 Sihai_Fishing_Channel,http://49.113.179.174:4022/udp/238.125.2.172:5140
+
+General;News,#genre#
+STV_News_and_General,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 
 Shop,#genre#
 Ugo_Shop_TV,http://49.113.179.174:4022/udp/238.125.4.184:5140
