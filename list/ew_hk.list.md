@@ -13,10 +13,10 @@
 | 5 | [BD]discovery kids | stream1.freetv.fun | <https://stream1.freetv.fun/d78d2807e3d6bb3c4add508a0f548df4bc97dee52811b0fe260dac57c2330224.ctv> |
 | 6 | [SD]hks | stream1.freetv.fun | <https://stream1.freetv.fun/692c8a08e7da9ab3595a7fcf3e32f316317a3fcfb86850ad8fa24c14b91781b9.m3u8> |
 | 7 | [BD]hoy tv 资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/61c9519e70540235a366f9e5c9f5b4e95ad06ee6cb1edc8647cb99dd28c28960.m3u8> |
-| 8 | [VGA]kix | stream1.freetv.fun | <https://stream1.freetv.fun/1dc19b4b3d588c842f6d69edaf81bf8fbafa705d59bf49c4a2e709cc56480313.m3u8> |
+| 8 | [BD]kix | stream1.freetv.fun | <https://stream1.freetv.fun/1dc19b4b3d588c842f6d69edaf81bf8fbafa705d59bf49c4a2e709cc56480313.m3u8> |
 | 9 | [BD]mytime movie network | stream1.freetv.fun | <https://stream1.freetv.fun/17c44b5139ec4dff020e8f11f652ca54024d034d51c2c40b2383cc9a16add8e9.m3u8> |
 | 10 | [BD]nowsports | stream1.freetv.fun | <https://stream1.freetv.fun/00ac9bb68bd45491c35c764d66b7746d9c105114a5e10fc1680d20c269355406.ctv> |
-| 11 | [VGA]now新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/435c471e9b9067599cfd295d1b7b3ad9e07efd67187635228cabb35c791d16c6.ctv> |
+| 11 | [BD]now新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/435c471e9b9067599cfd295d1b7b3ad9e07efd67187635228cabb35c791d16c6.ctv> |
 | 12 | [BD]now爆谷 | stream1.freetv.fun | <https://stream1.freetv.fun/bc97521e6ecfc495f5bf5ea0d3aea354504f294d77d1409aef7ffb493c651234.m3u8> |
 | 13 | [BD]now | stream1.freetv.fun | <https://stream1.freetv.fun/12ef9b5d00924abdbf5dc2545381a1571b3e5e4a4aff5e5e924cd0fde0a969ca.m3u8> |
 | 14 | [HD]sports 2 | stream1.freetv.fun | <https://stream1.freetv.fun/933911acd9ce751a31d2a1290205992ec885122b8e6be12adc0a8034d3383cf5.m3u8> |
@@ -45,7 +45,7 @@
 | 37 | [BD]无线新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/b1feaaf52b422e940f5a234a921e8bf90bcd32a6678ec37f2393350c6c5de45c.ctv> |
 | 38 | [BD]无线新闻 | stream1.freetv.fun | <https://stream1.freetv.fun/662e5a352f2b84358ebad27c76fec0e01bcc3cd0490e4b00a8dcd0621ddc3d35.ctv> |
 | 39 | [BD]无线财经 | stream1.freetv.fun | <https://stream1.freetv.fun/4cfbd8042c72a22081ceec0c87e7bb7ded78a5ea32bb6f709e5375a7304b8d1c.ctv> |
-| 40 | [VGA]甄子丹电影 | stream1.freetv.fun | <https://stream1.freetv.fun/a4ef4c18d73fa4896c1cb5c7007b3ff287cda01d794be0bb3b2c5b355410d121.ctv> |
+| 40 | [SD]甄子丹电影 | stream1.freetv.fun | <https://stream1.freetv.fun/dd36ce8639d3e960f752ae060b9918fc61e28ae5fc35aafba8a2d935a0fb954c.ctv> |
 | 41 | [HD]美亚电影 | stream1.freetv.fun | <https://stream1.freetv.fun/2cb279c9a42cd826e8afb1da83ad153bc8e4dfdef7ac294f7f521f6f8f116c1b.ctv> |
 | 42 | [HD]tvb翡翠 | stream1.freetv.fun | <https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.m3u8> |
 | 43 | [BD]翡翠台 | stream1.freetv.fun | <https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8> |
@@ -55,12 +55,12 @@
 | 47 | [SD]香港卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/b48ede2103e5f6025058ad047888ecfa67ebf6b5a065f797e103826a0afe1dbf.ctv> |
 | 48 | [SD]香港电台(34) | stream1.freetv.fun | <https://stream1.freetv.fun/c227f3d71cd6f0d5a4c3eed6b7ba17dcc4ba4fe7bad59c47813d70f5e9eee02d.m3u8> |
 | 49 | [BD]凤凰卫视香港 | stream1.freetv.fun | <https://stream1.freetv.fun/b00f0f5bc6be5b4622aefaa1e8fe4dee5787ff6179bd58a96cc662efba7c3585.ctv> |
-| 50 | [BD]凤凰中文 | stream1.freetv.fun | <https://stream1.freetv.fun/6ef3d91e9299f5334e2cdf4f478927b09614873cda4321309bf658e5f0117d6e.m3u8> |
+| 50 | [HD]凤凰卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/59e62053789beef161763bfc197c0bd5742b088d33c5f53960c8eb330b0f48da.ctv> |
 | 51 | [BD]凤凰资讯 | stream1.freetv.fun | <https://stream1.freetv.fun/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.m3u8> |
 | 52 | [SD]凤凰电影 | stream1.freetv.fun | <https://stream1.freetv.fun/fa2a29682145fd2fde67358840ff4fd3a94bbfd0456e162773a3b45ba2fe5eeb.ctv> |
 | 53 | [BD]凤凰香港 | stream1.freetv.fun | <https://stream1.freetv.fun/5de65236fc55651cfbe3aa6b4e3d7b836e4c1a53d0acf8d5095f09dae4f92185.ctv> |
 
-Updated at **1/5/2025 12:27:30 AM**
+Updated at **1/6/2025 12:24:35 AM**
 
 ## 使用说明
 
