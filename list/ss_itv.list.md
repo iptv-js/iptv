@@ -460,7 +460,7 @@
 | 452 | 马鞍山新闻 | IPv4 直链 | <http://223.241.247.214:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 453 | 龙岩综合 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **1/6/2025 12:24:35 AM**
+Updated at **1/6/2025 12:27:16 AM**
 
 ## 使用说明
 
