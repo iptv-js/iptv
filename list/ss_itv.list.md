@@ -420,7 +420,7 @@
 | 412 | 钱江 | IPv4 直链 | <http://101.65.32.39:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 413 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **1/7/2025 12:27:29 AM**
+Updated at **1/7/2025 12:29:59 AM**
 
 ## 使用说明
 
