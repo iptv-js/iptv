@@ -32,9 +32,10 @@
 [BD]靖天戏剧,https://stream1.freetv.fun/3597c253fc00ad332122d75168d6af0f934f07bb55c8f0e5e5c9fac1beb084e0.ctv
 [BD]靖天日本,https://stream1.freetv.fun/a0139192e3443869304e1c3e3c3d24699e3673ba7f37e40524356affc6bfecb0.ctv
 [BD]靖天映画,https://stream1.freetv.fun/feaa2c7eeaa63b1901a08d1b2c3d711c1198fa56765f3aca7a88c5d31dbcd398.ctv
-[BD]靖天电影,https://stream1.freetv.fun/4b52f60448b52dc2de12e73976800074fa678ec4a94c399c9ca7d5647ab725c1.ctv
+[BD]靖天电影,https://stream1.freetv.fun/b7b334eee155c0e904ec230e64f4ff9f242a5158d58709ce6e1f5b8d18216b10.ctv
 [BD]靖洋戏剧,https://stream1.freetv.fun/5d27c12de5a8e71568d48df829fd8a403ad9a3272424210219baab7ee3616d99.ctv
-[BD]龙华戏剧,https://stream1.freetv.fun/21a051e44f12fe2f4fbc33c2e5feece75bb4982c64fdd84b5f2104c3d7d2981f.ctv
+[HD]龙华偶像,https://stream1.freetv.fun/f04cd7ed7bbbd3449b03632a4df58481a0871423d84f0e2950b5507a9652eaca.m3u8
+[BD]龙华戏剧,https://stream1.freetv.fun/6dfb8189be0e3e69a2b9a63956a201bdd04ba0c3db1eeec0c20406ada33ba775.ctv
 [BD]龙华日韩,https://stream1.freetv.fun/54187f7b52bbb08407ce9894fa6e6b0ba632cdd0aeb29c91e9cb9efd129898ce.ctv
 [HD]龙华洋片,https://stream1.freetv.fun/458429f81d1a14007fd3d6f5a8ec3cdd04e16d2237f1f1647eaf3c027cc96505.m3u8
 [BD]龙华经典,https://stream1.freetv.fun/b3cafc1195fc65049e4faa3252721631530e68ef560f3cbd2f0db533d558cf57.ctv
@@ -122,7 +123,6 @@
 [BD]taiwan_plus_tv,https://stream1.freetv.fun/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8
 [HD]三立新闻,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
 [BD]三立财经,https://stream1.freetv.fun/7139c79da064f873d3b58f3f7afd2c2b1fc71986c05bb0f0dd5495c872a51f1e.m3u8
-[BD]中天新闻,https://stream1.freetv.fun/5b84b0baf55fce778cffd1d5a35ef8e77dfb02436d82cd5a83dd78c61c90462e.ctv
 [BD]中视新闻,https://stream1.freetv.fun/20ff0b7ee9b33568cc8a08d08cb857240e5285c864869e3ebbb4d3292834f755.m3u8
 [BD]台视新闻,https://stream1.freetv.fun/d8108ac365f78a8a9a4987c625b145350ea69a0572ff6d74bb721820f2420525.m3u8
 [BD]寰宇新闻台湾,https://stream1.freetv.fun/c93134c4a7750f6a2366293eac9a588b7412c103b897dc00080badfb343dd3be.ctv

@@ -3,6 +3,7 @@
 
 综合,#genre#
 [HD]澳视澳门,https://stream1.freetv.fun/63dfe0918b34a9c16af1d45637dadb494cac757fc34f97ac4741689288ed84ed.m3u8
+[BD]澳门莲花,https://stream1.freetv.fun/5499880d623a69122a59f962ddc7e383ee4f633ddcee32ba133ac25e98f125e2.ctv
 
 综艺,#genre#
 [HD]澳门综艺,https://stream1.freetv.fun/7168df2b953d3427282ee18a7ed70314364d489570e3fd98cc30119138b73a5f.m3u8
