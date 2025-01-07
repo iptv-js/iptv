@@ -223,7 +223,7 @@
 | 215 | 睛彩青少 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8> |
 | 216 | 2025-01-08 00:28:31 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-ra4e1jnfdtfri8pn/720p/h264/1736070906362906044/mda-ra4e1jnfdtfri8pn.mp4?v_from_s=bdapp-landingpage-suzhou> |
 
-Updated at **1/8/2025 12:38:06 AM**
+Updated at **1/8/2025 12:40:40 AM**
 
 ## 使用说明
 
