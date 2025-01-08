@@ -85,7 +85,7 @@
 | 77 | 兵团卫视 | mobilelive-timeshift.ysp.cctv.cn | <http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0> |
 | 78 | 三沙卫视 | 老友网 | <https://livecdn.hnntv.cn/live/ssws20241214.m3u8?_upt=7d369f5e1736355744> |
 
-Updated at **1/9/2025 12:27:46 AM**
+Updated at **1/9/2025 12:30:32 AM**
 
 ## 使用说明
 
