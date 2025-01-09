@@ -242,7 +242,7 @@
 | 234 | 睛彩青少 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8> |
 | 235 | 2025-01-09 18:39:49 | vd2.bdstatic.com | <https://vd2.bdstatic.com/mda-ra7e4ssz5dyzmar1/720p/h264/1736330425096181381/mda-ra7e4ssz5dyzmar1.mp4?v_from_s=bdapp-resbox-suzhou> |
 
-Updated at **1/10/2025 12:27:44 AM**
+Updated at **1/10/2025 12:30:15 AM**
 
 ## 使用说明
 
