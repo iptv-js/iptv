@@ -3027,7 +3027,7 @@ Test,#genre#
 [BD]sbn_全球财经,https://stream1.freetv.fun/0a3347f9fd5ed409a423b96ae8740068f36eeb51fc8e04a72d43b3d7905686d0.ctv
 [BD]TVBS新闻,https://stream1.freetv.fun/f7023244189e42afd8353b073e470704715dda8c41eeec394674b714e5752199.m3u8
 [BD]tvbs_新闻,https://stream1.freetv.fun/f0e2c53d38eaa687dcb210b597a25db20458fc442767067f693b1dde2973be92.ctv
-[SD]taiwan_plus,https://stream1.freetv.fun/ecfed8f20ec485a2af04f088f04b9ed1edca3ce122824570bcf51895aad79fd3.m3u8
+[BD]taiwan_plus_tv,https://stream1.freetv.fun/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8
 [BD]三立_inews,https://stream1.freetv.fun/ef624b2d9ce3a3eb48510e57ef7b43f2f6f941e6c1716a9a65323e552a98be41.ctv
 [HD]三立新闻,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
 [BD]中天新闻,https://stream1.freetv.fun/857501eecc3f5e76152bb2141e43acfa74c5c1f8b65679074f1099f1ff47fa46.ctv

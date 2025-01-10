@@ -391,7 +391,7 @@
 | 383 | 马鞍山公共 | IPv4 直链 | <http://223.241.247.214:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 384 | 马鞍山新闻 | IPv4 直链 | <http://223.241.247.214:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **1/11/2025 12:27:56 AM**
+Updated at **1/11/2025 12:30:32 AM**
 
 ## 使用说明
 

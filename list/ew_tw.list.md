@@ -54,7 +54,7 @@
 | 46 | [BD]tvbs 精采 | stream1.freetv.fun | <https://stream1.freetv.fun/96e316a81100399bcf3af27c922d075b11474dca9f2f6d1f5fde94dd73e53b6c.ctv> |
 | 47 | [BD]tvbs 综艺 | stream1.freetv.fun | <https://stream1.freetv.fun/233b3dca3ffaaed3ed37424bf5688734fbcfdea07a065d3157c697fbc5a8768d.ctv> |
 | 48 | [BD]tvn | stream1.freetv.fun | <https://stream1.freetv.fun/f2309922c3fb9ae16d9469bf93816f6b4b111cd8f111c8ad25e03e379882b66e.m3u8> |
-| 49 | [SD]taiwan plus | stream1.freetv.fun | <https://stream1.freetv.fun/ecfed8f20ec485a2af04f088f04b9ed1edca3ce122824570bcf51895aad79fd3.m3u8> |
+| 49 | [BD]taiwan plus tv | stream1.freetv.fun | <https://stream1.freetv.fun/65c6d14ddb6590312cdeebb366155362457320f338e06fcd5e7c5f089bc88156.m3u8> |
 | 50 | [BD]滚动力 rollor | stream1.freetv.fun | <https://stream1.freetv.fun/c61ba4efee6e01f2439ef547bf58336c4bb58bbddb476df9376a40adc1fcd6f8.ctv> |
 | 51 | [BD]三立 inews | stream1.freetv.fun | <https://stream1.freetv.fun/ef624b2d9ce3a3eb48510e57ef7b43f2f6f941e6c1716a9a65323e552a98be41.ctv> |
 | 52 | [HD]三立戏剧 | stream1.freetv.fun | <https://stream1.freetv.fun/38b16d6f182cd55b7a542696a148d850cf352ea7c01b6a76d452002644e34fbb.m3u8> |
@@ -177,7 +177,7 @@
 | 169 | [BD]龙华经典 | stream1.freetv.fun | <https://stream1.freetv.fun/b3cafc1195fc65049e4faa3252721631530e68ef560f3cbd2f0db533d558cf57.ctv> |
 | 170 | [BD]龙华电影 | stream1.freetv.fun | <https://stream1.freetv.fun/c1c4fac8b29f1c9e54fd8597ae989912d0c19e2b675fe914ef6a306c647a4091.ctv> |
 
-Updated at **1/11/2025 12:27:56 AM**
+Updated at **1/11/2025 12:30:32 AM**
 
 ## 使用说明
 
