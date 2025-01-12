@@ -120,7 +120,7 @@
 | 112 | 金鹰卡通 | IPv4 直链 | <http://1.197.249.246:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 113 | 钱江 | IPv4 直链 | <http://101.65.32.39:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **1/13/2025 12:24:16 AM**
+Updated at **1/13/2025 12:26:51 AM**
 
 ## 使用说明
 
