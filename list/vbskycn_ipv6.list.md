@@ -68,7 +68,7 @@
 | 60 | 黑龙江都市 | IPv6 直链 | <http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225969/main.m3u8> |
 | 61 | 2025-01-16 18:46:27 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-rad9fe286y2dvbrd/720p/h264/1736836844028067071/mda-rad9fe286y2dvbrd.mp4?v_from_s=bdapp-resbox-suzhou> |
 
-Updated at **1/17/2025 12:26:36 AM**
+Updated at **1/17/2025 12:29:25 AM**
 
 ## 使用说明
 
