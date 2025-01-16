@@ -159,13 +159,12 @@
 [HD]三立新闻,https://stream1.freetv.fun/e12a5ecb3e0328b72c684ffe48cb7382b9b3e283c0c99492612b5af06b539153.ctv
 [BD]中天新闻,https://stream1.freetv.fun/0acae9c9b7bde09dca23c0e22a3850d47f1906143f348f03bc24c9406ff02f21.m3u8
 [VGA]中天新闻,https://stream1.freetv.fun/eb88cb77ff6f1b75b463cb0f142b77990985e32f14a2015cc1708d381adabd3c.ctv
-[VGA]中视新闻,https://stream1.freetv.fun/1f65ec8b6675703b095472e420c7221064aacbf75df7208d59989992d78de738.m3u8
+[HD]中视新闻,https://stream1.freetv.fun/1f65ec8b6675703b095472e420c7221064aacbf75df7208d59989992d78de738.m3u8
 [VGA]中视新闻,https://stream1.freetv.fun/b0d95534a31f56b7649a2dcb64f83ec33b9113f4e92a5cdeb0acbf986dc05b3d.ctv
 [BD]台视新闻,https://stream1.freetv.fun/d8108ac365f78a8a9a4987c625b145350ea69a0572ff6d74bb721820f2420525.m3u8
 [VGA]寰宇新闻,https://stream1.freetv.fun/0b8e23e292a05b71a379a750a17f998198ed6588ffb15385676bd7dbf8e0becf.ctv
 [VGA]寰宇新闻台湾,https://stream1.freetv.fun/12188a3d562e2fea7e9d5f14b430bb7e3010f41f7645011d02878414953a5d8c.ctv
 [VGA]寰宇财经,https://stream1.freetv.fun/d7ce5326f4f288ca5969b8dd8945703f83bc614b7951b7005247df8d49a869bb.ctv
-[BD]年代新闻,https://stream1.freetv.fun/28f2a175c45cd3d6885a0432398d36f149c45c516575d0da8a4312b445351c10.m3u8
 [HD]东森亚洲新闻,https://stream1.freetv.fun/2829f1d796708af8f466f7d623d90fa9c1ffff245f33c763b8a2d7792a75de87.m3u8
 [VGA]东森新闻,https://stream1.freetv.fun/8f2b42373f36053054b9e34d7b381afff8efde2a828d20bab578c9137288cdd6.ctv
 [VGA]东森财经新闻,https://stream1.freetv.fun/8c9ac7814f1e471e91b6dcdfffd899d0f18f8b8e8b46ad9d04df7d4acff11737.ctv
