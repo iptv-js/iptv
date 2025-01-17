@@ -391,7 +391,7 @@
 | 383 | 金鹰纪实 | IPv4 直链 | <http://121.19.134.6:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 384 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **1/17/2025 12:29:25 AM**
+Updated at **1/18/2025 12:25:59 AM**
 
 ## 使用说明
 
