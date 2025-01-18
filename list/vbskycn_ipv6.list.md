@@ -66,7 +66,7 @@
 | 58 | 金牌综艺 | 中国移动黑龙江 | <http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8> |
 | 59 | 2025-01-17 18:47:17 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-rad9fe286y2dvbrd/720p/h264/1736836844028067071/mda-rad9fe286y2dvbrd.mp4?v_from_s=bdapp-resbox-suzhou> |
 
-Updated at **1/19/2025 12:23:30 AM**
+Updated at **1/19/2025 12:26:14 AM**
 
 ## 使用说明
 
