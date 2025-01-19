@@ -322,7 +322,7 @@
 | 314 | 都市剧场 | IPv4 直链 | <http://61.173.144.157:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 315 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **1/20/2025 12:23:37 AM**
+Updated at **1/20/2025 12:26:19 AM**
 
 ## 使用说明
 
