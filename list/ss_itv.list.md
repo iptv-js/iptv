@@ -250,7 +250,7 @@
 | 242 | 都市 | IPv4 直链 | <http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 243 | 都市剧场 | IPv4 直链 | <http://61.173.144.157:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **1/22/2025 12:27:48 AM**
+Updated at **1/22/2025 12:30:45 AM**
 
 ## 使用说明
 

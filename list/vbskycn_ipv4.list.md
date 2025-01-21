@@ -2872,7 +2872,7 @@
 | 2864 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 2865 | 2025-01-21 18:47:52 | vd4.bdstatic.com | <https://vd4.bdstatic.com/mda-rad9fe286y2dvbrd/720p/h264/1736836844028067071/mda-rad9fe286y2dvbrd.mp4?v_from_s=bdapp-resbox-suzhou> |
 
-Updated at **1/22/2025 12:27:48 AM**
+Updated at **1/22/2025 12:30:45 AM**
 
 ## 使用说明
 
