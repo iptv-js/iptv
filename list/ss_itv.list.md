@@ -303,7 +303,7 @@
 | 295 | 都市 | IPv4 直链 | <http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 296 | 金鹰卡通 | IPv4 直链 | <http://113.57.20.158:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **1/25/2025 12:26:36 AM**
+Updated at **1/25/2025 12:29:16 AM**
 
 ## 使用说明
 
