@@ -346,7 +346,7 @@
 | 338 | [BD]辽宁教育青少 | stream1.freetv.fun | <https://stream1.freetv.fun/a360bc9b60dc31208f2a3d5ef620b514b73ba818af72cefb072e4568bad3a300.m3u8> |
 | 339 | [BD]辽宁生活 | stream1.freetv.fun | <https://stream1.freetv.fun/3220fecb168050eff7703e03c2d13bb0563c8427e4ae1df0332b882f27bca191.m3u8> |
 | 340 | [BD]辽宁经济 | stream1.freetv.fun | <https://stream1.freetv.fun/6723ccdf80770b8822766306525f2fb306c72f29ebdb0b6e60a552e2be9ef5d9.m3u8> |
-| 341 | [BD]辽宁卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/4fa75925fb00aa051c6819346628eb0cd8bafd14f8231c9166b8a5209111db07.m3u8> |
+| 341 | [BD]辽宁卫视 | stream1.freetv.fun | <https://stream1.freetv.fun/bb2a5ce2a93b8b1eb36573d3b59ec54e83fd86b77c9bcd464e532665f5044b33.m3u8> |
 | 342 | [BD]辽宁都市 | stream1.freetv.fun | <https://stream1.freetv.fun/ba1e0ef20a914d70e323c141b24ec0876dc136f7f2fadccb235b13124a70dd39.m3u8> |
 | 343 | [BD]辽宁体育 | stream1.freetv.fun | <https://stream1.freetv.fun/1ff0a07784ecae6be40ff78a18b59673a3d26b7115e3a60acdfc3a72bf829958.m3u8> |
 | 344 | [BD]经济生活 | stream1.freetv.fun | <https://stream1.freetv.fun/980aafa2704142b631abe0dcd52723218c17bfa9f5c4b0cac2f0782dfd3d2a63.ctv> |
@@ -382,7 +382,7 @@
 | 374 | [BD]黑龙江视 | stream1.freetv.fun | <https://stream1.freetv.fun/6e7e2ce60b35f196871c0dbc89fc0adaea8f23d50baadfb76c8cd769821d150a.ctv> |
 | 375 | [BD]黑龙江｜都市[ipv6] | stream1.freetv.fun | <https://stream1.freetv.fun/e8aab8e96ab29ac96cc392943d54a947eb57591f4a0fdaf6267345e76a54f209.m3u8> |
 
-Updated at **1/28/2025 12:26:25 AM**
+Updated at **1/28/2025 12:29:14 AM**
 
 ## 使用说明
 

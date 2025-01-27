@@ -292,7 +292,7 @@
 | 284 | 金鹰卡通 | IPv4 直链 | <http://123.154.154.150:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 285 | 钱江 | IPv4 直链 | <http://123.154.154.150:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **1/28/2025 12:26:25 AM**
+Updated at **1/28/2025 12:29:14 AM**
 
 ## 使用说明
 
