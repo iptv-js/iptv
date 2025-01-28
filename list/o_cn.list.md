@@ -86,7 +86,7 @@
 | 78 | Lanzhou Comprehensive News Channel | liveplus.lztv.tv | <https://liveplus.lztv.tv/xwzh/HD/live.m3u8> |
 | 79 | Laughter Theater | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.159:5140> |
 | 80 | Liangshan TV [Not 24/7] | IPv4 直链 | <http://118.122.2.29:9999/hls/47/index.m3u8> |
-| 81 | Nei Monggol TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.7.93:5140> |
+| 81 | Nei Monggol TV | IPv4 直链 | <http://1.183.141.194:8001/hls/55/index.m3u8> |
 | 82 | Nei Monggol TV 2 Mongolian Culture Channel | IPv4 直链 | <http://1.183.141.194:8001/hls/54/index.m3u8> |
 | 83 | NHK Chinese Vision (720p) | nhkw-zh-hlscomp.akamaized.net | <https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8> |
 | 84 | QTV-1 | video10.qtv.com.cn | <http://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8> |
@@ -100,8 +100,8 @@
 | 92 | Shanghai Education Television Station | IPv4 直链 | <http://223.166.234.114:7777/tsfile/live/1033_1.m3u8> |
 | 93 | Sihai Fishing Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.172:5140> |
 | 94 | SMG Football Channel | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.2.142:5140> |
-| 95 | STV City | IPv4 直链 | <http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0> |
-| 96 | STV News and General | IPv4 直链 | <http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
+| 95 | STV City | IPv4 直链 | <http://61.173.144.157:9901/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1> |
+| 96 | STV News and General | IPv4 直链 | <http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0&key=txiptv&playlive=1> |
 | 97 | Toonmax TV | IPv4 直链 | <http://49.113.179.174:4022/udp/238.125.4.28:5140> |
 | 98 | TV5Monde Pacifique (1080p) | ott.tv5monde.com | <https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8> |
 | 99 | TV BRICS Chinese (1080p) [Not 24/7] | brics.bonus-tv.ru | <https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8> |
@@ -548,7 +548,7 @@
 | 540 | 龙口生活 (576p) | 千城云科 | <http://yslk.chinashadt.com:1635/live/stream:di2.stream/playlist.m3u8> |
 | 541 | 龙岩综合 (540p) | stream.lytv.net.cn | <http://stream.lytv.net.cn/2/sd/live.m3u8> |
 
-Updated at **1/28/2025 12:29:14 AM**
+Updated at **1/29/2025 12:27:00 AM**
 
 ## 使用说明
 
