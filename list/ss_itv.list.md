@@ -298,7 +298,7 @@
 | 290 | 金鹰卡通 | IPv4 直链 | <http://121.19.134.222:808/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 291 | 金鹰纪实 | IPv4 直链 | <http://121.19.134.222:808/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **1/29/2025 12:27:00 AM**
+Updated at **1/29/2025 12:29:46 AM**
 
 ## 使用说明
 

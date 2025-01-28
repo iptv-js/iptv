@@ -65,7 +65,7 @@
 | 57 | 凤凰资讯 | playtv-live.ifeng.com | <http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8> |
 | 58 | 凤凰中文 | playtv-live.ifeng.com | <http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8> |
 
-Updated at **1/29/2025 12:27:00 AM**
+Updated at **1/29/2025 12:29:46 AM**
 
 ## 使用说明
 
