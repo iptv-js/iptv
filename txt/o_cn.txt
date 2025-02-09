@@ -578,9 +578,6 @@ STV_News_and_General,http://61.173.144.157:9901/tsfile/live/1000_1.m3u8?authid=0
 Shop,#genre#
 Ugo_Shop_TV,http://49.113.179.174:4022/udp/238.125.4.184:5140
 
-Animation;Education;Family;Kids;Music,#genre#
-Zarok_TV_Sorani_(720p),https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
-
 Animation;Kids,#genre#
 优漫卡通_(576p),http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 金鹰卡通_(576p),http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
