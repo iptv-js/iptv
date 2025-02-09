@@ -80,7 +80,7 @@
 | 72 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1acb81131739088410> |
 | 73 | 兵团卫视 | mobilelive-timeshift.ysp.cctv.cn | <http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0> |
 
-Updated at **2/9/2025 6:27:28 PM**
+Updated at **2/9/2025 6:39:16 PM**
 
 ## 使用说明
 
