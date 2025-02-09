@@ -454,7 +454,7 @@
 | 446 | 金鹰纪实 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23278_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 447 | 风云足球 | IPv4 直链 | <http://180.213.174.225:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **2/9/2025 6:39:16 PM**
+Updated at **2/10/2025 12:23:52 AM**
 
 ## 使用说明
 
