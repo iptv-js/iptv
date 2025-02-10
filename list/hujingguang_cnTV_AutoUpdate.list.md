@@ -62,23 +62,25 @@
 | 54 | CCTV-9 纪录 | www.nettvpro.xyz | <https://www.nettvpro.xyz/player/videojs.php?url=http://117.161.12.116/live/program/live/cctv9hd8m/8000000/mnf.m3u8> |
 | 55 | CCTV-11 戏曲 | IPv4 直链 | <http://183.196.25.171:808/hls/11/index.m3u8> |
 | 56 | CCTV-17 农业农村 | IPv4 直链 | <http://183.196.25.171:808/hls/93/index.m3u8> |
-| 57 | 凤凰资讯 | playtv-live.ifeng.com | <http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8> |
-| 58 | 凤凰中文 | playtv-live.ifeng.com | <http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8> |
-| 59 | 东方卫视 | p.ytelc.com | <http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318> |
-| 60 | 重庆卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202502101317/app_2/_definst_/ls_2.stream/chunklist.m3u8> |
-| 61 | 江西卫视 | yun-live.jxtvcn.com.cn | <https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=&token=> |
-| 62 | 云南卫视 | tvlive.ynradio.com | <http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8> |
-| 63 | 河南卫视 | 河南广播网 | <http://119.147.118.51/tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=4b010dab6c7b3ea3304fd916ecc08edc&wsTime=1739184801&wsSession=ecff97af1053e42045fca0f9-173917086722979&wsIPSercert=f1ed5e80c31ab65580d88c6bbb451005&wsiphost=local&wsBindIP=1> |
-| 64 | 东南卫视 | live1-fuyun.fjtv.net | <https://live1-fuyun.fjtv.net/dnpd/hd/live.m3u8?_upt=2e617aa51739180498> |
-| 65 | 海峡卫视 | live1-fuyun.fjtv.net | <https://live1-fuyun.fjtv.net/haixiapd/hd/live.m3u8?_upt=ed6af6c81739177296> |
-| 66 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-ablwDE.m3u8> |
-| 67 | 西藏卫视 | tv.vtibet.cn | <https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=e128b5b435879f70380942a9fffa2cac&time=67a9a452> |
-| 68 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
-| 69 | 海南卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=6c1aa4e41739170996> |
-| 70 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=9d7f2eaf1739177286> |
-| 71 | 兵团卫视 | mobilelive-timeshift.ysp.cctv.cn | <http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0> |
+| 57 | CGNT 记录频道 | CGTN | <https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8> |
+| 58 | CGNT 新闻频道 | CGTN | <https://english-livebkali.cgtn.com/live/encgtn_0.m3u8> |
+| 59 | 凤凰资讯 | playtv-live.ifeng.com | <http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8> |
+| 60 | 凤凰中文 | playtv-live.ifeng.com | <http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8> |
+| 61 | 东方卫视 | p.ytelc.com | <http://p.ytelc.com/m3u8.html?id=http://cc-ynbit-wszhibo.ifengli.com:2000/live/shdfws-hd/2500.m3u8?innersid=6998114529464369318> |
+| 62 | 江苏卫视 | 荔枝网 | <https://litchinews-tv-hls.jstv.com/litchinews-tv/jiangsuws.m3u8?sign=2e8854b07a3e6ee824fe35b30c582855&t=67a9b372> |
+| 63 | 重庆卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://sjlivecdn9.cbg.cn/202502101317/app_2/_definst_/ls_2.stream/chunklist.m3u8> |
+| 64 | 江西卫视 | yun-live.jxtvcn.com.cn | <https://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8?source=pc&t=&token=> |
+| 65 | 云南卫视 | tvlive.ynradio.com | <http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8> |
+| 66 | 河南卫视 | 河南广播网 | <http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=4b010dab6c7b3ea3304fd916ecc08edc&wsTime=1739184801> |
+| 67 | 山西卫视 | livehhhttps.sxrtv.com | <https://livehhhttps.sxrtv.com/lsdream/q8RVWgs/1000/psh84Vm.m3u8> |
+| 68 | 陕西卫视 | stream.snrtv.com | <http://stream.snrtv.com/sxbc-star-ablwDE.m3u8> |
+| 69 | 西藏卫视 | tv.vtibet.cn | <https://tv.vtibet.cn/live/h701F9MpxzPDyE.m3u8?secret=94f9a496bc38e7a9f5daa215f1a0a106&time=67a9a5bd> |
+| 70 | 甘肃卫视 | p.ytelc.com | <http://p.ytelc.com/videojs.php?id=https://hls.gstv.com.cn/49048r/6e1sy2.m3u8> |
+| 71 | 海南卫视 | 老友网 | <https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=ba2d245f1739178197> |
+| 72 | 青海卫视 | stream.qhbtv.com | <http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=9d7f2eaf1739177286> |
+| 73 | 兵团卫视 | mobilelive-timeshift.ysp.cctv.cn | <http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0> |
 
-Updated at **2/10/2025 3:07:14 PM**
+Updated at **2/10/2025 3:16:54 PM**
 
 ## 使用说明
 

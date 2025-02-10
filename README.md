@@ -15,7 +15,7 @@
 | adultiptv.net | [adultiptv_all.m3u](./adultiptv_all.m3u ) <br> [adultiptv_all.txt](./txt/adultiptv_all.txt ) | [List for adultiptv.net](./list/adultiptv_all.list ) | 25 | - |
 | vbskycn/iptv | [vbskycn_ipv4.m3u](./vbskycn_ipv4.m3u ) <br> [vbskycn_ipv4.txt](./txt/vbskycn_ipv4.txt ) | [List for vbskycn/iptv](./list/vbskycn_ipv4.list ) | 2213 | - |
 | vbskycn/iptv | [vbskycn_ipv6.m3u](./vbskycn_ipv6.m3u ) <br> [vbskycn_ipv6.txt](./txt/vbskycn_ipv6.txt ) | [List for vbskycn/iptv](./list/vbskycn_ipv6.list ) | 66 | - |
-| hujingguang/ChinaIPTV | [hujingguang_cnTV_AutoUpdate.m3u](./hujingguang_cnTV_AutoUpdate.m3u ) <br> [hujingguang_cnTV_AutoUpdate.txt](./txt/hujingguang_cnTV_AutoUpdate.txt ) | [List for hujingguang/ChinaIPTV](./list/hujingguang_cnTV_AutoUpdate.list ) | 71 | - |
+| hujingguang/ChinaIPTV | [hujingguang_cnTV_AutoUpdate.m3u](./hujingguang_cnTV_AutoUpdate.m3u ) <br> [hujingguang_cnTV_AutoUpdate.txt](./txt/hujingguang_cnTV_AutoUpdate.txt ) | [List for hujingguang/ChinaIPTV](./list/hujingguang_cnTV_AutoUpdate.list ) | 73 | - |
 | fanmingming/live demo | [fmml_demo.m3u](./fmml_demo.m3u ) <br> [fmml_demo.txt](./txt/fmml_demo.txt ) | [List for fanmingming/live demo](./list/fmml_demo.list ) | 0 | - |
 | fanmingming/live ipv6 | [fmml_ipv6.m3u](./fmml_ipv6.m3u ) <br> [fmml_ipv6.txt](./txt/fmml_ipv6.txt ) | [List for fanmingming/live ipv6](./list/fmml_ipv6.list ) | 142 | - |
 | fanmingming/live ipv6plus | [fmml_ipv6plus.m3u](./fmml_ipv6plus.m3u ) <br> [fmml_ipv6plus.txt](./txt/fmml_ipv6plus.txt ) | [List for fanmingming/live ipv6plus](./list/fmml_ipv6plus.list ) | update failed | - |
@@ -55,7 +55,7 @@
 | 全国 酒店组播源 | [ss_itv.m3u](./ss_itv.m3u ) <br> [ss_itv.txt](./txt/ss_itv.txt ) | [List for 全国 酒店组播源](./list/ss_itv.list ) | 491 | - |
 | 稳定 最新源 | [hc_cntv.m3u](./hc_cntv.m3u ) <br> [hc_cntv.txt](./txt/hc_cntv.txt ) | [List for 稳定 最新源](./list/hc_cntv.list ) | 72 | - |
 
- > Updated at **2/10/2025 3:07:14 PM**
+ > Updated at **2/10/2025 3:16:54 PM**
 
 ## 📚 EPG 节目单
 
@@ -63,11 +63,11 @@
 | --- | --- | ---------- |
 
 | EPG接口1 | [fmml.xml](./epg/fmml.xml ) | - |
-| EPG接口2 | [51zmt.xml](./epg/51zmt.xml ) | ✅ |
-| EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | ✅ |
-| EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | ✅ |
+| EPG接口2 | [51zmt.xml](./epg/51zmt.xml ) | - |
+| EPG接口3 | [51zmt_cc.xml](./epg/51zmt_cc.xml ) | - |
+| EPG接口4 | [51zmt_df.xml](./epg/51zmt_df.xml ) | - |
 
- > Updated at **2/10/2025 3:07:14 PM**
+ > Updated at **2/10/2025 3:16:54 PM**
 
 ## 🚀Github 文件加速
 
