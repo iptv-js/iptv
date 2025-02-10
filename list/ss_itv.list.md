@@ -498,7 +498,7 @@
 | 490 | 齐鲁 | IPv4 直链 | <http://124.128.73.58:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0> |
 | 491 | 龙岩综合 | IPv4 直链 | <http://117.27.190.42:9998/tsfile/live/23297_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **2/10/2025 2:51:19 PM**
+Updated at **2/10/2025 3:07:14 PM**
 
 ## 使用说明
 
